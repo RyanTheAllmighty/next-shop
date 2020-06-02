@@ -1,0 +1,109 @@
+{
+  "version": "0.3.14-fixed",
+  "steps": [
+    {
+      "tag": "CreateEnum",
+      "enum": "ShippingProvider",
+      "values": [
+        "AUSTRALIA_POST",
+        "TOLL",
+        "COURIERS_PLEASE",
+        "DHL",
+        "UPS"
+      ]
+    },
+    {
+      "tag": "CreateField",
+      "model": "Product",
+      "field": "orderedItems",
+      "type": "OrderItem",
+      "arity": "List"
+    },
+    {
+      "tag": "DeleteField",
+      "model": "Product",
+      "field": "OrderItem"
+    },
+    {
+      "tag": "CreateField",
+      "model": "Address",
+      "field": "Order",
+      "type": "Order",
+      "arity": "List"
+    },
+    {
+      "tag": "CreateField",
+      "model": "Order",
+      "field": "address",
+      "type": "Address",
+      "arity": "Required"
+    },
+    {
+      "tag": "CreateDirective",
+      "location": {
+        "path": {
+          "tag": "Field",
+          "model": "Order",
+          "field": "address"
+        },
+        "directive": "relation"
+      }
+    },
+    {
+      "tag": "CreateArgument",
+      "location": {
+        "tag": "Directive",
+        "path": {
+          "tag": "Field",
+          "model": "Order",
+          "field": "address"
+        },
+        "directive": "relation"
+      },
+      "argument": "fields",
+      "value": "[addressId]"
+    },
+    {
+      "tag": "CreateArgument",
+      "location": {
+        "tag": "Directive",
+        "path": {
+          "tag": "Field",
+          "model": "Order",
+          "field": "address"
+        },
+        "directive": "relation"
+      },
+      "argument": "references",
+      "value": "[id]"
+    },
+    {
+      "tag": "CreateField",
+      "model": "Order",
+      "field": "addressId",
+      "type": "Int",
+      "arity": "Required"
+    },
+    {
+      "tag": "CreateField",
+      "model": "Order",
+      "field": "shippingProvider",
+      "type": "ShippingProvider",
+      "arity": "Optional"
+    },
+    {
+      "tag": "CreateField",
+      "model": "Order",
+      "field": "trackingNumber",
+      "type": "String",
+      "arity": "Optional"
+    },
+    {
+      "tag": "CreateField",
+      "model": "Order",
+      "field": "shippedAt",
+      "type": "DateTime",
+      "arity": "Optional"
+    }
+  ]
+}

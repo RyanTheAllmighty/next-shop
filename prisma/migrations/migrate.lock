@@ -1,0 +1,10 @@
+# Prisma Migrate lockfile v1
+
+20200602050614-create-products-and-categories-table
+20200602050803-add-slugs
+20200602053403
+20200602053443-add-customers-and-addresses
+20200602055021-add-order-things
+20200602055336-add-timestamps-to-tables
+20200602060720-add-bank-transfer-payment-provider
+20200602062145-add-order-shipping-tracking-information
