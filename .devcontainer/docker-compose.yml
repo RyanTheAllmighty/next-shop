@@ -1,0 +1,66 @@
+version: "3"
+
+networks:
+  shared:
+
+services:
+  mysql:
+    image: mysql:8
+    container_name: mysql
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: shop
+      MYSQL_USER: shop
+      MYSQL_PASSWORD: secret
+      MYSQL_ROOT_PASSWORD: secret
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    networks:
+      - shared
+
+  redis:
+    image: redis:5-alpine
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_TAGS: dev
+      SERVICE_NAME: redis
+    networks:
+      - shared
+
+  workspace:
+    build:
+      context: ./workspace
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - mysql
+      - redis
+    user: vscode
+    environment:
+      HISTFILE: /home/vscode/history/.history
+    volumes:
+      - ..:/workspace:cached
+      - npm-deps:/workspace/node_modules
+      - vscode-extensions:/home/vscode/.vscode-server/extensions
+      - cmd-line-history:/home/vscode/history
+      - ~/.ssh:/home/vscode/.ssh
+      - ~/.gnupg/pubring.kbx:/home/vscode/.gnupg/pubring.kbx
+      - ~/.gnupg/trustdb.gpg:/home/vscode/.gnupg/trustdb.gpg
+      - ~/.gnupg/private-keys-v1.d:/home/vscode/.gnupg/private-keys-v1.d
+      - ~/.gnupg/S.gpg-agent.extra:/home/vscode/.gnupg-localhost/S.gpg-agent.extra
+    working_dir: /workspace
+    command: sleep infinity
+    networks:
+      - shared
+
+volumes:
+  npm-deps:
+  mysql-data:
+  vscode-extensions:
+  cmd-line-history:

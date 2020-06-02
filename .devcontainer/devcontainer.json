@@ -1,0 +1,17 @@
+{
+    "name": "Next Shop Dev Environment",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "workspace",
+    "shutdownAction": "stopCompose",
+    "remoteUser": "vscode",
+    "forwardPorts": [
+        5432
+    ],
+    "workspaceFolder": "/workspace",
+    "extensions": [
+        "esbenp.prettier-vscode",
+        "prisma.prisma",
+        "prisma.vscode-graphql"
+    ],
+    "postCreateCommand": "sh /opt/postCreate.sh"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "next-shop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shop powered by NextJS, Prisma and Nexus",
+  "license": "MIT",
+  "scripts": {},
+  "lint-staged": {
+    "{prisma,src}/**/*.ts": [
+      "prettier --write"
+    ],
+    "README.md": [
+      "markdown-toc -i --bullets=-"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@types/node": "^14.0.9",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.7",
+    "markdown-toc": "^1.2.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.5",
+    "ts-node": "^8.10.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.3"
+  },
+  "engines": {
+    "node": ">=12.9.0"
+  }
+}
