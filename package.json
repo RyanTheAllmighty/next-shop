@@ -5,9 +5,13 @@
   "description": "Shop powered by NextJS, Prisma and Nexus",
   "license": "MIT",
   "scripts": {
+    "build": "next build",
+    "dev": "next",
     "db:migrate:save": "prisma migrate save --experimental",
     "db:migrate:up": "prisma migrate up --experimental --verbose",
-    "generate": "prisma generate"
+    "export": "next export",
+    "generate": "prisma generate",
+    "start": "next start"
   },
   "lint-staged": {
     "{prisma,src}/**/*.ts": [
@@ -24,17 +28,26 @@
     }
   },
   "dependencies": {
-    "@prisma/client": "^2.0.0-beta.7"
+    "@prisma/client": "^2.0.0-beta.7",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.6",
+    "tailwindcss-children": "^2.1.0",
+    "tailwindcss-pseudo-elements": "^1.1.2",
+    "tailwindcss-spinner": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@prisma/cli": "^2.0.0-beta.7",
     "@types/node": "^14.0.9",
+    "@types/react": "^16.9.35",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.7",
     "markdown-toc": "^1.2.0",
     "npm-run-all": "^4.1.5",
+    "postcss-preset-env": "^6.7.0",
     "prettier": "^2.0.5",
     "ts-node": "^8.10.2",
     "ts-node-dev": "^1.0.0-pre.44",

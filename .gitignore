@@ -11,5 +11,8 @@ failed-inferMigrationSteps*
 # Nexus
 src/generated/nexus.ts
 
+# Next.js
+.next
+
 # Built files
 dist/
