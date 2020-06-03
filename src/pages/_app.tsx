@@ -12,7 +12,6 @@ const MyApp: React.SFC<AppProps & AppInitialProps> = ({ Component, pageProps }) 
             <meta httpEquiv="x-ua-compatible" content="ie=edge" />
             <title>Next Shop</title>
 
-            <link href="https://www.google-analytics.com" rel="preconnect" crossOrigin="anonymous" />
             <link href="https://fonts.gstatic.com" rel="preconnect" />
             <link href="https://fonts.googleapis.com" rel="preconnect" crossOrigin="anonymous" />
 

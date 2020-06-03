@@ -16,3 +16,6 @@ src/generated/nexus.ts
 
 # Built files
 dist/
+
+# Environment variables
+.env
