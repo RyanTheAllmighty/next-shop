@@ -8,3 +8,6 @@
 20200602055336-add-timestamps-to-tables
 20200602060720-add-bank-transfer-payment-provider
 20200602062145-add-order-shipping-tracking-information
+20200603231809-add-more-fields-and-images-brand-specifications
+20200604001144-make-brand-url-optional
+20200604002341-add-some-unique-indexes
