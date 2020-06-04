@@ -119,6 +119,7 @@ async function createProduct(product: Product): Promise<void> {
     } catch (e) {
         console.log(product);
         console.error(e);
+        process.exit(1);
     }
 }
 

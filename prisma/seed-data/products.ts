@@ -17,6 +17,7 @@ const products: Product[] = fs
     .readdirSync(path.join(__dirname, 'json'))
     .filter((filename) => filename.startsWith('products-'))
     .map((filename) => JSON.parse(fs.readFileSync(path.join(__dirname, `json/${filename}`), 'utf-8')))
-    .reduce((acc: Product[], array: Product[]) => (acc = acc.concat(array)), []) as Product[];
+    .reduce((acc: Product[], array: Product[]) => (acc = acc.concat(array)), [])
+    .filter((product: Product) => !!product.category);
 
 export default products;
