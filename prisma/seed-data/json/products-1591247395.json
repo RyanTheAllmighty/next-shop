@@ -1,0 +1,4719 @@
+[
+    {
+        "brand": "D-Link",
+        "sku": "USB011DLDUB1341",
+        "name": "D-Link DUB-1341 4 Port USB3.0 Portable Hub",
+        "description": "D-Link DUB-1341 4 Port USB3.0 Portable Hub without Power Adapter",
+        "price": 47,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003727_d-link-dub-1341-4-port-usb30-portable-hub.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Others",
+        "sku": "ACC01406-4",
+        "name": "INTACT 100\" CD Paper Envelope",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003653_intact-100-cd-paper-envelope.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "INTACT"
+            }
+        ],
+        "category": "Optical Drives"
+    },
+    {
+        "brand": "Netgear",
+        "sku": "HUBNGJGS516",
+        "name": "Netgear JGS516 Gigabit Switch",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003671_netgear-jgs516-gigabit-switch.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Netgear"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "16"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLUM01AB15",
+        "name": "Partlist UCABPLUM01AB15 1 Meter Flat Pink USB to Micro USB (MK5P) Smartphone data/charge Cable",
+        "description": "Partlist UCABPLUM01AB15 1 Meter Flat Pink USB to Micro USB (MK5P) Smartphone data/charge Cable Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003920_partlist-ucabplum01ab15-1-meter-flat-pink-usb-to-micro-usb-mk5p-smartphone-datacharge-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Micro USB 2.0"
+            },
+            {
+                "name": "Cable Length",
+                "value": "0.5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5E1500",
+        "name": "EATON 5E1500IUSB-AU 5E 1500VA/900W UPS With 3 x OUTLETS",
+        "description": "EATON  5E 1500VA/900W UPS With 3 x OUTLETS",
+        "price": 241,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003636_eaton-5e1500iusb-au-5e-1500va900w-ups-with-3-x-outlets.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "900W"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Creative",
+        "sku": "SPKCRGWT40SII",
+        "name": "Creative Gigaworks GWT40-SII T40 Series II Speakers",
+        "description": "Creative Gigaworks GWT40-SII T40 Series II 2.0 Speakers",
+        "price": 159,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012344_creative-gigaworks-gwt40-sii-t40-series-ii-speakers.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Creative"
+            },
+            {
+                "name": "Speaker Configuration",
+                "value": "2.0"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "3.5mm Jack Plug"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5E1100",
+        "name": "EATON 5E1100IUSB-AU 5E 1100VA/660W UPS With 3 x OUTLETS",
+        "description": "EATON 5E1100IUSB-AU 5E 1100VA/660W UPS With 3 x OUTLETS",
+        "price": 197,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003635_eaton-5e1100iusb-au-5e-1100va660w-ups-with-3-x-outlets.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "660W"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEW7811UN",
+        "name": "EDIMAX EW-7811Un Wireless-N Network Adapter",
+        "description": "EDIMAX EW-7811Un USB Nano Upto 150M Wireless-N Network Adapter",
+        "price": 12,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003716_edimax-ew-7811un-wireless-n-network-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "1 USB 1.0/2.0 Type A, Internal Antenna"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE802.11b, 802.11g, 802.11n"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4000~2.4835GHz (Industrial  Scientific Medical Band)"
+            },
+            {
+                "name": "Data Rate",
+                "value": "11b: 1/2/5.5/11Mbps, 11g:6/9/12/24/36/48/54Mbps, 11n (20MHz): MCS0-7 (up to 72Mbps), 11n (40MHz): MCS0-7 (up to 150Mbps)"
+            },
+            {
+                "name": "LEDs",
+                "value": "Link/Activity"
+            },
+            {
+                "name": "Security",
+                "value": "WEP 64/128, WPA, WPA2, and IEEE802.1x Software WPS configuration"
+            },
+            {
+                "name": "OUTPUT POWER",
+                "value": "11b:17 ± 1.5dbm, 11g:b:15 ± 1.5dbm, 11n:14 ± 1.5dbm"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows XP/Vista/7 / 8 Linux &amp; Mac OS"
+            },
+            {
+                "name": "RECEIVE SENSITIVITY",
+                "value": "11n(20MHz)@MCS7: -68dBm±2dBm, 11n(40MHz)@MCS7: -64dBm±2dBm, 11g@54Mbps: -71dBm±2dBm, 11b@11Mbps: -81dBm±2dBm"
+            },
+            {
+                "name": "Certification",
+                "value": "CE, FCC , WiFi"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            },
+            {
+                "name": "Interface",
+                "value": "USB 2.0"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "150M"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "CABAUDPLAUXC",
+        "name": "Partlist CABAUDPLAUXC 1M AUX Cable",
+        "description": "No Description",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003975_partlist-cabaudplauxc-1m-aux-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "PSUTTTPD0650",
+        "name": "Thermaltake (PS-TPD-0650MPCGAU-1) Toughpower 650W 80+plus Gold Semi-Modular PSU",
+        "description": "Limit 1 per customer.",
+        "price": 159,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003983_thermaltake-ps-tpd-0650mpcgau-1-toughpower-650w-80plus-gold-semi-modular-psu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V / EPS12V"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "650W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "140mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "PCI-Express Connector",
+                "value": "2 x 6+2-Pin"
+            },
+            {
+                "name": "Efficiency",
+                "value": "92% (Max)"
+            },
+            {
+                "name": "Energy-Efficient",
+                "value": "80 PLUS GOLD Certified"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "10A - 5A"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "D-Link",
+        "sku": "HUBDL98DGS108",
+        "name": "D-Link DGS-108 Gigabit Desktop Switch",
+        "description": "D-Link DGS-108 8-Port Gigabit Desktop Switch (Metal Housing)",
+        "price": 55,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012302_d-link-dgs-108-gigabit-desktop-switch.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "8"
+            },
+            {
+                "name": "PoE Type Required",
+                "value": "None"
+            },
+            {
+                "name": "Fanless",
+                "value": "Yes"
+            },
+            {
+                "name": "Housing",
+                "value": "metal"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "External Adapter"
+            },
+            {
+                "name": "Dimensions",
+                "value": "128 x 68 x 27 mm"
+            },
+            {
+                "name": "Brand",
+                "value": "D-link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEN9260TXE",
+        "name": "Edimax EN-9260TX-E Gigabit Ethernet PCI Express Network Adapter",
+        "description": "Edimax EN-9260TX-E Gigabit Ethernet PCI Express Network Adapter",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003938_edimax-en-9260tx-e-gigabit-ethernet-pci-express-network-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "PCI Express Interface, One 10/100/1000 Mbps LAN port"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, IEEE802.3x, 802.1q, 802.1p, 802.3az"
+            },
+            {
+                "name": "LEDs",
+                "value": "Link /ACT 1000M"
+            },
+            {
+                "name": "Chipset",
+                "value": "Realtek RTL8168E Single Chip"
+            },
+            {
+                "name": "System Requirements",
+                "value": "CPU: Pentium III 1G above or similar Memory size: 256MB RAM One CD-ROM drive Hard Disk: Min. of 100MB disk space One available PCI express slot OS: Novell 5.X/6.X, Windows 98/ME/2000/XP/Vista/7/8, Linux 2.4.x OS"
+            },
+            {
+                "name": "BUS ARCHITECTURE",
+                "value": "PCI V 2.3/2.2/2.1, 32-bit, 66/33MHz"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            },
+            {
+                "name": "Interface",
+                "value": "PCI-E"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "NCABCLWRCAT6001",
+        "name": "Cablelist CL-WRCAT61M 1 Meter Cat6 Water Resistance Network Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004044_cablelist-cl-wrcat61m-1-meter-cat6-water-resistance-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "PSUTTTPD0550",
+        "name": "Thermaltake (PS-TPD-0550MPCGAU-1) Toughpower 550W 80+plus Gold Semi-Modular PSU",
+        "description": "Limit 1 per customer.",
+        "price": 149,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003982_thermaltake-ps-tpd-0550mpcgau-1-toughpower-550w-80plus-gold-semi-modular-psu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V / EPS12V"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "550W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "140mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "PCI-Express Connector",
+                "value": "2 x 6+2-Pin"
+            },
+            {
+                "name": "Efficiency",
+                "value": "92% (Max)"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "10A - 5A"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLWRCAT6002",
+        "name": "Cablelist CL-WRCAT62M 2 Meter Cat6 Water Resistance Network Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004045_cablelist-cl-wrcat62m-2-meter-cat6-water-resistance-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLWNARCHERT4",
+        "name": "TP-LINK Archer T4U AC1200 Wireless Adapter",
+        "description": "TP-LINK Archer T4U AC1200 Wireless Dual Band USB3.0 Adapter",
+        "price": 54,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003643_tp-link-archer-t4u-ac1200-wireless-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "USB 3.0"
+            },
+            {
+                "name": "Button",
+                "value": "WPS button"
+            },
+            {
+                "name": "Antenna Type",
+                "value": "2 High Gain External Antennas"
+            },
+            {
+                "name": "Antenna Gain",
+                "value": "Omni Directional"
+            },
+            {
+                "name": "Wireless Standards",
+                "value": "IEEE 802.11ac, IEEE 802.11a, IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "5 GHz"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1200"
+            },
+            {
+                "name": "Security",
+                "value": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 7/ 8 / 8.1 / 10 / XP , Linux 2.6.24 ~ 4.7 Mac OS 10.9~10.13, beta for Mac 10.14"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "KBLT7K750R",
+        "name": "Logitech K750r (920-004631) Wireless Solar Keyboard",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 99,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003926_logitech-k750r-920-004631-wireless-solar-keyboard.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Samsung",
+        "sku": "MTSSS32D85KTSN",
+        "name": "Samsung 32\" S32D85KTSN 5ms 2560x1440 PIVOT HDMI DP DVI HAS  LED Backlight LCD Monitor",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 699,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004084_samsung-32-s32d85ktsn-5ms-2560x1440-pivot-hdmi-dp-dvi-has-led-backlight-lcd-monitor.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Monitor Screen Size",
+                "value": "32\""
+            },
+            {
+                "name": "Recommended Resolution",
+                "value": "2560 x 1440 (2k)"
+            },
+            {
+                "name": "Response Time",
+                "value": "5ms"
+            },
+            {
+                "name": "Panel",
+                "value": "VA"
+            },
+            {
+                "name": "Brand",
+                "value": "Samsung"
+            }
+        ],
+        "category": "Monitors"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEW7811DAC",
+        "name": "EDIMAX EW-7811DAC AC600 Wi-Fi Dual Band Directional High-Gain USB Adapter",
+        "description": "No Description",
+        "price": 39,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004088_edimax-ew-7811dac-ac600-wi-fi-dual-band-directional-high-gain-usb-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "•1 x USB 2.0 Type A •1 x Hardware WPS Button •1 x Link/Activity LED"
+            },
+            {
+                "name": "Standards",
+                "value": "•2.4GHz: IEEE 802.11b, 802.11g, 802.11n •5GHz: IEEE 802.11ac (Draft), 802.11a, 802.11n"
+            },
+            {
+                "name": "Frequency",
+                "value": "•2.4000 - 2.4835GHz (subject to local regulations) •5.150 - 5.825GHz (subject to local regulations)"
+            },
+            {
+                "name": "OUTPUT POWER",
+                "value": "•2.4GHz 11b (11Mbps): 17dBm±1.5dBm 11g (54Mbps): 15dBm±1.5dBm 11n (20MHz, MCS7): 14dBm±1.5dBm 11n (40MHz, MCS7): 14dBm±1.5dBm •5GHz 11a (54Mbps): 14dBm±1.5dBm 11n (20MHz, MCS7): 13dBm±1.5dBm 11n (40MHz, MCS7): 13dBm±1.5dBm 11ac (80MHz, MCS9): 12dBm±1.5dBm"
+            },
+            {
+                "name": "OPERATING RANGE",
+                "value": "•11a: 6/9/12/24/36/48/54Mbps •11b: 1/2/5.5/11Mbps •11g: 6/9/12/24/36/48/54Mbps •11n (20MHz): MCS0-07 (up to 72Mbps) •11n (40MHz): MCS0-07 (up to 144Mbps) •11ac (80MHz): MCS0-09 (up to 433Mbps)"
+            },
+            {
+                "name": "LEDs",
+                "value": "•Link/Activity"
+            },
+            {
+                "name": "Security",
+                "value": "•WEP 64/128-bit, WPA, WPA2, 802.1x •Hardware &amp; Software WPS Configuration"
+            },
+            {
+                "name": "Certification",
+                "value": "•CE/FCC"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            },
+            {
+                "name": "Interface",
+                "value": "USB 2.0"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC600"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "KBLT8MK220",
+        "name": "Logitech MK220 (920-003235) Wireless Desktop",
+        "description": "Logitech MK220 (920-003235) WirelessDesktop (KB+MS)",
+        "price": 39,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003788_logitech-mk220-920-003235-wireless-desktop.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            },
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "No"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "ACC01005-1",
+        "name": "Partlist ACC01005-1 Notebook / Computer Number Lock",
+        "description": "Available: Online order and delivery ONLY.  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004155_partlist-acc01005-1-notebook-computer-number-lock.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "HODA",
+        "sku": "BAGGB",
+        "name": "Gigabyte P1640 TEGRA NOTE 7 Case Cover",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0003985_gigabyte-p1640-tegra-note-7-case-cover.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Microsoft",
+        "sku": "KBMS9Z00028",
+        "name": "Microsoft Wireless All-in-One Media Keyboard (N9Z-00028)",
+        "description": "Microsoft N9Z-00028 All-In-One Media Wireless Keyboard with Integrated Multi-Touch Trackpad",
+        "price": 54,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004149_microsoft-wireless-all-in-one-media-keyboard-n9z-00028.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "M.SPEC"
+            },
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "No"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Brand",
+                "value": "Microsoft"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMHP5101ES",
+        "name": "EDIMAX HP-5101ES",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 45,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004117_edimax-hp-5101es.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Networking"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEW7722U",
+        "name": "EDIMAX (EW-7722UTn) 300M 2T2R 802.11n Mini USB adapter",
+        "description": "EDIMAX EW-7722UTn 300M 2T2R 802.11n Mini USB adapter",
+        "price": 23,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004087_edimax-ew-7722utn-300m-2t2r-80211n-mini-usb-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "1 x USB 1.0/2.0 Type A, Hardware WPS button, 2 x Internal Antenna"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE802.11b, 802.11g, 802.11n"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4000~2.4835GHz (Industrial  Scientific Medical Band)"
+            },
+            {
+                "name": "Data Rate",
+                "value": "11b: 1/2/5.5/11Mbps, 11g:6/9/12/24/36/48/54Mbps, 11n (20MHz): MCS0-15 (up to 144Mbps), 11n (40MHz): MCS0-15 (up to 300Mbps)"
+            },
+            {
+                "name": "LEDs",
+                "value": "Link/Activity"
+            },
+            {
+                "name": "Wireless Security",
+                "value": "WEP 64/128, WPA, WPA2, 802.1x, Cisco CCX Support, Hardware and Software WPS configuration"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 2000/ XP/ Vista/ 7 / 8"
+            },
+            {
+                "name": "OUTPUT POWER",
+                "value": "11n: 12dBm±1dBm, 11g: 17dBm±1dBm, 11b: 17dBm±1dBm"
+            },
+            {
+                "name": "Certification",
+                "value": "CE, FCC"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            },
+            {
+                "name": "Interface",
+                "value": "USB 2.0"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "300M"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEW7811UAC",
+        "name": "EDIMAX EW-7811UAC",
+        "description": "EDIMAX EW-7811UAC AC600 Wireless Mini Dual-Band USB Adapter (High Gain 2.4/5G 5dBi/7dBi)",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004116_edimax-ew-7811uac.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "•1 x USB 2.0 Type A •1 x Hardware WPS Button •1 x Link/Activity LED"
+            },
+            {
+                "name": "Standards",
+                "value": "•2.4GHz: IEEE 802.11b, 802.11g, 802.11n •5GHz: IEEE 802.11ac (Draft), 802.11a, 802.11n"
+            },
+            {
+                "name": "Frequency",
+                "value": "•2.4000 - 2.4835GHz (subject to local regulations) •5.150 - 5.825GHz (subject to local regulations)"
+            },
+            {
+                "name": "OUTPUT POWER",
+                "value": "•2.4GHz 11b (11Mbps): 17dBm±1.5dBm 11g (54Mbps): 15dBm±1.5dBm 11n (20MHz, MCS7): 14dBm±1.5dBm 11n (40MHz, MCS7): 14dBm±1.5dBm •5GHz 11a (54Mbps): 14dBm±1.5dBm 11n (20MHz, MCS7): 13dBm±1.5dBm 11n (40MHz, MCS7): 13dBm±1.5dBm 11ac (80MHz, MCS9): 12dBm±1.5dBm"
+            },
+            {
+                "name": "OPERATING RANGE",
+                "value": "•11a: 6/9/12/24/36/48/54Mbps •11b: 1/2/5.5/11Mbps •11g: 6/9/12/24/36/48/54Mbps •11n (20MHz): MCS0-07 (up to 72Mbps) •11n (40MHz): MCS0-07 (up to 144Mbps) •11ac (80MHz): MCS0-09 (up to 433Mbps)"
+            },
+            {
+                "name": "LEDs",
+                "value": "•Link/Activity"
+            },
+            {
+                "name": "Security",
+                "value": "•WEP 64/128-bit, WPA, WPA2, 802.1x •Hardware &amp; Software WPS Configuration"
+            },
+            {
+                "name": "Certification",
+                "value": "•CE/FCC"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            },
+            {
+                "name": "Interface",
+                "value": "USB 2.0"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC600"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLWN781ND",
+        "name": "TP-LINK TL-WN781ND PCI-E 150M Wireless-N Network Card",
+        "description": "TP-LINK TL-WN781ND PCI-E 150M Wireless-N Network Card",
+        "price": 17,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012580_tp-link-tl-wn781nd-pci-e-150m-wireless-n-network-card.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "PCI-E"
+            },
+            {
+                "name": "Antenna Type",
+                "value": "Detachable Omni Directional (RP-SMA)"
+            },
+            {
+                "name": "Antenna Gain",
+                "value": "2dBi"
+            },
+            {
+                "name": "Wireless Standards",
+                "value": "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 10(32/64bits), Windows 8.1/8(32/64bits), Windows 7(32/64bits), Windows Vista(32/64bits), Windows XP(32/64bits)"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Orico",
+        "sku": "ACC004ORPHB35BK",
+        "name": "Orico PHB35-5-BK 5 Bay Protective Plastic 3.5\" HDD BOX Black Tool Free Design and Anti-Skid",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004201_orico-phb35-5-bk-5-bay-protective-plastic-35-hdd-box-black-tool-free-design-and-anti-skid.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLWNARCHERT2",
+        "name": "TP-LINK Archer T2U AC600 Wireless Dual Band USB Adapter",
+        "description": "TP-LINK Archer T2U AC600 Wireless Dual Band USB Adapter",
+        "price": 39,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004288_tp-link-archer-t2u-ac600-wireless-dual-band-usb-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "USB 2.0"
+            },
+            {
+                "name": "Wireless Standards",
+                "value": "IEEE 802.11ac, IEEE 802.11a, IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "5 GHz"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC600"
+            },
+            {
+                "name": "Security",
+                "value": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 10/8.1/8/7/XP (32/64bits), Mac OS X 10.7-10.11(beta for 10.12-10.13), Linux"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "CASETTH25",
+        "name": "Thermaltake Black Versa H25 CA-1C2-00M1NN-00",
+        "description": "Thermaltake Black Versa H25 CA-1C2-00M1NN-00 USB3.0 Mid Tower Case without PSU",
+        "price": 69,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004287_thermaltake-black-versa-h25-ca-1c2-00m1nn-00.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "Case Type",
+                "value": "Mid Tower"
+            },
+            {
+                "name": "With Power Supply",
+                "value": "No"
+            },
+            {
+                "name": "Motherboard Compatibility",
+                "value": "Micro ATX"
+            },
+            {
+                "name": "Side Panel Window",
+                "value": "No"
+            },
+            {
+                "name": "Internal 3.5\" Drive Bays",
+                "value": "3"
+            },
+            {
+                "name": "Internal 2.5\" Drive Bays",
+                "value": "3"
+            },
+            {
+                "name": "5.25\" Drive Bays",
+                "value": "2"
+            }
+        ],
+        "category": "Case"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "COOLNTNHD15",
+        "name": "Noctua NH-D15 CPU Cooler (Universal)",
+        "description": "Noctua NH-D15 Multi Socket PWM CPU Cooler (Universal)",
+        "price": 159,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004255_noctua-nh-d15-cpu-cooler-universal.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Noctua"
+            },
+            {
+                "name": "Fan size",
+                "value": "140mm"
+            },
+            {
+                "name": "LED light",
+                "value": "No LED"
+            },
+            {
+                "name": "Cooler Type",
+                "value": "Air Cooler"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "NCPCMNPU3PLUSBK",
+        "name": "Coolermaster Notepal-U3 Plus (R9-NBC-U3PK) Black Notebook Cooler Pad Supports up to 19\"",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 45,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004426_coolermaster-notepal-u3-plus-r9-nbc-u3pk-black-notebook-cooler-pad-supports-up-to-19.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            }
+        ],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "CASETTH24",
+        "name": "Thermaltake Black Versa H24 CA-1C1-00M1NN-00 USB3.0 Mid Tower Case without PSU",
+        "description": "Thermaltake Black Versa H24 CA-1C1-00M1NN-00 USB3.0 Mid Tower Case without PSU",
+        "price": 69,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004259_thermaltake-black-versa-h24-ca-1c1-00m1nn-00-usb30-mid-tower-case-without-psu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "Case Type",
+                "value": "Mid Tower"
+            },
+            {
+                "name": "With Power Supply",
+                "value": "No"
+            },
+            {
+                "name": "Side Panel Window",
+                "value": "No"
+            }
+        ],
+        "category": "Case"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLWN722N",
+        "name": "TP-LINK TL-WN722N 150M Wireless-N High Gain USB Adapter with Antenna",
+        "description": "TP-LINK TL-WN722N 150M Wireless-N High Gain USB Adapter with Antenna",
+        "price": 16,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004297_tp-link-tl-wn722n-150m-wireless-n-high-gain-usb-adapter-with-antenna.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "USB 2.0"
+            },
+            {
+                "name": "Button",
+                "value": "WPS Button"
+            },
+            {
+                "name": "Antenna Type",
+                "value": "Detachable Omni Directional (RP-SMA)"
+            },
+            {
+                "name": "Wireless Standards",
+                "value": "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "150M"
+            },
+            {
+                "name": "Security",
+                "value": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows XP/7/8/8.1/10(32/64bits), Linux 2.6.18 ~ 4.4.3 Mac OS 10.9~10.13, beta for Mac 10.1"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "MSLT8M185RED",
+        "name": "Logitech M185 (910-002503) Red Wireless Mouse",
+        "description": "Logitech M185 (910-002503) Red Wireless Mouse",
+        "price": 18,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004431_logitech-m185-910-002503-red-wireless-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDDVI2M",
+        "name": "Partlist PL-DVI2M 2 Meter M-M DVI-D 241 Dual Link Cable",
+        "description": "Partlist PL-DVI2M 2 Meter M-M DVI-D 24+1 Dual Link Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004439_partlist-pl-dvi2m-2-meter-m-m-dvi-d-241-dual-link-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "CAB01PLPL1M",
+        "name": "Partlist CAB01PLPL1M 1M Phone Line Cable",
+        "description": "No Description",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "SPKLTZ213",
+        "name": "Logitech Z213 (980-000941) 2.1 Speaker",
+        "description": "Logitech Z213 (980-000941) 2.1 Speaker",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004272_logitech-z213-980-000941-21-speaker.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            },
+            {
+                "name": "Speaker Configuration",
+                "value": "2.1"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "3.5mm Jack Plug"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDDVI5M",
+        "name": "Partlist PL-DVI5M 5 Meter M-M DVI-D 241 Dual Link Cable",
+        "description": "Partlist PL-DVI5M 5 Meter M-M DVI-D 24+1 Dual Link Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004469_partlist-pl-dvi5m-5-meter-m-m-dvi-d-241-dual-link-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLODCPE510",
+        "name": "TP-LINK (CPE510) 5GHz 300Mbps 13dBi Outdoor CPE",
+        "description": "TP-LINK CPE510 5GHz 300Mbps 13dBi Outdoor CPE",
+        "price": 79,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004467_tp-link-cpe510-5ghz-300mbps-13dbi-outdoor-cpe.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "300M"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "BATTLPB10400",
+        "name": "TP-LINK TL-PB10400 10400mAh 2xUSB Power Bank Battery",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 34,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004369_tp-link-tl-pb10400-10400mah-2xusb-power-bank-battery.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDP3M",
+        "name": "Partlist PL-DP3M 3 Meter DisplayPort M-M Cable",
+        "description": "Partlist PL-DP3M 3 Meter DisplayPort M-M Cable",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015049_partlist-pl-dp3m-3-meter-displayport-m-m-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPDVI02",
+        "name": "Partlist PL-DPDVI2M 2 Meter DisplayPort to DVI Male Cable",
+        "description": "Partlist PL-DPDVI2M 2 Meter DisplayPort to DVI Male Cable",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015050_partlist-pl-dpdvi2m-2-meter-displayport-to-dvi-male-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPDVI03",
+        "name": "Partlist PL-DPDVI3M 3 Meter DisplayPort to DVI Male Cable",
+        "description": "Partlist PL-DPDVI3M 3 Meter DisplayPort to DVI Male Cable",
+        "price": 11,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015051_partlist-pl-dpdvi3m-3-meter-displayport-to-dvi-male-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLWRCAT6300",
+        "name": "Cablelist CL-WRCAT6300M 300 Meter Cat6 Water Resistance Network Cable",
+        "description": "Cablelist CL-WRCAT6300M 300 Meter Cat6 Water Resistance Network CableClearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004052_cablelist-cl-wrcat6300m-300-meter-cat6-water-resistance-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPHDMI03",
+        "name": "Partlist PL-DPHDMI3M 3 Meter DisplayPort to HDMI Cable",
+        "description": "Partlist PL-DPHDMI3M 3 Meter DisplayPort to HDMI Cable",
+        "price": 11,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015053_partlist-pl-dphdmi3m-3-meter-displayport-to-hdmi-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPMDP05",
+        "name": "Partlist PL-DPMiniDP5M 5 Meter DisplayPort to Mini DisplayPort Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004481_partlist-pl-dpminidp5m-5-meter-displayport-to-mini-displayport-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPMDP02",
+        "name": "Partlist PL-DPMiniDP2M 2 Meter DisplayPort to Mini DisplayPort Cable",
+        "description": "Partlist PL-DPMiniDP2M 2 Meter DisplayPort to Mini DisplayPort Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004479_partlist-pl-dpminidp2m-2-meter-displayport-to-mini-displayport-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Mini Display Port"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPMDPHDMI",
+        "name": "Partlist PL-MiniDPHDMI 20cm Mini DisplayPort to HDMI Cable",
+        "description": "Partlist PL-MiniDPHDMI 20cm Mini DisplayPort to HDMI Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004483_partlist-pl-minidphdmi-20cm-mini-displayport-to-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini Display Port"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Female)"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDVIHD2M",
+        "name": "Partlist PL-DVIHD2M 2 Meter M-M DVI-HDMI Dual Link Cable",
+        "description": "Partlist PL-DVIHD2M 2 Meter M-M DVI-HDMI Dual Link Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004484_partlist-pl-dvihd2m-2-meter-m-m-dvi-hdmi-dual-link-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDVIHD3M",
+        "name": "Partlist PL-DVIHD3M 3 Meter M-M DVI-HDMI Dual Link Cable",
+        "description": "Partlist PL-DVIHD3M 3 Meter M-M DVI-HDMI Dual Link Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004485_partlist-pl-dvihd3m-3-meter-m-m-dvi-hdmi-dual-link-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14FMM01",
+        "name": "Partlist PL-V1.4FHD1M 1 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD1M 1 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004487_partlist-pl-v14fhd1m-1-meter-flat-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14FMM02",
+        "name": "Partlist PL-V1.4FHD2M 2 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD2M 2 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004488_partlist-pl-v14fhd2m-2-meter-flat-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPHDMI02",
+        "name": "Partlist PL-DPHDMI2M 2 Meter DisplayPort to HDMI Cable",
+        "description": "Partlist PL-DPHDMI2M 2 Meter DisplayPort to HDMI Cable",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015052_partlist-pl-dphdmi2m-2-meter-displayport-to-hdmi-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14FMM05",
+        "name": "Partlist PL-V1.4FHD5M 5 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD5M 5 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004490_partlist-pl-v14fhd5m-5-meter-flat-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14FMM03",
+        "name": "Partlist PL-V1.4FHD3M 3 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD3M 3 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004489_partlist-pl-v14fhd3m-3-meter-flat-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDPMDPDVI",
+        "name": "Partlist PL-MiniDPDVI 20cm Mini DisplayPort to DVI Cable",
+        "description": "Partlist PL-MiniDPDVI 20cm Mini DisplayPort to DVI Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004482_partlist-pl-minidpdvi-20cm-mini-displayport-to-dvi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini Display Port"
+            },
+            {
+                "name": "Connector",
+                "value": "DVI (Female)"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDVIHD5M",
+        "name": "Partlist PL-DVIHD5M 5 Meter M-M DVI-HDMI Dual Link Cable",
+        "description": "Partlist PL-DVIHD5M 5 Meter M-M DVI-HDMI Dual Link Cable",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004486_partlist-pl-dvihd5m-5-meter-m-m-dvi-hdmi-dual-link-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14MM02",
+        "name": "Partlist PL-V1.4FHD2M 2 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD2M 2 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004493_partlist-pl-v14fhd2m-2-meter-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14MM05",
+        "name": "Partlist PL-V1.4FHD5M 5 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD5M 5 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0013048_partlist-pl-v14fhd5m-5-meter-v14-3d-m-m-hdmi-hdmi-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14MM01",
+        "name": "Partlist PL-V1.4FHD1M 1 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD1M 1 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004492_partlist-pl-v14fhd1m-1-meter-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14MM03",
+        "name": "Partlist PL-V1.4HD3M 3 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4HD3M 3 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004494_partlist-pl-v14hd3m-3-meter-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14FMM10",
+        "name": "Partlist PL-V1.4FHD10M 10 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD10M 10 Meter Flat V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 11,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004491_partlist-pl-v14fhd10m-10-meter-flat-v14-3d-m-m-hdmi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "10M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLHH14MM10",
+        "name": "Partlist PL-V1.4FHD10M 10 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "description": "Partlist PL-V1.4FHD10M 10 Meter V1.4 3D M-M HDMI-HDMI Cable",
+        "price": 14,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0013050_partlist-pl-v14fhd10m-10-meter-v14-3d-m-m-hdmi-hdmi-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "10M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDP2M",
+        "name": "Partlist PL-DP2M 2 Meter DisplayPort M-M Cable",
+        "description": "Partlist PL-DP2M 2 Meter DisplayPort M-M Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015048_partlist-pl-dp2m-2-meter-displayport-m-m-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLVVMM02",
+        "name": "Partlist PL-VGAPRE2M 2 Meter Premium M-M VGA Cable",
+        "description": "Partlist PL-VGAPRE2M 2 Meter Premium M-M VGA Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004501_partlist-pl-vgapre2m-2-meter-premium-m-m-vga-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "VGA"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLNH14MM01",
+        "name": "Partlist PL-HDMINIHD-1M 1 Meter V1.4 M-M Mini HDMI to HDMI Cable",
+        "description": "Partlist PL-HDMINIHD-1M 1 Meter V1.4 M-M Mini HDMI to HDMI Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004498_partlist-pl-hdminihd-1m-1-meter-v14-m-m-mini-hdmi-to-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Mini HDMI"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Brateck",
+        "sku": "MKBTTSLDT02C012",
+        "name": "Brateck BT-LDT02-C012 Single LCD Monitor Table Stand w/Arm Desk Clamp",
+        "description": "Brateck BT-LDT02-C012 Single LCD Monitor Table Stand w/Arm & Desk Clamp VESA 75/100mm Up to 24\"",
+        "price": 79,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012097_brateck-bt-ldt02-c012-single-lcd-monitor-table-stand-warm-desk-clamp.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Brateck"
+            }
+        ],
+        "category": "Mounting  Bracket"
+    },
+    {
+        "brand": "Brateck",
+        "sku": "MKBTTSLDT02C024",
+        "name": "Brateck BT-LDT02-C024 Dual LCD Monitor Flexi Arm Table Stand w/Arm Desk Clamp",
+        "description": "Brateck BT-LDT02-C024 Dual LCD Monitor Flexi Arm Table Stand w/Arm & Desk Clamp VESA 75/100mm",
+        "price": 99,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004504_brateck-bt-ldt02-c024-dual-lcd-monitor-flexi-arm-table-stand-warm-desk-clamp.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Brateck"
+            }
+        ],
+        "category": "Mounting  Bracket"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLVVMM05",
+        "name": "Partlist PL-VGAPRE5M 5 Meter Premium M-M VGA Cable",
+        "description": "Partlist PL-VGAPRE5M 5 Meter Premium M-M VGA Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004502_partlist-pl-vgapre5m-5-meter-premium-m-m-vga-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "VGA"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Brateck",
+        "sku": "MKBTWMPLB42",
+        "name": "Brateck BT-PLB42 Plasma/LCD TV Ultra-Slim Tilting Wall Bracket",
+        "description": "Brateck BT-PLB42 Plasma/LCD TV Ultra-Slim Tilting Wall Bracket up to 55\" with Spirit Level",
+        "price": 38,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012044_brateck-bt-plb42-plasmalcd-tv-ultra-slim-tilting-wall-bracket.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012045_brateck-bt-plb42-plasmalcd-tv-ultra-slim-tilting-wall-bracket.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Brateck"
+            }
+        ],
+        "category": "Mounting  Bracket"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLMHHHMM015",
+        "name": "Partlist PL-HDMRHD-1.5M 1.5 Meter V1.4 M-M Micro HDMI to HDMI Cable",
+        "description": "Partlist PL-HDMRHD-1.5M 1.5 Meter V1.4 M-M Micro HDMI to HDMI Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004495_partlist-pl-hdmrhd-15m-15-meter-v14-m-m-micro-hdmi-to-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Micro HDMI"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1.5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6000",
+        "name": "Partlist PL-CAT6E0.5M 50cm Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E0.5M 50cm Cat6e Network Cable",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004509_partlist-pl-cat6e05m-50cm-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "0.5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLMHHHMM03",
+        "name": "Partlist PL-HDMRHD-3M 3 Meter V1.4 M-M Micro HDMI to HDM Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004497_partlist-pl-hdmrhd-3m-3-meter-v14-m-m-micro-hdmi-to-hdm-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLNH14MM02",
+        "name": "Partlist PL-HDMINIHD-2M 2 Meter V1.4 M-M Mini HDMI to HDMI Cable",
+        "description": "Partlist PL-HDMINIHD-2M 2 Meter V1.4 M-M Mini HDMI to HDMI Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004499_partlist-pl-hdminihd-2m-2-meter-v14-m-m-mini-hdmi-to-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini HDMI"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6001",
+        "name": "Partlist PL-CAT6E1M 1 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E1M 1 Meter Cat6e Network Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004510_partlist-pl-cat6e1m-1-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6002",
+        "name": "Partlist PL-CAT6E2M 2 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E2M 2 Meter Cat6e Network Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004511_partlist-pl-cat6e2m-2-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6010",
+        "name": "Partlist PL-CAT6E10M 10 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E10M 10 Meter Cat6e Network Cable",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004514_partlist-pl-cat6e10m-10-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "10M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6005",
+        "name": "Partlist PL-CAT6E5M 5 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E5M 5 Meter Cat6e Network Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004513_partlist-pl-cat6e5m-5-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "CABPWMNTNASRC7",
+        "name": "Noctua NA-SRC7 Black 11cm 4Pin PWM Fan Low Noise Adapter Cables (3 Pack)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004536_noctua-na-src7-black-11cm-4pin-pwm-fan-low-noise-adapter-cables-3-pack.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6020",
+        "name": "Partlist PL-CAT6E20M 20 Meter Cat6e Network Cable",
+        "description": "No Description",
+        "price": 14,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004515_partlist-pl-cat6e20m-20-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "20M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6030",
+        "name": "Partlist PL-CAT6E30M 30 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E30M 30 Meter Cat6e Network Cable",
+        "price": 20,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004516_partlist-pl-cat6e30m-30-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "30M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "COOLNT7RDNFR8",
+        "name": "Noctua NF-R8-REDUX-1800-PWM 80mm NF-R8 Redux Edition PWM Case Fan (Max 1800PRM)",
+        "description": "Noctua NF-R8-REDUX-1800-PWM 80mm NF-R8 Redux Edition PWM Case Fan (Max 1800PRM)",
+        "price": 22,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004542_noctua-nf-r8-redux-1800-pwm-80mm-nf-r8-redux-edition-pwm-case-fan-max-1800prm.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Noctua"
+            },
+            {
+                "name": "Fan size",
+                "value": "80mm"
+            },
+            {
+                "name": "LED light",
+                "value": "No LED"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLPA4010PKIT",
+        "name": "TP-LINK TL-PA4010PKIT 500Mbps Powerline Adapter Kit with AC Pass Through",
+        "description": "TP-LINK TL-PA4010PKIT 500Mbps Powerline Adapter Kit with AC Pass Through",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004524_tp-link-tl-pa4010pkit-500mbps-powerline-adapter-kit-with-ac-pass-through.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Plug Type",
+                "value": "AU"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE802.3, IEEE802.3u"
+            },
+            {
+                "name": "Interface",
+                "value": "Ethernet Port, Power Socket"
+            },
+            {
+                "name": "Powerline Range",
+                "value": "300 Meters over electrical circuit"
+            },
+            {
+                "name": "Security",
+                "value": "128-bit AES Encryption"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 8/7/Vista/XP/2000, Mac OS, Linux"
+            },
+            {
+                "name": "Powerline Speeds",
+                "value": "500Mbps"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6003",
+        "name": "Partlist PL-CAT6E3M 3 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E3M 3 Meter Cat6e Network Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004512_partlist-pl-cat6e3m-3-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "NICASPCEAC56",
+        "name": "Asus PCE-AC56 Dual Band Wireless AC1300 PCI-E Adapter",
+        "description": "Asus PCE-AC56 Dual Band Wireless AC1300 PCI-E Adapter",
+        "price": 75,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004620_asus-pce-ac56-dual-band-wireless-ac1300-pci-e-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Standards",
+                "value": "IEEE 802.11 a/b/g/n/ac"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1300"
+            },
+            {
+                "name": "Interface",
+                "value": "PCI-E"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1300"
+            },
+            {
+                "name": "Antenna",
+                "value": "2 x R SMA Antenna"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "5 GHz"
+            },
+            {
+                "name": "Security",
+                "value": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPA-Enterprise , WPA2-Enterprise"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows® 8.1  32bit/64bit , Windows® 8  n32bit/64bit , Windows® 7  32bit/64bit ,  Windows® Vista  32bit/64bit , Windows® XP , 32bit/64bit"
+            },
+            {
+                "name": "Brand",
+                "value": "Asus"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "USBPLU2OTGBK",
+        "name": "Partlist PL-U2OTGBK Black OTG USB2.0 Card Reader",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "PSUCSHX0850I",
+        "name": "Corsair CMPSU-HX850i(CP-9020073-AU)  850Watt Digital 80Plus Platinum Full Modular ATX Power Supply",
+        "description": "Corsair CMPSU-HX850i(CP-9020073-AU)  850Watt Digital 80Plus Platinum Full Modular ATX Power Supply",
+        "price": 280,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004639_corsair-cmpsu-hx850icp-9020073-au-850watt-digital-80plus-platinum-full-modular-atx-power-supply.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V V2.4"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "850W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "140mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "Main Connector",
+                "value": "24Pin"
+            },
+            {
+                "name": "+12V Rails",
+                "value": "Single"
+            },
+            {
+                "name": "PSU Modular",
+                "value": "Full Modular"
+            },
+            {
+                "name": "Energy-Efficient",
+                "value": "80 PLUS PLATINUM Certified"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "12"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "USBPLU3CREXTHB",
+        "name": "Partlist PL-U3CAREADER-EXT-THUMB Black Thumb Size USB2.0 All-In-One External Card Reader",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004700_partlist-pl-u3careader-ext-thumb-black-thumb-size-usb20-all-in-one-external-card-reader.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Card Readers"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "MSLT9G402",
+        "name": "Logitech G402 (910-004070) Hyperion Fury Ultra-Fast FPS Gaming Mouse",
+        "description": "Logitech G402 (910-004070) Hyperion Fury Ultra-Fast FPS Gaming Mouse",
+        "price": 69,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012433_logitech-g402-910-004070-hyperion-fury-ultra-fast-fps-gaming-mouse.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "4000 DPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "USBPLU2OTGBL",
+        "name": "Partlist PL-U2OTGBL Blue OTG USB2.0 Card Reader",
+        "description": "Clearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Card Readers"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "KVMATENVS381",
+        "name": "Aten VS381 3-Port HDMI Switch",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 39,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012082_aten-vs381-3-port-hdmi-switch.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012081_aten-vs381-3-port-hdmi-switch.gif"
+            }
+        ],
+        "specifications": [],
+        "category": "Promotion"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "USBPLU3CREXTHW",
+        "name": "Partlist PL-U3CAREADER-EXT-THUMB White Thumb Size USB2.0 All-In-One External Card Reader",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004701_partlist-pl-u3careader-ext-thumb-white-thumb-size-usb20-all-in-one-external-card-reader.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Card Readers"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "COOLNT7RDNFS12B",
+        "name": "Noctua NF-S12B-REDUX-1200-PWM 120mm NF-12B Redux Edition PWM Case Fan (Max 1200PRM)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004543_noctua-nf-s12b-redux-1200-pwm-120mm-nf-12b-redux-edition-pwm-case-fan-max-1200prm.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Noctua"
+            },
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "No LED"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD02NAS6TB",
+        "name": "WD 3.5\" Red NAS 6TB (WD60EFRX) 64M SATA3 HDD",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 295,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004571_wd-35-red-nas-6tb-wd60efrx-64m-sata3-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "6TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "64MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "COOLCMCFSXDP20G",
+        "name": "Coolermaster Sickleflow X 120mm Green LED (R4-SXDP-20FG-A1) 2000RPM Case Fan",
+        "description": "No Description",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004787_coolermaster-sickleflow-x-120mm-green-led-r4-sxdp-20fg-a1-2000rpm-case-fan.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            },
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "GREEN"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "COOLCMCFSXDP20R",
+        "name": "Coolermaster Sickleflow X 120mm Red LED (R4-SXDP-20FR-A1) 2000RPM Case Fan",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 11,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004788_coolermaster-sickleflow-x-120mm-red-led-r4-sxdp-20fr-a1-2000rpm-case-fan.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "RED"
+            },
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Orico",
+        "sku": "PACORDCP5UBK",
+        "name": "Orico DCP-5U-BK 4 Port USB Charging Station for iPhone/iPad/Cellphone/Tablet",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004750_orico-dcp-5u-bk-4-port-usb-charging-station-for-iphoneipadcellphonetablet.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "USBPLU3HB7PBK",
+        "name": "Partlist PL-U3HB7PBK 7 Port USB3.0 Hub Black (Without Power Adapter)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLHH14FMM30",
+        "name": "Cablelist CL-V1.4FHD30M 30 Meter FLAT V1.4 3D M-M HDMI-HDMI Gold Plated Copper Cable",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 57,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004975_cablelist-cl-v14fhd30m-30-meter-flat-v14-3d-m-m-hdmi-hdmi-gold-plated-copper-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "USBPLU2OTGWH",
+        "name": "Partlist PL-U2OTGWH White OTG USB2.0 Card Reader",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004702_partlist-pl-u2otgwh-white-otg-usb20-card-reader.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Card Readers"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLARCHERC9",
+        "name": "TP-Link Archer C9 AC1900 Wireless Dual Band Router with 4 Port Gigabit Switch",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 147,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014215_tp-link-archer-c9-ac1900-wireless-dual-band-router-with-4-port-gigabit-switch.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014216_tp-link-archer-c9-ac1900-wireless-dual-band-router-with-4-port-gigabit-switch.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014217_tp-link-archer-c9-ac1900-wireless-dual-band-router-with-4-port-gigabit-switch.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004960_tp-link-archer-c9-ac1900-wireless-dual-band-router-with-4-port-gigabit-switch.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1900"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "5 GHz"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Others",
+        "sku": "BAG01301",
+        "name": "Deluxe Netbook/Notebook bag",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Fractal Design",
+        "sku": "CASEFDR5BK",
+        "name": "Fractal Design FD-CA-DEFR5-BK Define R5 Black USB3 Mid Tower Case Without PSU",
+        "description": "Available: Online order and delivery ONLY.  \nProduct with limited quantity. While stocks last.",
+        "price": 179,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004963_fractal-design-fd-ca-defr5-bk-define-r5-black-usb3-mid-tower-case-without-psu.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Case"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTL9995-3468",
+        "name": "TP-LINK TG-3468 Gigabit PCI-E Network Card",
+        "description": "TP-LINK TG-3468 Gigabit PCI-E Network Card",
+        "price": 17,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004914_tp-link-tg-3468-gigabit-pci-e-network-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Standards",
+                "value": "IEEE 802.3, 802.3u, 802.3ab, 802.3x, 802.1q, 802.1p, CSMA / CD, TCP / IP"
+            },
+            {
+                "name": "Connection Speeds",
+                "value": "10/100/1000M"
+            },
+            {
+                "name": "Connection",
+                "value": "1 x RJ45"
+            },
+            {
+                "name": "Interface",
+                "value": "PCI-E"
+            },
+            {
+                "name": "LEDs",
+                "value": "1000 Mbps Link / Act, 100 Mbps Link / Act, 10 Mbps Link / Act"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 7 (32 / 64-bit), Windows Vista (32 / 64 -bit), Window XP (32 / 64-bit)"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6025",
+        "name": "Partlist PL-CAT6E25M 25 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E25M 25 Meter Cat6e Network Cable",
+        "price": 18,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005012_partlist-pl-cat6e25m-25-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "25M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Fuji Xerox",
+        "sku": "INK02FU355BK",
+        "name": "Generic Compatible FujiXerox 355 (CT201937) Black 4000pages Toner for M355df/P355D/P355db",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 48,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004846_generic-compatible-fujixerox-355-ct201937-black-4000pages-toner-for-m355dfp355dp355db.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLHH14MM30",
+        "name": "Cablelist CL-V1.4HD30M 30 Meter V1.4 3D M-M HDMI-HDMI Gold Plated Copper Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 52,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004979_cablelist-cl-v14hd30m-30-meter-v14-3d-m-m-hdmi-hdmi-gold-plated-copper-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "KBLT8MK345",
+        "name": "Logitech MK345 (920-006491) Wireless Desktop (KB and MS)",
+        "description": "Logitech MK345 (920-006491) Wireless Desktop (KB+MS)",
+        "price": 58,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005021_logitech-mk345-920-006491-wireless-desktop-kb-and-ms.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            },
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "No"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Logitech",
+        "sku": "MSLT9G302",
+        "name": "Logitech G302 (910-004210) Daedalus Prime MOBA Gaming Mouse",
+        "description": "Logitech G302 (910-004210) Daedalus Prime MOBA Gaming Mouse",
+        "price": 64,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005022_logitech-g302-910-004210-daedalus-prime-moba-gaming-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Logitech"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "4000 DPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5S0550",
+        "name": "EATON 5S550AU 5S 550VA/300W UPS",
+        "description": "EATON 5S550AU 5S 550VA/300W UPS",
+        "price": 139,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005029_eaton-5s550au-5s-550va300w-ups.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "300W"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5S0850",
+        "name": "EATON 5S850AU 5S 850VA/510W UPS",
+        "description": "EATON 5S850AU 5S 850VA/510W UPS",
+        "price": 218,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005031_eaton-5s850au-5s-850va510w-ups.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "510w"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "UCABCLU2UM03AB",
+        "name": "Cablelist CL-U2AMRU2-3M 3 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "description": "Cablelist CL-U2AMRU2-3M 3 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005064_cablelist-cl-u2amru2-3m-3-meter-usb20-am-to-micro-usb20-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU201AMAM",
+        "name": "Partlist PL-U2AMAM1M 1 Meter USB2.0 AM-AM Cable",
+        "description": "Partlist PL-U2AMAM1M 1 Meter USB2.0 AM-AM Cable",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005065_partlist-pl-u2amam1m-1-meter-usb20-am-am-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5S1200",
+        "name": "EATON 5S1200AU 5S 1200VA/750W UPS",
+        "description": "EATON 5S1200AU 5S 1200VA/750W UPS",
+        "price": 322,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005032_eaton-5s1200au-5s-1200va750w-ups.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "750W"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "UCABCLU2UM02AB",
+        "name": "Cablelist CL-U2AMRU2-2M 2 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "description": "Cablelist CL-U2AMRU2-2M 2 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005063_cablelist-cl-u2amru2-2m-2-meter-usb20-am-to-micro-usb20-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "UCABPLU202AMAM",
+        "name": "Partlist PL-U2AMAM1M 2 Meter USB2.0 AM-AM Cable",
+        "description": "Partlist PL-U2AMAM1M 2 Meter USB2.0 AM-AM Cable",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005066_partlist-pl-u2amam1m-2-meter-usb20-am-am-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Female)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "UCABPLU2AMBM2M",
+        "name": "Partlist PL-U2AMBM2M 2 Meter USB2.0 CABLE AM/BM Cable",
+        "description": "Partlist PL-U2AMBM2M 2 Meter USB2.0 CABLE AM/BM Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005069_partlist-pl-u2ambm2m-2-meter-usb20-cable-ambm-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-B"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2AMBM3M",
+        "name": "Partlist PL-U2AMBM3M 3 Meter USB2.0 CABLE AM/BM Cable",
+        "description": "Partlist PL-U2AMBM3M 3 Meter USB2.0 CABLE AM/BM Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005070_partlist-pl-u2ambm3m-3-meter-usb20-cable-ambm-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-B"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5S0700",
+        "name": "EATON 5S700AU 5S 700VA/420W UPS",
+        "description": "EATON 5S700AU 5S 700VA/420W UPS",
+        "price": 179,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005030_eaton-5s700au-5s-700va420w-ups.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "420W"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2AMBM5M",
+        "name": "Partlist PL-U2AMBM5M 5 Meter USB2.0 CABLE AM/BM Cable",
+        "description": "Partlist PL-U2AMBM5M 5 Meter USB2.0 CABLE AM/BM Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005071_partlist-pl-u2ambm5m-5-meter-usb20-cable-ambm-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-B"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU205AMAM",
+        "name": "Partlist PL-U2AMAM5M 5 Meter USB2.0 AM-AM Cable",
+        "description": "Partlist PL-U2AMAM5M 5 Meter USB2.0 AM-AM Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005067_partlist-pl-u2amam5m-5-meter-usb20-am-am-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLHH14MM07",
+        "name": "Cablelist CL-V1.4HD7M 7 Meter V1.4 3D M-M HDMI-HDMI Gold Plated Copper Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0004976_cablelist-cl-v14hd7m-7-meter-v14-3d-m-m-hdmi-hdmi-gold-plated-copper-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2E05AMAF",
+        "name": "Partlist PL-U2AMAF05M 0.5 Meter USB2.0 Extension AM-AF Cable",
+        "description": "Partlist PL-U2AMAF05M 0.5 Meter USB2.0 Extension AM-AF Cable",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005072_partlist-pl-u2amaf05m-05-meter-usb20-extension-am-af-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Female)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "0.5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2E1AMAF",
+        "name": "Partlist PL-U2AMAF1M 1 Meter USB2.0 Extension AM-AF Cable",
+        "description": "Partlist PL-U2AMAF1M 1 Meter USB2.0 Extension AM-AF Cable",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005073_partlist-pl-u2amaf1m-1-meter-usb20-extension-am-af-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Female)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2E3AMAF",
+        "name": "Partlist PL-U2AMAF3M 3 Meter USB2.0 Extension AM-AF Cable",
+        "description": "Partlist PL-U2AMAF3M 3 Meter USB2.0 Extension AM-AF Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005075_partlist-pl-u2amaf3m-3-meter-usb20-extension-am-af-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Female)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "UCABPLU2AMBM1M",
+        "name": "Partlist PL-U2AMBM1M 1 Meter USB2.0 CABLE AM/BM Cable",
+        "description": "Partlist PL-U2AMBM1M 1 Meter USB2.0 CABLE AM/BM Cable",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005068_partlist-pl-u2ambm1m-1-meter-usb20-cable-ambm-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-B"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Eaton",
+        "sku": "UPSET5S1600",
+        "name": "EATON 5S1600AU 5S 1600VA/1000W UPS",
+        "description": "EATON 5S1600AU 5S 1600VA/1000W UPS",
+        "price": 425,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005033_eaton-5s1600au-5s-1600va1000w-ups.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Eaton"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "1000W"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2E5AMAF",
+        "name": "Partlist PL-U2AMAF5M 5 Meter USB2.0 Extension AM-AF Cable",
+        "description": "Partlist PL-U2AMAF5M 5 Meter USB2.0 Extension AM-AF Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005076_partlist-pl-u2amaf5m-5-meter-usb20-extension-am-af-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Female)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2E2AMAF",
+        "name": "Partlist PL-U2AMAF2M 2 Meter USB2.0 Extension AM-AF Cable",
+        "description": "Partlist PL-U2AMAF2M 2 Meter USB2.0 Extension AM-AF Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005074_partlist-pl-u2amaf2m-2-meter-usb20-extension-am-af-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Female)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "UCABCLU202AMAM",
+        "name": "Cablelist CL-U2AMAM2M 2 Meter USB2.0 AM-AM Cable",
+        "description": "Cablelist CL-U2AMAM2M 2 Meter USB2.0 AM-AM CableClearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005091_cablelist-cl-u2amam2m-2-meter-usb20-am-am-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "NCABPLCAT6015",
+        "name": "Partlist PL-CAT6E15M 15 Meter Cat6e Network Cable",
+        "description": "Partlist PL-CAT6E15M 15 Meter Cat6e Network Cable",
+        "price": 11,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005011_partlist-pl-cat6e15m-15-meter-cat6e-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "CAT6"
+            },
+            {
+                "name": "Cable Length",
+                "value": "15M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2UM02AB",
+        "name": "Partlist PL-U2AMRU2-2M 2 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "description": "Partlist PL-U2AMRU2-2M 2 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005078_partlist-pl-u2amru2-2m-2-meter-usb20-am-to-micro-usb20-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Micro USB 2.0"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2UM01AB",
+        "name": "Partlist PL-U2AMRU2-1M 1 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "description": "Partlist PL-U2AMRU2-1M 1 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005077_partlist-pl-u2amru2-1m-1-meter-usb20-am-to-micro-usb20-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Micro USB 2.0"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "UCABCLU2AMBM1M",
+        "name": "Cablelist CL-U2AMBM1M 1 Meter USB2.0 CABLE AM/BM Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005093_cablelist-cl-u2ambm1m-1-meter-usb20-cable-ambm-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Netgear",
+        "sku": "MDNGD6100",
+        "name": "Netgear D6100 Wireless AC1200 Dual Band Modem with 2 Gigabit Port",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.   Product with limited quantity. While stocks last.",
+        "price": 100,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005085_netgear-d6100-wireless-ac1200-dual-band-modem-with-2-gigabit-port.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Networking"
+    },
+    {
+        "brand": "Creative",
+        "sku": "SC9CRAUDIGYRX",
+        "name": "Creative PCI-E Audigy Rx Sound Blaster Sound Card",
+        "description": "Creative PCI-E Audigy Rx Sound Blaster Sound Card",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005116_creative-pci-e-audigy-rx-sound-blaster-sound-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Creative"
+            }
+        ],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Creative",
+        "sku": "SC9CRSBZXR",
+        "name": "Creative Sound Blaster ZxR  Gaming and Entertainment Audio PCI-E Sound Card with Audio Control",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 299,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0013164_creative-sound-blaster-zxr-gaming-and-entertainment-audio-pci-e-sound-card-with-audio-control.jpeg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "HODA",
+        "sku": "PPHODABLUEIP5",
+        "name": "HODA G-IP5-GLAB-C iPhone5/5S/5C 9H Blue Light Cut Tempered Glass Screen Protector",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005321_hoda-g-ip5-glab-c-iphone55s5c-9h-blue-light-cut-tempered-glass-screen-protector.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "HODA",
+        "sku": "PPHODABLINGIP6P",
+        "name": "HODA G-IP6P-GBH-C iPhone6 Plus 9H BlingBling Tempered Glass Screen Protector",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005320_hoda-g-ip6p-gbh-c-iphone6-plus-9h-blingbling-tempered-glass-screen-protector.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Others",
+        "sku": "PPAGOSPIP5",
+        "name": "A.G.O PPAGOSPIP5 iPhone5/5S/5C 9H Tempered Glass Screen Protector",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005222_ago-ppagospip5-iphone55s5c-9h-tempered-glass-screen-protector.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "UCABPLU2UM03AB",
+        "name": "Partlist PL-U2AMRU2-3M 3 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "description": "Partlist PL-U2AMRU2-3M 3 Meter USB2.0 AM to Micro-USB2.0 Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005079_partlist-pl-u2amru2-3m-3-meter-usb20-am-to-micro-usb20-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "USB 2 Type-A (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "Micro USB 2.0"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Others",
+        "sku": "PPAGOSPIP6P",
+        "name": "A.G.O PPAGOSPIP6P iPhone6 Plus 9H Tempered Glass Screen Protector",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 12,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005224_ago-ppagospip6p-iphone6-plus-9h-tempered-glass-screen-protector.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Creative",
+        "sku": "SC9CRSBOMNI",
+        "name": "Creative Sound Blaster Omni Surround 5.1 USB Gaming Sound Card with SBX Pro Audio Technologies",
+        "description": "Creative Sound Blaster Omni Surround 5.1 USB Gaming Sound Card with SBX Pro Audio Technologies",
+        "price": 116,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005117_creative-sound-blaster-omni-surround-51-usb-gaming-sound-card-with-sbx-pro-audio-technologies.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Creative"
+            }
+        ],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "UCABCLU205AMAM",
+        "name": "Cablelist CL-U2AMAM5M 5 Meter USB2.0 AM-AM Cable",
+        "description": "Cablelist CL-U2AMAM5M 5 Meter USB2.0 AM-AM CableClearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005092_cablelist-cl-u2amam5m-5-meter-usb20-am-am-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "UCABCLU201AMAM",
+        "name": "Cablelist CL-U2AMAM1M 1 Meter USB2.0 AM-AM Cable",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005090_cablelist-cl-u2amam1m-1-meter-usb20-am-am-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Others",
+        "sku": "CAMVVTV69379UAS",
+        "name": "Vivitar V69379UA-SIL Silver Digital Camera Hold Upto 200 Photos",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005462_vivitar-v69379ua-sil-silver-digital-camera-hold-upto-200-photos.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Netgear",
+        "sku": "HUBNGCSGSS108E",
+        "name": "NETGEAR (GSS108E-100AUS) ProSafe Plus 8 Port Gigabit Click Switch",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012520_netgear-gss108e-100aus-prosafe-plus-8-port-gigabit-click-switch.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005349_netgear-gss108e-100aus-prosafe-plus-8-port-gigabit-click-switch.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Number of Ports",
+                "value": "8"
+            },
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            },
+            {
+                "name": "Housing",
+                "value": "Plastic"
+            },
+            {
+                "name": "Fanless",
+                "value": "Yes"
+            },
+            {
+                "name": "Brand",
+                "value": "Netgear"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Microsoft",
+        "sku": "MSMS81850BL",
+        "name": "Microsoft U7Z-00015(WMM1850BL) 1850 Blue Wireless Mobile Notebook Mouse",
+        "description": "Microsoft U7Z-00015(WMM1850BL) 1850 Blue Wireless Mobile Notebook Mouse",
+        "price": 18,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005465_microsoft-u7z-00015wmm1850bl-1850-blue-wireless-mobile-notebook-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Microsoft"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Creative",
+        "sku": "SC9CRSBE5",
+        "name": "Creative Sound Blaster E5 High Resolution USB DAC and Portable Headphone Amplifier",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 269,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005454_creative-sound-blaster-e5-high-resolution-usb-dac-and-portable-headphone-amplifier.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015988_creative-sound-blaster-e5-high-resolution-usb-dac-and-portable-headphone-amplifier.png"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015990_creative-sound-blaster-e5-high-resolution-usb-dac-and-portable-headphone-amplifier.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Creative"
+            }
+        ],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "CAMCCDORAEXP",
+        "name": "Dora Explorer (31067) 1.5\" Camera Preview Screen Digital Camcorder",
+        "description": "Dora Explorer (31067) 1.5\" Camera Preview Screen Digital Camcorder Clearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005466_dora-explorer-31067-15-camera-preview-screen-digital-camcorder.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "vivitar",
+        "sku": "CAMVVTV38PUR",
+        "name": "Vivitar V38-PURPLE 3.1MP 1.5\" Preview Screen 8MB Up to 120 Photos Digital Camera",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005458_vivitar-v38-purple-31mp-15-preview-screen-8mb-up-to-120-photos-digital-camera.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD507LPLX",
+        "name": "WD 2.5\" Notebook 500GB WD5000LPLX SATA 6.0Gb/s 7200RPM HDD",
+        "description": "WD 2.5\" Notebook 500GB WD5000LPLX SATA 6.0Gb/s 7200RPM HDD",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005494_wd-25-notebook-500gb-wd5000lplx-sata-60gbs-7200rpm-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "500GB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "2.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "7200"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "32MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Netgear",
+        "sku": "MDNGD3600",
+        "name": "Netgear D3600 N600 Wireless Dual Band Modem Router with 4 Port Gigabit Switch",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005329_netgear-d3600-n600-wireless-dual-band-modem-router-with-4-port-gigabit-switch.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Netgear"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "NICRM9998",
+        "name": "RITMO CC8169 Gigabit 10/100/1000 PCI Network Card",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005660_ritmo-cc8169-gigabit-101001000-pci-network-card.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "BAG02507",
+        "name": "Ritmo 15.4\" Comp197 Laptop bag",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005669_ritmo-154-comp197-laptop-bag.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "vivitar",
+        "sku": "CAMVVTV38BL",
+        "name": "Vivitar V38-BLUEBERRY 3.1MP 1.5\" Preview Screen 8MB Up to 120 Photos Digital Camera",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005457_vivitar-v38-blueberry-31mp-15-preview-screen-8mb-up-to-120-photos-digital-camera.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "BAG02512",
+        "name": "Ritmo COMP200 17\" Laptop Bag",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 35,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005670_ritmo-comp200-17-laptop-bag.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "BAGSLEEVE14",
+        "name": "Ritmo COMP33-15 15.6\" Notebook Sleeve Brown",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005673_ritmo-comp33-15-156-notebook-sleeve-brown.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "ACC01004-2",
+        "name": "Ritmo CE2001 ADSL InLine Filter and Splitter",
+        "description": "No Description",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005662_ritmo-ce2001-adsl-inline-filter-and-splitter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Ritmo"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIMM1005",
+        "name": "Ritmo D241MM05 5m M-M 241 DVI Cable",
+        "description": "Ritmo D241MM05 5m M-M 24+1 DVI Cable Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005677_ritmo-d241mm05-5m-m-m-241-dvi-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIMM5003",
+        "name": "Ritmo D245MM03 3M M-M 245 DVI Cable",
+        "description": "No Description",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005674_ritmo-d245mm03-3m-m-m-245-dvi-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIMM5005",
+        "name": "Ritmo D245MM05 5m M-M 24+5 DVI Cable",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005675_ritmo-d245mm05-5m-m-m-245-dvi-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "WEBCAMRMCW4312",
+        "name": "Ritmo CW-4312 USB2.0 Webcam",
+        "description": "Available: Online order and delivery ONLY.  Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005680_ritmo-cw-4312-usb20-webcam.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "NCABRMCO0100M",
+        "name": "Ritmo LXC6e10 CrossOver 10M Network Cable",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005681_ritmo-lxc6e10-crossover-10m-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "NCABRMCO0300M",
+        "name": "Ritmo LXC6e30 CrossOver 30M Network Cable",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 20,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005683_ritmo-lxc6e30-crossover-30m-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "MEDRMLN86BT",
+        "name": "Ritmo LN-86BT Mini Lan Server - BT Downloader",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005685_ritmo-ln-86bt-mini-lan-server-bt-downloader.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "NCABRMCO0200M",
+        "name": "Ritmo LXC6e20 CrossOver 20M Network Cable",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 13,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005682_ritmo-lxc6e20-crossover-20m-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "MDRM9999",
+        "name": "RITMO CCFM18 Internal 56K V.92 Modem",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005684_ritmo-ccfm18-internal-56k-v92-modem.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Networking"
+    },
+    {
+        "brand": "Vantec",
+        "sku": "CAMCCNERF38056",
+        "name": "NERF (38056) 640x480 Resolution 1.8\" Preview Screen Digital Video Recorder with build in Mic",
+        "description": "NERF (38056) 640x480 Resolution 1.8\" Preview Screen Digital Video Recorder with build in Mic Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 21,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005468_nerf-38056-640x480-resolution-18-preview-screen-digital-video-recorder-with-build-in-mic.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "MSRM9996",
+        "name": "Ritmo USB MO-2055U Retractable Notebook USB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012437_ritmo-usb-mo-2055u-retractable-notebook-usb-optical-mouse.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "MSRM9997",
+        "name": "Ritmo USB MO-2031U USB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005687_ritmo-usb-mo-2031u-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "USB01201-2",
+        "name": "Ritmo CR-10 USB2.0 Mobile Sim External A-I-O Card Reader",
+        "description": "Available:  Online order and delivery.   Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005702_ritmo-cr-10-usb20-mobile-sim-external-a-i-o-card-reader.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Card Readers"
+    },
+    {
+        "brand": "Vantec",
+        "sku": "ENCVTNST306S3WH",
+        "name": "Vantec NST-D306WS3 NextStar WiFi 2.5\"/3.5\" SATA III to USB3.0/Wi-Fi HDD Docking Station",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 69,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005238_vantec-nst-d306ws3-nextstar-wifi-2535-sata-iii-to-usb30wi-fi-hdd-docking-station.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Vantec"
+            },
+            {
+                "name": "Enclosure Interface",
+                "value": "USB 3.0"
+            },
+            {
+                "name": "Enclosure HDD/SSD Type",
+                "value": "3.5\"/2.5\""
+            }
+        ],
+        "category": "Enclosure / Hard Drive Dock"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "KBRM9991",
+        "name": "Ritmo LK-6618U Multi-Media USB Keyboard",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005696_ritmo-lk-6618u-multi-media-usb-keyboard.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "No"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wired"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "MSRMMO228U",
+        "name": "Ritmo USB MO-228U USB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005688_ritmo-usb-mo-228u-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "USBUTY3187",
+        "name": "UNITEK (Y-3187) USB 3.0 7-Port Aluminium Hub with 5V2A Power Adapter",
+        "description": "UNITEK (Y-3187) USB 3.0 7-Port Aluminium Hub with 5V2A Power Adapter",
+        "price": 45,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005706_unitek-y-3187-usb-30-7-port-aluminium-hub-with-5v2a-power-adapter.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "USBUTY3186",
+        "name": "UNITEK (Y-3186) USB 3.0 4-Port Aluminium Hub",
+        "description": "UNITEK (Y-3186) USB 3.0 4-Port Aluminium Hub",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005705_unitek-y-3186-usb-30-4-port-aluminium-hub.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "BAG01005",
+        "name": "Ritmo DC12 Digital Camera Bag",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005726_ritmo-dc12-digital-camera-bag.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "PCI01004",
+        "name": "Ritmo CC-T35 Parallel and 2 x Serial  PCI Card",
+        "description": "Ritmo CC-T35 Parallel and 2 x Serial PCI Card Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005690_ritmo-cc-t35-parallel-and-2-x-serial-pci-card.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Rapoo",
+        "sku": "MSRP8M10B",
+        "name": "Rapoo M10 2.4G Black Wireless Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005720_rapoo-m10-24g-black-wireless-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Sandisk",
+        "sku": "FLASHPSDZ480128",
+        "name": "Sandisk Ultra CZ48 128G (SDCZ48-128G-U46/UQ46) USB3.0 Flash Pen Drive",
+        "description": "No Description",
+        "price": 34,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012242_sandisk-ultra-cz48-128g-sdcz48-128g-u46uq46-usb30-flash-pen-drive.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "128G"
+            },
+            {
+                "name": "USB Specification",
+                "value": "USB 3.0"
+            },
+            {
+                "name": "Brand",
+                "value": "Sandisk"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "NCABRMCO0030M",
+        "name": "Ritmo LXC6e03 CrossOver 3M Network Cable",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005736_ritmo-lxc6e03-crossover-3m-network-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "PCI01008-5",
+        "name": "Ritmo CC-T55 3 x SATA RAID  IDE PCI Card",
+        "description": "Ritmo CC-T55 3 x SATA RAID + IDE PCI Card Clearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 26,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005739_ritmo-cc-t55-3-x-sata-raid-ide-pci-card.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "KBRM9992",
+        "name": "Ritmo LK-5178U Chocolate USB Slim Black USB keyboard",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005697_ritmo-lk-5178u-chocolate-usb-slim-black-usb-keyboard.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "SC01002",
+        "name": "Ritmo CC-T871 7.1 Channel PCI Sound Card",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005740_ritmo-cc-t871-71-channel-pci-sound-card.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Multimedia"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "ACC01607",
+        "name": "Ritmo WPU520 520\" Deluxe CD Wallet",
+        "description": "Ritmo WPU520 520\" Deluxe CD Wallet Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005668_ritmo-wpu520-520-deluxe-cd-wallet.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Ritmo"
+            }
+        ],
+        "category": "Optical Drives"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIMF02",
+        "name": "Ritmo D245MF02 2M M-F DVI Extension Cable",
+        "description": "Ritmo D245MF02 2M M-F DVI Extension Cable Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005727_ritmo-d245mf02-2m-m-f-dvi-extension-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "ACC01056",
+        "name": "Ritmo HH107MM 180 Degree F-F Connector",
+        "description": "Ritmo HH107MM 180 Degree F-F ConnectorClearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005746_ritmo-hh107mm-180-degree-f-f-connector.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Ritmo"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "ACC01005LC002",
+        "name": "Ritmo LC002-CT Notebook Lock with Password",
+        "description": "No Description",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005751_ritmo-lc002-ct-notebook-lock-with-password.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Ritmo"
+            }
+        ],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Antec",
+        "sku": "CASEATP380",
+        "name": "Antec P380 w/Window and Aluminium Panel USB3.0 Full Tower Gaming Case without PSU",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 279,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005777_antec-p380-wwindow-and-aluminium-panel-usb30-full-tower-gaming-case-without-psu.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Case"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMVVMM20",
+        "name": "Ritmo VPMM20 20M M-M VGA Cable",
+        "description": "Ritmo VPMM20 20M M-M VGA Cable Clearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 18,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005759_ritmo-vpmm20-20m-m-m-vga-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "PCI01008-4",
+        "name": "Ritmo CCP854 SATA  eSATA PCI-E Card",
+        "description": "Ritmo CCP854 SATA + eSATA PCI-E Card Clearance product with limited quantity, which is available on first-come, first-serve basic while stocks last",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005738_ritmo-ccp854-sata-esata-pci-e-card.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "UCABRMU3AMBM03",
+        "name": "Ritmo U3AMBM03 3M USB3.0 AM-BM Cable",
+        "description": "Ritmo U3AMBM03 3M USB3.0 AM-BM Cable Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005742_ritmo-u3ambm03-3m-usb30-am-bm-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIHD5M",
+        "name": "Ritmo HD19MM05 5 Meter M-M DVI-HDMI Cable",
+        "description": "No Description",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005790_ritmo-hd19mm05-5-meter-m-m-dvi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMVVMM10",
+        "name": "Ritmo VPMM10 10M M-M VGA Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005758_ritmo-vpmm10-10m-m-m-vga-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "ACC01055",
+        "name": "Ritmo HH106MM 90 Degree M-F Connector",
+        "description": "No Description",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005743_ritmo-hh106mm-90-degree-m-f-connector.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Ritmo"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "UCABRMU3AMBM02",
+        "name": "Ritmo U3AMBM02 2M USB3.0 AM-BM Cable",
+        "description": "Ritmo U3AMBM02 2M USB3.0 AM-BM Cable Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005741_ritmo-u3ambm02-2m-usb30-am-bm-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIHD15M",
+        "name": "Ritmo HD19M015 1.5 Meter M-M DVI-HDMI Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005786_ritmo-hd19m015-15-meter-m-m-dvi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Ritmo",
+        "sku": "DCABRMDVIHD18M",
+        "name": "Ritmo HD19M018 1.8 Meter M-M DVI-HDMI Cable",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0005787_ritmo-hd19m018-18-meter-m-m-dvi-hdmi-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    }
+]

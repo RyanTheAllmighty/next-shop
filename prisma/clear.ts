@@ -1,5 +1,4 @@
 import { PrismaClient } from '@prisma/client';
-import { promises } from 'fs';
 
 main();
 

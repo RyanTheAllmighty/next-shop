@@ -17,7 +17,7 @@ const client = new PrismaClient();
 
 main();
 
-async function createCategory(category: Category, parentCategory: number | null = null): Promise<void> {
+export async function createCategory(category: Category, parentCategory: number | null = null): Promise<void> {
     const slug = slugify(category.name).toLowerCase();
 
     const data: CategoryCreateInput | CategoryUpdateInput = {
@@ -45,76 +45,81 @@ async function createCategory(category: Category, parentCategory: number | null 
 }
 
 async function createProduct(product: Product): Promise<void> {
-    const slug = slugify(product.name).toLowerCase();
-    const brandSlug = slugify(product.brand).toLowerCase();
-    const categorySlug = slugify(product.category).toLowerCase();
+    try {
+        const slug = slugify(product.name).toLowerCase();
+        const brandSlug = slugify(product.brand).toLowerCase();
+        const categorySlug = slugify(product.category).toLowerCase();
 
-    const brand = await client.brand.upsert({
-        where: { slug: brandSlug },
-        create: {
-            name: product.brand,
-            slug: brandSlug,
-        },
-        update: {
-            name: product.brand,
-            slug: brandSlug,
-        },
-    });
+        const brand = await client.brand.upsert({
+            where: { slug: brandSlug },
+            create: {
+                name: product.brand,
+                slug: brandSlug,
+            },
+            update: {
+                name: product.brand,
+                slug: brandSlug,
+            },
+        });
 
-    const category = await client.category.findOne({ where: { slug: categorySlug } });
+        const category = await client.category.findOne({ where: { slug: categorySlug } });
 
-    if (!category) {
-        console.error(`No category with the slug of ${categorySlug} not found when adding product ${product.name}`);
-        process.exit(1);
-        return;
+        if (!category) {
+            console.error(`No category with the slug of ${categorySlug} not found when adding product ${product.name}`);
+            process.exit(1);
+            return;
+        }
+
+        const data: ProductCreateInput | ProductUpdateInput = {
+            sku: product.sku,
+            name: product.name,
+            slug,
+            description: product.description,
+            price: product.price,
+            brand: {
+                connect: {
+                    id: brand.id,
+                },
+            },
+            category: {
+                connect: {
+                    id: category.id,
+                },
+            },
+        };
+
+        // create the product
+        const thisProduct = await client.product.upsert({
+            where: { slug },
+            create: data as ProductCreateInput,
+            update: data as ProductUpdateInput,
+        });
+
+        // create all the images
+        await Promise.all(
+            product.images.map((image) =>
+                client.productImage.upsert({
+                    where: { url_productId: { url: image.url, productId: thisProduct.id } },
+                    create: { ...image, product: { connect: { id: thisProduct.id } } },
+                    update: { ...image, product: { connect: { id: thisProduct.id } } },
+                }),
+            ),
+        );
+
+        // create all the specifications
+        await Promise.all(
+            product.specifications.map((specification) =>
+                client.productSpecification.upsert({
+                    where: { name_productId: { name: specification.name, productId: thisProduct.id } },
+                    create: { ...specification, product: { connect: { id: thisProduct.id } } },
+                    update: { ...specification, product: { connect: { id: thisProduct.id } } },
+                }),
+            ),
+        );
+    } catch (e) {
+        console.log(product);
+        console.error(e);
     }
-
-    const data: ProductCreateInput | ProductUpdateInput = {
-        sku: product.sku,
-        name: product.name,
-        slug,
-        description: product.description,
-        price: product.price,
-        brand: {
-            connect: {
-                id: brand.id,
-            },
-        },
-        category: {
-            connect: {
-                id: category.id,
-            },
-        },
-    };
-
-    // create the product
-    const thisProduct = await client.product.upsert({
-        where: { slug },
-        create: data as ProductCreateInput,
-        update: data as ProductUpdateInput,
-    });
-
-    // create all the images
-    await Promise.all(
-        product.images.map((image) =>
-            client.productImage.upsert({
-                where: { url_productId: { url: image.url, productId: thisProduct.id } },
-                create: { ...image, product: { connect: { id: thisProduct.id } } },
-                update: { ...image, product: { connect: { id: thisProduct.id } } },
-            }),
-        ),
-    );
-
-    // create all the specifications
-    await Promise.all(
-        product.specifications.map((specification) =>
-            client.productSpecification.upsert({
-                where: { name_productId: { name: specification.name, productId: thisProduct.id } },
-                create: { ...specification, product: { connect: { id: thisProduct.id } } },
-                update: { ...specification, product: { connect: { id: thisProduct.id } } },
-            }),
-        ),
-    );
 }
 
 async function main() {

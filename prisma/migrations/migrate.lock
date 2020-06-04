@@ -11,3 +11,4 @@
 20200603231809-add-more-fields-and-images-brand-specifications
 20200604001144-make-brand-url-optional
 20200604002341-add-some-unique-indexes
+20200604115653-remove-unique-requirement-on-product-specifications

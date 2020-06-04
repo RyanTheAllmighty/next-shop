@@ -1,0 +1,2528 @@
+[
+    {
+        "brand": "Huntkey",
+        "sku": "PACHKNB90",
+        "name": "Huntkey (HK-NB90) 90W 19.5v Universal AC-DC Notebook Power Adapter",
+        "description": "Huntkey (HK-NB90) 90W 19.5v Universal AC-DC Notebook Power Adapter",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011105_huntkey-hk-nb90-90w-195v-universal-ac-dc-notebook-power-adapter.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0017055_huntkey-hk-nb90-90w-195v-universal-ac-dc-notebook-power-adapter.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Huntkey"
+            }
+        ],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Intel",
+        "sku": "BBINNUCC7CJYH4",
+        "name": "Intel 7th Gen NUC (BOXNUC7CJYH4) Celeron J4005 2xDDR4/HDMI/WIFI/BT/USB3.0/2.5\" Mini PC BareboneSDXC Card Slot",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 209,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011100_intel-7th-gen-nuc-boxnuc7cjyh4-celeron-j4005-2xddr4hdmiwifibtusb3025-mini-pc-barebonesdxc-card-slot.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Processor",
+                "value": "Intel Celeron J4005 2.0GHz (4M Cache, up to 2.70 GHz) Dual Core CPU"
+            },
+            {
+                "name": "HDD Bay",
+                "value": "2.5\""
+            },
+            {
+                "name": "Wi-Fi",
+                "value": "YES"
+            },
+            {
+                "name": "RAM slot",
+                "value": "2 x DDR4"
+            },
+            {
+                "name": "RAM Type",
+                "value": "260-Pin DDR4 SO-DIMM"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "DDR4 2400"
+            },
+            {
+                "name": "Brand",
+                "value": "Intel"
+            }
+        ],
+        "category": "BAREBONE"
+    },
+    {
+        "brand": "Vantec",
+        "sku": "USBVTHUBTCCU300",
+        "name": "Vantec CB-CU300MDSH - VLink USB Type C 5-in-1 Multi-Port Adapter",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0018721_vantec-cb-cu300mdsh-vlink-usb-type-c-5-in-1-multi-port-adapter.jpeg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD1S3BK6001",
+        "name": "WD 3.5\" Black 6TB (WD6003FZBX) SATA3 7200rpm HDD",
+        "description": "No Description",
+        "price": 428,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012197_wd-35-black-6tb-wd6003fzbx-sata3-7200rpm-hdd.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "6TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "7200"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "256MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "HTC",
+        "sku": "GAMEVRHTCVIVEP",
+        "name": "HTC VIVE Pro HMD (99HANW021-00) Virtual Reality Headset",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011184_htc-vive-pro-hmd-99hanw021-00-virtual-reality-headset.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Headset"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "PSUCSRMX075018",
+        "name": "Corsair RM750X-2018 (CP-9020179-AU) 750Watt 80Plus Gold Full Modular ATX Power Supply Unit",
+        "description": "Limit 1 per customer.",
+        "price": 269,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011140_corsair-rm750x-2018-cp-9020179-au-750watt-80plus-gold-full-modular-atx-power-supply-unit.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V V2.4"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "750W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "135 mm fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "Main Connector",
+                "value": "24Pin"
+            },
+            {
+                "name": "+12V Rails",
+                "value": "Single"
+            },
+            {
+                "name": "PCI-Express Connector",
+                "value": "4 x 6+2-Pin"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "8"
+            },
+            {
+                "name": "PSU Modular",
+                "value": "Full Modular"
+            },
+            {
+                "name": "Efficiency",
+                "value": "90% (Max)"
+            },
+            {
+                "name": "Energy-Efficient",
+                "value": "80 PLUS GOLD Certified"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "10A - 5A"
+            },
+            {
+                "name": "Brand",
+                "value": "Corsair"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "GeIL",
+        "sku": "RAMZ4DGEP16G02",
+        "name": "GeIL EVO POTENZA (GPR416GB3000C16ADC) Black & Red 16GB Kit (8GBx2) DDR4 3000 Desktop RAM",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 123,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011180_geil-evo-potenza-gpr416gb3000c16adc-black-red-16gb-kit-8gbx2-ddr4-3000-desktop-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "16G"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "DDR4 3000"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "16"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Multi-channel Kit",
+                "value": "Dual Channel kit"
+            },
+            {
+                "name": "Brand",
+                "value": "Geil"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "FLASHPKSE9G201",
+        "name": "Kingston DataTraveler SE9 G2 3.0 (DTSE9G2/16GB) 16G USB3.0 Flash Pen Drive",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011129_kingston-datatraveler-se9-g2-30-dtse9g216gb-16g-usb30-flash-pen-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "16G"
+            },
+            {
+                "name": "USB Specification",
+                "value": "USB 3.0"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "Generic",
+        "sku": "BAGSTCPREM15",
+        "name": "15.6\" STC-PREM-15 Top Load Laptop Carrying Bag",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "MSI",
+        "sku": "VGAPNMS7102GD3",
+        "name": "MSI (GT710 2GD3H LP) 2G GT 710 DDR3 PCI-E VGA Card",
+        "description": "No Description",
+        "price": 75,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011160_msi-gt710-2gd3h-lp-2g-gt-710-ddr3-pci-e-vga-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "VGA Interface",
+                "value": "PCI Express 2.0 x16"
+            },
+            {
+                "name": "Chipset Manufacturer",
+                "value": "NVIDIA"
+            },
+            {
+                "name": "GPU",
+                "value": "GT 710"
+            },
+            {
+                "name": "Core Clock",
+                "value": "954 MHz"
+            },
+            {
+                "name": "VGA Memory Size",
+                "value": "2GB"
+            },
+            {
+                "name": "Memory Type",
+                "value": "DDR3"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x HDMI"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x D-SUB"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x DVI-D"
+            },
+            {
+                "name": "Multi-Monitor Support",
+                "value": "2"
+            },
+            {
+                "name": "Max Resolution",
+                "value": "4096 x 2160"
+            },
+            {
+                "name": "Brand",
+                "value": "MSI"
+            }
+        ],
+        "category": "Graphics Card"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "PSUTTTPDGX1500",
+        "name": "Thermaltake (PS-TPD-0500NNFAGA-1) Toughpower GX1 500W 80+plus Gold Power Supply Unit PSU  - 80+ Gold Certificate APFC PSU Power Supply",
+        "description": "No Description",
+        "price": 119,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011165_thermaltake-ps-tpd-0500nnfaga-1-toughpower-gx1-500w-80plus-gold-power-supply-unit-psu-80-gold-certif.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V V2.4"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "500W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "120mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "Main Connector",
+                "value": "24Pin"
+            },
+            {
+                "name": "+12V Rails",
+                "value": "Single"
+            },
+            {
+                "name": "PCI-Express Connector",
+                "value": "2 x 6+2-Pin"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "6"
+            },
+            {
+                "name": "Energy-Efficient",
+                "value": "80 PLUS GOLD Certified"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "8A - 4A"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "Generic",
+        "sku": "BAGTCTL13",
+        "name": "13.3\" STC-SOFT-13 Top Load Laptop Carrying Bag",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Notebook"
+    },
+    {
+        "brand": "Gamdias",
+        "sku": "GAMECHGDACE2BR",
+        "name": "Gamdias ACHILLES E2-L Black  Red Ergonomic Gaming Chair",
+        "description": "Gamdias ACHILLES E2-L Black & Red Ergonomic Gaming Chair",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011192_gamdias-achilles-e2-l-black-red-ergonomic-gaming-chair.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Chair Adjustable Degree",
+                "value": "90 - 150 degrees"
+            },
+            {
+                "name": "Armrests Adjustable",
+                "value": "Yes"
+            },
+            {
+                "name": "Chair Material",
+                "value": "Fabric"
+            },
+            {
+                "name": "Adjustable Lumbar Cushion &amp; Headrest Included",
+                "value": "Yes"
+            }
+        ],
+        "category": "Gaming Chair"
+    },
+    {
+        "brand": "Gamdias",
+        "sku": "COOLGDAEM11201",
+        "name": "Gamdias (AEOLUS M1-1201) 120mm single ARGB Gaming Case Fan",
+        "description": "Available: Online order and delivery ONLY. Product with limited quantity. While stocks last.",
+        "price": 16,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011209_gamdias-aeolus-m1-1201-120mm-single-argb-gaming-case-fan.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "RGB"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "PSUCMMWEGM0750",
+        "name": "Coolermaster MWE Gold 750W Fully Modular (MPY-7501-AFAAG-AU) 80 Gold Power Supply Unit",
+        "description": "Limit 1 per customer.",
+        "price": 169,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011211_coolermaster-mwe-gold-750w-fully-modular-mpy-7501-afaag-au-80-gold-power-supply-unit.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019155_coolermaster-mwe-gold-750w-fully-modular-mpy-7501-afaag-au-80-gold-power-supply-unit.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            },
+            {
+                "name": "PSU TYPE",
+                "value": "Intel Form Factor ATX 12V V2.31"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "750W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "120mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "8"
+            },
+            {
+                "name": "PSU Modular",
+                "value": "Full Modular"
+            },
+            {
+                "name": "Efficiency",
+                "value": "90% (Max)"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "12A - 6A"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "Gamdias",
+        "sku": "MSGDZEUSE2",
+        "name": "Gamdias (ZEUS E2) 7 Colors 3 Programmable keys 3200 DPI optical Gaming MouseNYX E1 Mouse mat",
+        "description": "No Description",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011224_gamdias-zeus-e2-7-colors-3-programmable-keys-3200-dpi-optical-gaming-mousenyx-e1-mouse-mat.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "3200 DPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            },
+            {
+                "name": "Brand",
+                "value": "Gamdias"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "PSUTTTPDGX1600",
+        "name": "Thermaltake (PS-TPD-0600NNFAGA-1) Toughpower GX1 600W 80+plus Gold Power Supply Unit PSU",
+        "description": "Limit 1 per customer.",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011166_thermaltake-ps-tpd-0600nnfaga-1-toughpower-gx1-600w-80plus-gold-power-supply-unit-psu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V V2.4"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "600W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "120mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "Main Connector",
+                "value": "24Pin"
+            },
+            {
+                "name": "PCI-Express Connector",
+                "value": "2 x 6+2-Pin"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "6"
+            },
+            {
+                "name": "Energy-Efficient",
+                "value": "80 PLUS GOLD Certified"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "9A - 4.5A"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "Netgear",
+        "sku": "HUGNGR6020",
+        "name": "NETGEAR (R6020-100AUS) AC750 Dual Band WiFi Router with 4 x 10/100 Port",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 59,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011230_netgear-r6020-100aus-ac750-dual-band-wifi-router-with-4-x-10100-port.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Networking"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "PSUCMMWEGF0650",
+        "name": "Coolermaster MWE Gold 650W (MPY-6501-ACAAG-AU) 80 Gold Fixed Cable Power Supply Unit",
+        "description": "No Description",
+        "price": 139,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011244_coolermaster-mwe-gold-650w-mpy-6501-acaag-au-80-gold-fixed-cable-power-supply-unit.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019153_coolermaster-mwe-gold-650w-mpy-6501-acaag-au-80-gold-fixed-cable-power-supply-unit.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            },
+            {
+                "name": "PSU TYPE",
+                "value": "Intel Form Factor ATX 12V V2.31"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "650W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "120mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "8"
+            },
+            {
+                "name": "PSU Modular",
+                "value": "Full Modular"
+            },
+            {
+                "name": "Efficiency",
+                "value": "90% (Max)"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "12A - 6A"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "Lenovo",
+        "sku": "BAGLN77328",
+        "name": "Lenovo Thinkpad Essential Topload Notebook Bag",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 35,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/default-image.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Lenovo"
+            }
+        ],
+        "category": "Notebook"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "MBAASB450PP",
+        "name": "Asus PRIME B450-PLUS AMD Motherboard",
+        "description": "Asus PRIME B450-PLUS AMD B450/4xDDR4/2xPCIEx16/HDMI/DVI/USB3.1/M.2/ATX Motherboard \nLimit 2 per customer.",
+        "price": 169,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011253_asus-prime-b450-plus-amd-motherboard.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Asus"
+            },
+            {
+                "name": "CPU Socket Type",
+                "value": "AM4"
+            },
+            {
+                "name": "CPU Type",
+                "value": "Ryzen Series"
+            },
+            {
+                "name": "Chipset",
+                "value": "B450"
+            },
+            {
+                "name": "Number of Memory Slots",
+                "value": "4x288pin"
+            },
+            {
+                "name": "Memory Standard",
+                "value": "DDR4 3200+(OC)/ 2933(OC)/ 2667/ 2400/ 2133"
+            },
+            {
+                "name": "Maximum Memory Supported",
+                "value": "64GB"
+            },
+            {
+                "name": "Channel Supported",
+                "value": "Dual Channel"
+            },
+            {
+                "name": "PCI Express 3.0 x16",
+                "value": "AMD Ryzen series CPUs (Summit Ridge and Pinnacle Ridge) - 1 x PCI Express 3.0 x16 Slot (PCIE2: x16 mode)* AMD Ryzen series CPUs (Raven Ridge) - 1 x PCI Express 3.0 x16 Slot (PCIE2: x8 mode)"
+            },
+            {
+                "name": "PCI Express 2.0 x16",
+                "value": "1 x PCI Express 2.0 x16 slot (max.@x4 mode)"
+            },
+            {
+                "name": "PCI Express x1",
+                "value": "3 x PCI Express 2.0 x1 slots"
+            },
+            {
+                "name": "SATA 6Gb/s",
+                "value": "6 x SATA3 6.0Gb/s"
+            },
+            {
+                "name": "M.2",
+                "value": "1 x M.2 Socket 3, with M key, type 2242/2260/2280 storage devices support (SATA &amp; PCIE 3.0 x4 mode)"
+            },
+            {
+                "name": "SATA RAID",
+                "value": "0/1/10"
+            },
+            {
+                "name": "Audio Chipset",
+                "value": "Realtek ALC 887"
+            },
+            {
+                "name": "Audio Channels",
+                "value": "8 Channels"
+            },
+            {
+                "name": "Max LAN Speed",
+                "value": "10/100/1000Mbps"
+            },
+            {
+                "name": "PS/2",
+                "value": "1 x PS/2 keyboard/mouse port"
+            },
+            {
+                "name": "Video Ports",
+                "value": "1 x DVI-D 1 x HDMI"
+            },
+            {
+                "name": "RJ45",
+                "value": "1 x RJ45"
+            },
+            {
+                "name": "USB 3.1",
+                "value": "2 x USB 3.1 Gen 2 (up to 10Gbps) ports (Type A) 1 x USB 3.1 Gen 1 (up to 5Gbps) port (Type C) 2 x USB 3.1 Gen 1 (up to 5Gbps) ports (Type A)"
+            },
+            {
+                "name": "USB 1.1/2.0",
+                "value": "2 x USB 2.0"
+            },
+            {
+                "name": "Audio Ports",
+                "value": "HD Audio Jacks: Line in / Front Speaker / Microphone"
+            },
+            {
+                "name": "Form Factor",
+                "value": "ATX"
+            },
+            {
+                "name": "LED Lighting",
+                "value": "RGB"
+            },
+            {
+                "name": "Dimensions",
+                "value": "304.80 mm x 233.68 mm"
+            },
+            {
+                "name": "Power Pin",
+                "value": "1 x 24-pin ATX Power Connector 1 x 8-pin 12V Power Connector"
+            }
+        ],
+        "category": "Motherboard"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "MBAASB450TPG",
+        "name": "TUF B450-PLUS GAMING AMD B450/4xDDR4/2xPCI-Ex16/HDMI/DVI/M.2/USB3.1/ATX Motherboard",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 199,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011265_tuf-b450-plus-gaming-amd-b4504xddr42xpci-ex16hdmidvim2usb31atx-motherboard.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0017839_tuf-b450-plus-gaming-amd-b4504xddr42xpci-ex16hdmidvim2usb31atx-motherboard.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "ASUS"
+            },
+            {
+                "name": "CPU Socket Type",
+                "value": "AM4"
+            },
+            {
+                "name": "CPU Type",
+                "value": "Ryzen Series"
+            },
+            {
+                "name": "Number of Memory Slots",
+                "value": "4x288pin"
+            },
+            {
+                "name": "Memory Standard",
+                "value": "DDR4 3200+(OC)/ 2933(OC)/ 2667/ 2400/ 2133"
+            },
+            {
+                "name": "Maximum Memory Supported",
+                "value": "64GB"
+            },
+            {
+                "name": "Channel Supported",
+                "value": "Dual Channel"
+            },
+            {
+                "name": "PCI Express 3.0 x16",
+                "value": "AMD Ryzen series CPUs (Summit Ridge and Pinnacle Ridge) - 1 x PCI Express 3.0 x16 Slot (PCIE2: x16 mode)* AMD Ryzen series CPUs (Raven Ridge) - 1 x PCI Express 3.0 x16 Slot (PCIE2: x8 mode)"
+            },
+            {
+                "name": "PCI Express 2.0 x16",
+                "value": "1 x PCI Express 2.0 x16 slot (max.@x4 mode)"
+            },
+            {
+                "name": "PCI Express x1",
+                "value": "3 x PCI Express 2.0 x1 slots"
+            },
+            {
+                "name": "SATA 6Gb/s",
+                "value": "6 x SATA3 6.0Gb/s"
+            },
+            {
+                "name": "M.2",
+                "value": "1 x M.2 socket 3 with M Key, Type 2242/2260/2280/22110 (PCIE 3.0 x4 and SATA modes) storage devices support"
+            },
+            {
+                "name": "SATA RAID",
+                "value": "0/1/10"
+            },
+            {
+                "name": "Audio Chipset",
+                "value": "Realtek ALC 887"
+            },
+            {
+                "name": "Audio Channels",
+                "value": "8 Channels"
+            },
+            {
+                "name": "Max LAN Speed",
+                "value": "10/100/1000Mbps"
+            },
+            {
+                "name": "PS/2",
+                "value": "1 x PS/2 keyboard/mouse port"
+            },
+            {
+                "name": "Video Ports",
+                "value": "1 x DVI-D 1 x HDMI"
+            },
+            {
+                "name": "RJ45",
+                "value": "1 x RJ45"
+            },
+            {
+                "name": "USB 3.1",
+                "value": "2 x USB 3.1 Gen 2 (up to 10Gbps) ports (Type A) 1 x USB 3.1 Gen 1 (up to 5Gbps) port (Type C) 2 x USB 3.1 Gen 1 (up to 5Gbps) ports (Type A)"
+            },
+            {
+                "name": "USB 1.1/2.0",
+                "value": "2 x USB 2.0"
+            },
+            {
+                "name": "Audio Ports",
+                "value": "HD Audio Jacks: Line in / Front Speaker / Microphone"
+            },
+            {
+                "name": "Form Factor",
+                "value": "ATX"
+            },
+            {
+                "name": "LED Lighting",
+                "value": "RGB"
+            },
+            {
+                "name": "Dimensions",
+                "value": "304.80 mm x 243.84 mm"
+            },
+            {
+                "name": "Power Pin",
+                "value": "1 x 24-pin ATX Power Connector 1 x 8-pin 12V Power Connector"
+            },
+            {
+                "name": "Chipset",
+                "value": "B450"
+            }
+        ],
+        "category": "Motherboard"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "PSUCSRMX650V2",
+        "name": "Corsair RM650XV2 (CP-9020178-AU) 650Watt 80Plus Gold Full Modular ATX PSU",
+        "description": "Limit 1 per customer.",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011257_corsair-rm650xv2-cp-9020178-au-650watt-80plus-gold-full-modular-atx-psu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "PSU TYPE",
+                "value": "ATX12V / EPS12V"
+            },
+            {
+                "name": "Maximum Power",
+                "value": "650W"
+            },
+            {
+                "name": "PSU Fans",
+                "value": "140mm  fan"
+            },
+            {
+                "name": "PSU PFC",
+                "value": "Active"
+            },
+            {
+                "name": "Main Connector",
+                "value": "24Pin"
+            },
+            {
+                "name": "+12V Rails",
+                "value": "Single"
+            },
+            {
+                "name": "PCI-Express Connector",
+                "value": "4 x 6+2-Pin"
+            },
+            {
+                "name": "SATA Power Connector",
+                "value": "9"
+            },
+            {
+                "name": "PSU Modular",
+                "value": "Full Modular"
+            },
+            {
+                "name": "Efficiency",
+                "value": "92% (Max)"
+            },
+            {
+                "name": "Energy-Efficient",
+                "value": "80 PLUS GOLD Certified"
+            },
+            {
+                "name": "Over Voltage Protection",
+                "value": "Yes"
+            },
+            {
+                "name": "PSU Input Voltage",
+                "value": "100 - 240 V"
+            },
+            {
+                "name": "PSU Input Frequency Range",
+                "value": "50/60 Hz"
+            },
+            {
+                "name": "Input Current",
+                "value": "10A - 5A"
+            },
+            {
+                "name": "Brand",
+                "value": "Corsair"
+            }
+        ],
+        "category": "Power Supply"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "MBAASB450FG",
+        "name": "Asus STRIX B450-F GAMING AMD AM4 B450 4xDDR4/3xPCIEx16/HDMI/DP/M.2/USB3.1/ATX Motherboard - USB3.1 (Gen 1) Type-A+C",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.  \nLimit 2 per customer.",
+        "price": 209,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011259_asus-strix-b450-f-gaming-amd-am4-b450-4xddr43xpciex16hdmidpm2usb31atx-motherboard-usb31-gen-1-type-a.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Asus"
+            },
+            {
+                "name": "CPU Socket Type",
+                "value": "AM4"
+            },
+            {
+                "name": "Chipset",
+                "value": "B450"
+            },
+            {
+                "name": "Number of Memory Slots",
+                "value": "4x288pin"
+            },
+            {
+                "name": "Memory Standard",
+                "value": "DDR4 3200+(OC)/ 2933(OC)/ 2667/ 2400/ 2133"
+            },
+            {
+                "name": "Maximum Memory Supported",
+                "value": "64GB"
+            },
+            {
+                "name": "Channel Supported",
+                "value": "Dual Channel"
+            },
+            {
+                "name": "PCI Express 3.0 x16",
+                "value": "AMD Ryzen series CPUs (Summit Ridge and Pinnacle Ridge) - 2 x PCI Express 3.0 x16 Slots (PCIE2: x16 mode; PCIE4: x4 mode)* AMD Ryzen series CPUs (Raven Ridge) - 1 x PCI Express 3.0 x16 Slots (PCIE1: x8 mode)"
+            },
+            {
+                "name": "PCI Express 2.0 x16",
+                "value": "1 x PCI Express 2.0 x16 slot (max.@x4 mode)"
+            },
+            {
+                "name": "PCI Express x1",
+                "value": "3 x PCI Express 2.0 x1 slots"
+            },
+            {
+                "name": "SATA 6Gb/s",
+                "value": "6 x SATA3 6.0Gb/s"
+            },
+            {
+                "name": "M.2",
+                "value": "1 x M.2 Socket 3, with M key, type 2242/2260/2280 storage devices support (SATA &amp; PCIE 3.0 x4 mode) 1 x M.2 Socket 3, with M key, type 2242/2260/2280/22110 storage devices support (PCIE 3.0 x4 mode)"
+            },
+            {
+                "name": "SATA RAID",
+                "value": "0/1/10"
+            },
+            {
+                "name": "Audio Chipset",
+                "value": "ROG SupremeFX High Definition Audio CODEC S1220A"
+            },
+            {
+                "name": "Audio Channels",
+                "value": "8 Channels"
+            },
+            {
+                "name": "Max LAN Speed",
+                "value": "10/100/1000Mbps"
+            },
+            {
+                "name": "PS/2",
+                "value": "1 x PS/2 keyboard/mouse port"
+            },
+            {
+                "name": "Video Ports",
+                "value": "1 x HDMI 2.0b port 1 x DisplayPort"
+            },
+            {
+                "name": "RJ45",
+                "value": "1 x RJ45"
+            },
+            {
+                "name": "USB 3.1",
+                "value": "2 x USB 3.1 Gen2 ports (Type A) 3 x USB 3.1 Gen1 ports (Type A) 1 x USB 3.1 Gen1 ports(Type C)"
+            },
+            {
+                "name": "USB 1.1/2.0",
+                "value": "2 x USB 2.0"
+            },
+            {
+                "name": "S/PDIF Out",
+                "value": "1 x Optical"
+            },
+            {
+                "name": "Audio Ports",
+                "value": "5 Ports"
+            },
+            {
+                "name": "Form Factor",
+                "value": "ATX"
+            },
+            {
+                "name": "LED Lighting",
+                "value": "RGB"
+            },
+            {
+                "name": "Dimensions",
+                "value": "304.80 mm x 243.84 mm"
+            },
+            {
+                "name": "Power Pin",
+                "value": "1 x 24-pin ATX Power Connector 1 x 8-pin 12V Power Connector"
+            },
+            {
+                "name": "CPU Type",
+                "value": "Ryzen Series"
+            }
+        ],
+        "category": "Motherboard"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "MSROGGLADIUS",
+        "name": "Asus ROG Gladius II Pro RGB Gaming Mouse 12000DPI/6 Button/AURA Sync",
+        "description": "Available: Online order and delivery ONLY.  \nProduct with limited quantity. While stocks last.",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011254_asus-rog-gladius-ii-pro-rgb-gaming-mouse-12000dpi6-buttonaura-sync.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "12000 dpi"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Gigabyte",
+        "sku": "MBAGB4AB450MDS3",
+        "name": "Gigabyte B450M-DS3H AMD Motherboard",
+        "description": "Gigabyte B450M-DS3H AMD4 B450 4xDDR4/2x PCI-Ex16/M.2/USB3.1 / Micro ATX Motherboard \nLimit 2 per customer.",
+        "price": 139,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011506_gigabyte-b450m-ds3h-amd-motherboard.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Gigabyte"
+            },
+            {
+                "name": "CPU Socket Type",
+                "value": "AM4"
+            },
+            {
+                "name": "CPU Type",
+                "value": "Ryzen (2nd Gen/1st Gen/ with Radeon Vega Graphics)"
+            },
+            {
+                "name": "Chipset",
+                "value": "B450"
+            },
+            {
+                "name": "Number of Memory Slots",
+                "value": "4x288pin"
+            },
+            {
+                "name": "Memory Standard",
+                "value": "DDR4 3200+(OC)/ 2933(OC)/ 2667/ 2400/ 2133"
+            },
+            {
+                "name": "Maximum Memory Supported",
+                "value": "64GB"
+            },
+            {
+                "name": "Channel Supported",
+                "value": "Dual Channel"
+            },
+            {
+                "name": "PCI Express 3.0 x16",
+                "value": "AMD Ryzen series CPUs - 1 x PCI Express 3.0 x16 Slot (PCIE2: x16 mode)* AMD 7th A-Series APUs - 1 x PCI Express 3.0 x16 Slot (PCIE2: x8 mode)*"
+            },
+            {
+                "name": "PCI Express 2.0 x16",
+                "value": "1 x PCI Express 2.0 x16 slot (max.@x4 mode)"
+            },
+            {
+                "name": "PCI Express x1",
+                "value": "1 x PCI Express 2.0 x1 Slot"
+            },
+            {
+                "name": "SATA 6Gb/s",
+                "value": "4 x SATA 6.0Gb/s connectors"
+            },
+            {
+                "name": "M.2",
+                "value": "1 x M.2 socket 3 with M Key, Type 2242/2260/2280/22110 (PCIE 3.0 x4 and SATA modes) storage devices support"
+            },
+            {
+                "name": "SATA RAID",
+                "value": "0/1/10"
+            },
+            {
+                "name": "Audio Chipset",
+                "value": "Realtek ALC 887"
+            },
+            {
+                "name": "Audio Channels",
+                "value": "7.1 Channels"
+            },
+            {
+                "name": "Max LAN Speed",
+                "value": "10/100/1000Mbps"
+            },
+            {
+                "name": "PS/2",
+                "value": "1 x PS/2 keyboard/mouse port"
+            },
+            {
+                "name": "Video Ports",
+                "value": "1 x DVI-D 1 x HDMI"
+            },
+            {
+                "name": "RJ45",
+                "value": "1 x RJ45"
+            },
+            {
+                "name": "USB 3.1",
+                "value": "4 x USB 3.1 Gen 1"
+            },
+            {
+                "name": "USB 1.1/2.0",
+                "value": "4 x USB 2.0"
+            },
+            {
+                "name": "Audio Ports",
+                "value": "HD Audio Jacks: Line in / Front Speaker / Microphone"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Micro ATX"
+            },
+            {
+                "name": "LED Lighting",
+                "value": "RGB"
+            },
+            {
+                "name": "Dimensions",
+                "value": "243.84 mm x 215.90 mm"
+            },
+            {
+                "name": "Power Pin",
+                "value": "1 x 24-pin ATX Power Connector 1 x 8-pin 12V Power Connector"
+            }
+        ],
+        "category": "Motherboard"
+    },
+    {
+        "brand": "Deepcool",
+        "sku": "COOLDCCF120WF3",
+        "name": "DeepCool MF120 RGB (DP-GS-FMF120WF-3SW) 2200RPM Triple Pack Cooling Fan",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 99,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012072_deepcool-mf120-rgb-dp-gs-fmf120wf-3sw-2200rpm-triple-pack-cooling-fan.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "RGB"
+            },
+            {
+                "name": "Brand",
+                "value": "Deepcool"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "ACC00CMFC3NNN1R",
+        "name": "Coolermaster (MFX-AWHN-3NNN1-R1) Addressable RGB Trident Fan cable (1-to-3)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 13,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015011_coolermaster-mfx-awhn-3nnn1-r1-addressable-rgb-trident-fan-cable-1-to-3.png"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015012_coolermaster-mfx-awhn-3nnn1-r1-addressable-rgb-trident-fan-cable-1-to-3.png"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015013_coolermaster-mfx-awhn-3nnn1-r1-addressable-rgb-trident-fan-cable-1-to-3.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            },
+            {
+                "name": "Connector",
+                "value": "3-pin"
+            },
+            {
+                "name": "Cooler Type",
+                "value": "RGB Accessories"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.5V"
+            },
+            {
+                "name": "Length (mm)",
+                "value": "500"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD0280EFAX",
+        "name": "WD 3.5\" Red NAS 8TB (WD80EFAX) 256MB SATA3 HDD",
+        "description": "No Description",
+        "price": 398,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0013251_wd-35-red-nas-8tb-wd80efax-256mb-sata3-hdd.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "8TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "256MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "SPKATUXA21BK",
+        "name": "ALCATROZ X-Audio (Black) 2.1 USB Speaker",
+        "description": "ALCATROZ X-Audio (Black) 2.1 USB Speaker",
+        "price": 12,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011299_alcatroz-x-audio-black-21-usb-speaker.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Speaker Configuration",
+                "value": "2.1"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "USB"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "3.5mm Jack Plug"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "SPKSGBUSBU300",
+        "name": "SONICGEAR Sonicbar U300 BLACK USB SoundBar",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 22,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012350_sonicgear-sonicbar-u300-black-usb-soundbar.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Speaker Connector",
+                "value": "USB"
+            },
+            {
+                "name": "Speaker Configuration",
+                "value": "2.1"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "Razer",
+        "sku": "MPRZGOCHREXT",
+        "name": "Razer Goliathus Chroma Extended Soft Gaming Mouse Mat",
+        "description": "Razer Goliathus Chroma Extended (RZ02-02500300-R3M1) Soft Gaming Mouse Mat",
+        "price": 119,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014551_razer-goliathus-chroma-extended-soft-gaming-mouse-mat.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011305_razer-goliathus-chroma-extended-soft-gaming-mouse-mat.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Razer"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLSG116",
+        "name": "TP-LINK (TL-SG116) 16 Port Gigabit Metal Desktop Switch",
+        "description": "TP-LINK (TL-SG116) 16 Port Gigabit Metal Desktop Switch",
+        "price": 79,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012548_tp-link-tl-sg116-16-port-gigabit-metal-desktop-switch.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Standards",
+                "value": "IEEE 802.3i, IEEE802.3u, IEEE802.3ab, IEEE802.3x, IEEE802.1p"
+            },
+            {
+                "name": "Interface",
+                "value": "16 x 10/100/1000Mbps Ports;  Auto-Negotiation, Auto-MDI/MDIX"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "16"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "External Power Supply\t (Output: 12VDC / 1.0A)"
+            },
+            {
+                "name": "Fanless",
+                "value": "Yes"
+            },
+            {
+                "name": "Installation",
+                "value": "Desktop"
+            },
+            {
+                "name": "Installation",
+                "value": "wall-mountable"
+            },
+            {
+                "name": "Housing",
+                "value": "metal"
+            },
+            {
+                "name": "Dimensions",
+                "value": "11.26 x 4.4 x 1.0 in. (286 x 112 x 25 mm)"
+            },
+            {
+                "name": "Jumbo Frame",
+                "value": "10 KB"
+            },
+            {
+                "name": "IGMP Snooping",
+                "value": "Yes"
+            },
+            {
+                "name": "QoS",
+                "value": "Yes"
+            },
+            {
+                "name": "Certification",
+                "value": "CE, FCC ,RoHS"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "HSASROGSTRIXF30",
+        "name": "Asus (ROG-STRIX-F300) Fusion 300 Virtual 7.1 Gaming Headset",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 159,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014227_asus-rog-strix-f300-fusion-300-virtual-71-gaming-headset.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014229_asus-rog-strix-f300-fusion-300-virtual-71-gaming-headset.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014230_asus-rog-strix-f300-fusion-300-virtual-71-gaming-headset.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011294_asus-rog-strix-f300-fusion-300-virtual-71-gaming-headset.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014228_asus-rog-strix-f300-fusion-300-virtual-71-gaming-headset.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "USB"
+            },
+            {
+                "name": "Headphone(Microphone) Frequency Response",
+                "value": "20Hz-20KHz"
+            },
+            {
+                "name": "Microphone Included",
+                "value": "Yes"
+            },
+            {
+                "name": "Microphone Sensitivity",
+                "value": "-40+/- 3dB"
+            },
+            {
+                "name": "Microphone Frequency Response",
+                "value": "50Hz-10KHz"
+            },
+            {
+                "name": "Brand",
+                "value": "Asus"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "Thermaltake",
+        "sku": "CASETTJ25",
+        "name": "Thermaltake Versa J25 (CA-1L8-00M1WN-01) Tempered Glass RGB Mid Tower Gaming Case without PSU",
+        "description": "No Description",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011372_thermaltake-versa-j25-ca-1l8-00m1wn-01-tempered-glass-rgb-mid-tower-gaming-case-without-psu.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Thermaltake"
+            },
+            {
+                "name": "Case Type",
+                "value": "ATX Mid Tower"
+            },
+            {
+                "name": "With Power Supply",
+                "value": "No"
+            },
+            {
+                "name": "Motherboard Compatibility",
+                "value": "Micro ATX / ATX / Mini-ITX"
+            },
+            {
+                "name": "Internal 2.5\" Drive Bays",
+                "value": "2"
+            },
+            {
+                "name": "Internal 3.5\" Drive Bays",
+                "value": "3"
+            },
+            {
+                "name": "Side Panel Window",
+                "value": "Yes"
+            }
+        ],
+        "category": "Case"
+    },
+    {
+        "brand": "G skill",
+        "sku": "RAMZ4DGSSX32G04",
+        "name": "G.Skill SNIPER X (F4-2400C17D-32GSXK) (Digital Camo) 32GB Kit (16GBx2) DDR4 2400 Desktop RAM",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012493_gskill-sniper-x-f4-2400c17d-32gsxk-digital-camo-32gb-kit-16gbx2-ddr4-2400-desktop-ram.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "32GB (2x16GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Multi-channel Kit",
+                "value": "Dual Channel kit"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            },
+            {
+                "name": "Brand",
+                "value": "G.Skill"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Viewsonic",
+        "sku": "MTVSVX32762KMHD",
+        "name": "Viewsonic IPS 32\" (VX3276-2K-MHD) 2560 x 1440 4ms HDMIx2 DP mDP SPK VESA Borderless Siliver Monitor",
+        "description": "No Description",
+        "price": 399,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012406_viewsonic-ips-32-vx3276-2k-mhd-2560-x-1440-4ms-hdmix2-dp-mdp-spk-vesa-borderless-siliver-monitor.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Monitor Screen Size",
+                "value": "31.5\""
+            },
+            {
+                "name": "Recommended Resolution",
+                "value": "2560 x 1440 (2k)"
+            },
+            {
+                "name": "Response Time",
+                "value": "4ms"
+            },
+            {
+                "name": "Panel",
+                "value": "IPS"
+            },
+            {
+                "name": "Brand",
+                "value": "Viewsonic"
+            }
+        ],
+        "category": "Monitors"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "KBCSVENK70MK2RD",
+        "name": "Corsair Gaming K70 MK2 RGB LED (CH-9109010-NA) Cherry MX RGB RED Full Mechanical Keyboard",
+        "description": "Corsair Gaming K70 MK2 RGB LED (CH-9109010-NA) Cherry MX RGB RED Full Mechanical Keyboard",
+        "price": 259,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011686_corsair-gaming-k70-mk2-rgb-led-ch-9109010-na-cherry-mx-rgb-red-full-mechanical-keyboard.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "Yes"
+            },
+            {
+                "name": "Key Switch Type",
+                "value": "Cherry MX Red"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Brand",
+                "value": "Corsair"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "KBCSVENK70MK2BL",
+        "name": "Corsair Gaming K70 MK2 RGB LED (CH-9109011-NA) Cherry MX RGB BLUE Full Mechanical Keyboard",
+        "description": "Corsair Gaming K70 MK2 RGB LED (CH-9109011-NA) Cherry MX RGB BLUE Full Mechanical Keyboard",
+        "price": 259,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011687_corsair-gaming-k70-mk2-rgb-led-ch-9109011-na-cherry-mx-rgb-blue-full-mechanical-keyboard.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "Yes"
+            },
+            {
+                "name": "Key Switch Type",
+                "value": "Cherry MX Blue"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Brand",
+                "value": "Corsair"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "G skill",
+        "sku": "RAMZ4DGSSX16G03",
+        "name": "G.Skill SNIPER X (F4-2400C17D-16GSXF) (Classic Camo) 16GB Kit (8GBx2) DDR4 2400 Desktop RAM",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 149,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012491_gskill-sniper-x-f4-2400c17d-16gsxf-classic-camo-16gb-kit-8gbx2-ddr4-2400-desktop-ram.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "16G"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "DDR4 2400"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Multi-channel Kit",
+                "value": "Dual Channel kit"
+            },
+            {
+                "name": "Brand",
+                "value": "G.Skill"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "KBCSVENK70MK2SL",
+        "name": "Corsair Gaming K70 MK2 RGB LED (CH-9109013-NA) Cherry MX RGB SILENT Full Mechanical Keyboard",
+        "description": "Corsair Gaming K70 MK2 RGB LED (CH-9109013-NA) Cherry MX RGB SILENT Full Mechanical Keyboard",
+        "price": 259,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011689_corsair-gaming-k70-mk2-rgb-led-ch-9109013-na-cherry-mx-rgb-silent-full-mechanical-keyboard.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "Yes"
+            },
+            {
+                "name": "Key Switch Type",
+                "value": "Cherry MX Silent"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Brand",
+                "value": "Corsair"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Rotanium",
+        "sku": "COOL00001500021",
+        "name": "Rotanium Multi-Colorful OI-21-A 120mm (12cm) ARGB Case Fan",
+        "description": "No Description",
+        "price": 14,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014273_rotanium-multi-colorful-oi-21-a-120mm-12cm-argb-case-fan.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Rotanium"
+            },
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "RGB"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "GeIL",
+        "sku": "RAMZ4DGE04G001",
+        "name": "GeIL Pristine (GP44GB2400C17SC) 4GB Single DDR4 2400 Desktop RAM",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 28,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011190_geil-pristine-gp44gb2400c17sc-4gb-single-ddr4-2400-desktop-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "4GB (1x4GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Brand",
+                "value": "Geil"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Deepcool",
+        "sku": "COOLDCCF1401",
+        "name": "Deepcool CF 140 (DP-FA-RGB-CF140-1) Addressable RGB Case Fan",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 34,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012075_deepcool-cf-140-dp-fa-rgb-cf140-1-addressable-rgb-case-fan.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "140mm"
+            },
+            {
+                "name": "LED light",
+                "value": "Addressable RGB"
+            },
+            {
+                "name": "Brand",
+                "value": "Deepcool"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "COOLNT7A12X25U",
+        "name": "Noctua (NF-A12x25-ULN) 120mm 3-pin 1200rpm Silent Case Fan",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 55,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012105_noctua-nf-a12x25-uln-120mm-3-pin-1200rpm-silent-case-fan.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012106_noctua-nf-a12x25-uln-120mm-3-pin-1200rpm-silent-case-fan.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Noctua"
+            },
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "No LED"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Corsair",
+        "sku": "KBCSVENK70MK2BR",
+        "name": "Corsair Gaming K70 MK2 RGB LED (CH-9109012-NA) Cherry MX RGB BROWN Full Mechanical Keyboard",
+        "description": "Corsair Gaming K70 MK2 RGB LED (CH-9109012-NA) Cherry MX RGB BROWN Full Mechanical Keyboard",
+        "price": 259,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011688_corsair-gaming-k70-mk2-rgb-led-ch-9109012-na-cherry-mx-rgb-brown-full-mechanical-keyboard.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "KB Interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mechanical Keyboard",
+                "value": "Yes"
+            },
+            {
+                "name": "Key Switch Type",
+                "value": "Cherry MX Brown"
+            },
+            {
+                "name": "Keyboard Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Brand",
+                "value": "Corsair"
+            }
+        ],
+        "category": "Keyboard"
+    },
+    {
+        "brand": "Rotanium",
+        "sku": "COOL00001500022",
+        "name": "Rotanium Multi-Colorful OI-A ARGB Fan Addressable Controller for OI series",
+        "description": "No Description",
+        "price": 13,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014338_rotanium-multi-colorful-oi-a-argb-fan-addressable-controller-for-oi-series.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Rotanium"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Deepcool",
+        "sku": "COOLDCCF1201",
+        "name": "Deepcool CF 120 (DP-FA-RGB-CF120-1) Addressable RGB Case Fan",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012069_deepcool-cf-120-dp-fa-rgb-cf120-1-addressable-rgb-case-fan.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "120mm"
+            },
+            {
+                "name": "LED light",
+                "value": "Addressable RGB"
+            },
+            {
+                "name": "Brand",
+                "value": "Deepcool"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "COOLNT83647D9",
+        "name": "Noctua (NH-D9 DX-3647 4U) CPU cooler for LGA3647-based Xeon workstation servers",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 159,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0013230_noctua-nh-d9-dx-3647-4u-cpu-cooler-for-lga3647-based-xeon-workstation-servers.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "140mm"
+            },
+            {
+                "name": "LED light",
+                "value": "No LED"
+            },
+            {
+                "name": "Cooler Type",
+                "value": "Air Cooler"
+            },
+            {
+                "name": "Brand",
+                "value": "Noctua"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Noctua",
+        "sku": "COOLNT83647U14S",
+        "name": "Noctua (NH-U14S DX-3647) CPU cooler for LGA3647-based Xeon workstation servers",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012111_noctua-nh-u14s-dx-3647-cpu-cooler-for-lga3647-based-xeon-workstation-servers.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fan size",
+                "value": "140mm"
+            },
+            {
+                "name": "LED light",
+                "value": "No LED"
+            },
+            {
+                "name": "Cooler Type",
+                "value": "Air Cooler"
+            },
+            {
+                "name": "Brand",
+                "value": "Noctua"
+            }
+        ],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Volans",
+        "sku": "DCABVL4KMDPHDV4",
+        "name": "Volans (MDPHDV-4K) Mini DisplayPort to HDMI (4K) / DVI / VGA Converter",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015482_volans-mdphdv-4k-mini-displayport-to-hdmi-4k-dvi-vga-converter.jpeg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "LG",
+        "sku": "MTLG24MK430HB",
+        "name": "LG 24\" IPS (24MK430H-B) 1920x1080 5ms HDMI/VGA/FreeSync Tilt Monitor",
+        "description": "LG 24\" IPS (24MK430H-B) 1920x1080 5ms HDMI/VGA/FreeSync Tilt Monitor \nLimit 2 per customer.",
+        "price": 209,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011712_lg-24-ips-24mk430h-b-1920x1080-5ms-hdmivgafreesync-tilt-monitor.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Monitor Screen Size",
+                "value": "24\""
+            },
+            {
+                "name": "Recommended Resolution",
+                "value": "1920 x 1080"
+            },
+            {
+                "name": "Response Time",
+                "value": "5ms"
+            },
+            {
+                "name": "Panel",
+                "value": "IPS"
+            },
+            {
+                "name": "Gaming Sync Mode",
+                "value": "Free-Sync"
+            },
+            {
+                "name": "Brand",
+                "value": "LG"
+            }
+        ],
+        "category": "Monitors"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "FLASHPSDDDC2016",
+        "name": "SanDisk ULTRA Dual Drive USB Type-C (SDDDC2-016G-G46) 16GB USB3.1 (Gen 1) Type CType-A Flash Dri",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 13,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011576_sandisk-ultra-dual-drive-usb-type-c-sdddc2-016g-g46-16gb-usb31-gen-1-type-ctype-a-flash-dri.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "16G"
+            },
+            {
+                "name": "USB Specification",
+                "value": "USB 3.1"
+            },
+            {
+                "name": "Brand",
+                "value": "Sandisk"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "BitFenix",
+        "sku": "CASEBFPOR150BK",
+        "name": "BitFenix Portal Window Mini Tower Case Black",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 189,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012130_bitfenix-portal-window-mini-tower-case-black.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Bitfenix"
+            },
+            {
+                "name": "Case Type",
+                "value": "Mini-ITX"
+            },
+            {
+                "name": "With Power Supply",
+                "value": "No"
+            },
+            {
+                "name": "Motherboard Compatibility",
+                "value": "Mini-ITX"
+            },
+            {
+                "name": "Internal 3.5\" Drive Bays",
+                "value": "2"
+            },
+            {
+                "name": "Internal 2.5\" Drive Bays",
+                "value": "1"
+            },
+            {
+                "name": "Side Panel Window",
+                "value": "Yes"
+            }
+        ],
+        "category": "Case"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "MSCMMM530RGB",
+        "name": "Coolermaster  (SGM-4007-KLLW1) MasterMouse MM530 RGB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 65,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011721_coolermaster-sgm-4007-kllw1-mastermouse-mm530-rgb-optical-mouse.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "12000 dpi"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Ergonomics"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            },
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "D-Link",
+        "sku": "HUBDL98DGSP05PD",
+        "name": "D-Link (DGS-1100-05PD) 5-Port Gigabit smart managed with 2-port POE pass-through switch",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012314_d-link-dgs-1100-05pd-5-port-gigabit-smart-managed-with-2-port-poe-pass-through-switch.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "D-link"
+            },
+            {
+                "name": "Jumbo Frame",
+                "value": "9216 bytes"
+            },
+            {
+                "name": "PoE Type Required",
+                "value": "PoE"
+            },
+            {
+                "name": "PoE Type Required",
+                "value": "PoE+"
+            },
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            },
+            {
+                "name": "VLAN",
+                "value": "32 Groups"
+            },
+            {
+                "name": "Voice VLAN",
+                "value": "Yes"
+            },
+            {
+                "name": "IGMP Snooping",
+                "value": "Yes"
+            },
+            {
+                "name": "Cable Diagnostics",
+                "value": "Yes"
+            },
+            {
+                "name": "Energy Saving Technology",
+                "value": "EEE Compliant"
+            },
+            {
+                "name": "Energy Saving Technology",
+                "value": "D-Link Green"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "5"
+            },
+            {
+                "name": "Installation",
+                "value": "Desktop"
+            },
+            {
+                "name": "Fanless",
+                "value": "Yes"
+            },
+            {
+                "name": "PoE Ports",
+                "value": "2 PoE Pass-through Ports"
+            },
+            {
+                "name": "PoE Power Budget",
+                "value": "18 watt"
+            },
+            {
+                "name": "Switching Capacity",
+                "value": "10 Gbps"
+            },
+            {
+                "name": "QoS",
+                "value": "Yes"
+            },
+            {
+                "name": "Spanning Tree Protocol",
+                "value": "Yes"
+            },
+            {
+                "name": "Web-based GUI",
+                "value": "Yes"
+            },
+            {
+                "name": "Switch Series",
+                "value": "DGS-1100 Series"
+            },
+            {
+                "name": "Link Aggregation",
+                "value": "Yes"
+            },
+            {
+                "name": "Static Routing",
+                "value": "No"
+            },
+            {
+                "name": "Dimensions",
+                "value": "150 x 97 x 28 mm"
+            },
+            {
+                "name": "Management",
+                "value": "Smart Managed"
+            }
+        ],
+        "category": "Networking"
+    }
+]

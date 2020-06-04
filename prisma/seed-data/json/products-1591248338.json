@@ -1,0 +1,5222 @@
+[
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLFCAT6A003",
+        "name": "Cablelist CL-FCAT6A3M 3 Meter FLAT Cat6A UTP High Speed Network Cable",
+        "description": "Cablelist CL-FCAT6A3M 3 Meter FLAT Cat6A UTP High Speed Network Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008832_cablelist-cl-fcat6a3m-3-meter-flat-cat6a-utp-high-speed-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "UTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A00",
+        "name": "Cablelist CL-LSZHCAT6A0.5M 50cm Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A0.5M 50cm Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008835_cablelist-cl-lszhcat6a05m-50cm-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "0.5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLFCAT6A010",
+        "name": "Cablelist CL-CAT6A10M 10 Meter FLAT Cat6A UTP High Speed Network Cable",
+        "description": "Cablelist CL-CAT6A10M 10 Meter FLAT Cat6A UTP High Speed Network Cable",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008834_cablelist-cl-cat6a10m-10-meter-flat-cat6a-utp-high-speed-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "UTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "10M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A01",
+        "name": "Cablelist CL-LSZHCAT6A1M 1 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A1M 1 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008836_cablelist-cl-lszhcat6a1m-1-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "1M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDHMM4K02",
+        "name": "Cablelist CL-DVIHD2M4K 2 Meter M-M DVI-HDMI2.0 Dual Link Copper Cable (4K support)",
+        "description": "Cablelist CL-DVIHD2M4K 2 Meter M-M DVI-HDMI2.0 Dual Link Copper Cable (4K support)",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008838_cablelist-cl-dvihd2m4k-2-meter-m-m-dvi-hdmi20-dual-link-copper-cable-4k-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLFCAT6A005",
+        "name": "Cablelist CL-FCAT6A5M 5 Meter FLAT Cat6A UTP High Speed Network Cable",
+        "description": "Cablelist CL-FCAT6A5M 5 Meter FLAT Cat6A UTP High Speed Network Cable",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008833_cablelist-cl-fcat6a5m-5-meter-flat-cat6a-utp-high-speed-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "UTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPHDMI4K2",
+        "name": "Cablelist CL-DPHDMI2M4K 2 Meter DisplayPort1.2 to HDMI2.0 Copper Cable (4K support)",
+        "description": "Cablelist CL-DPHDMI2M4K 2 Meter DisplayPort1.2 to HDMI2.0 Copper Cable (4K support)",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008842_cablelist-cl-dphdmi2m4k-2-meter-displayport12-to-hdmi20-copper-cable-4k-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPDVI4K02",
+        "name": "Cablelist CL-DPDVI2M4K 2 Meter DisplayPort1.2 to DVI Male Copper Cable (4K support)",
+        "description": "Cablelist CL-DPDVI2M4K 2 Meter DisplayPort1.2 to DVI Male Copper Cable (4K support)",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008840_cablelist-cl-dpdvi2m4k-2-meter-displayport12-to-dvi-male-copper-cable-4k-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPHDMI4K3",
+        "name": "Cablelist CL-DPHDMI3M4K 3 Meter DisplayPort1.2 to HDMI2.0 Copper Cable (4K support)",
+        "description": "Cablelist CL-DPHDMI3M4K 3 Meter DisplayPort1.2 to HDMI2.0 Copper Cable (4K support)",
+        "price": 16,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008843_cablelist-cl-dphdmi3m4k-3-meter-displayport12-to-hdmi20-copper-cable-4k-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPMDPHD4K",
+        "name": "Cablelist CL-MiniHDMI4K 20cm Mini DisplayPort to HDMI2.0 Copper Cable (4K Active support)",
+        "description": "Cablelist CL-MiniHDMI4K 20cm Mini DisplayPort to HDMI2.0 Copper Cable (4K Active support)",
+        "price": 16,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008846_cablelist-cl-minihdmi4k-20cm-mini-displayport-to-hdmi20-copper-cable-4k-active-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini Display Port"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Female)"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDHMM4K03",
+        "name": "Cablelist CL-DVIHD3M4K 3 Meter M-M DVI-HDMI2.0 Dual Link Copper Cable (4K support)",
+        "description": "Cablelist CL-DVIHD3M4K 3 Meter M-M DVI-HDMI2.0 Dual Link Copper Cable (4K support)",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008839_cablelist-cl-dvihd3m4k-3-meter-m-m-dvi-hdmi20-dual-link-copper-cable-4k-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPMM4K02",
+        "name": "Cablelist CL-V1.2DISP2M V1.2 2 Meter 4K at 60Hz DisplayPort M-M Copper Cable",
+        "description": "Cablelist CL-V1.2DISP2M V1.2 2 Meter 4K at 60Hz DisplayPort M-M Copper Cable",
+        "price": 12,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012955_cablelist-cl-v12disp2m-v12-2-meter-4k-at-60hz-displayport-m-m-copper-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPMM4K03",
+        "name": "Cablelist CL-V1.2DISP3M V1.2 3 Meter 4K at 60Hz DisplayPort M-M Copper Cable",
+        "description": "Cablelist CL-V1.2DISP3M V1.2 3 Meter 4K at 60Hz DisplayPort M-M Copper Cable",
+        "price": 14,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012956_cablelist-cl-v12disp3m-v12-3-meter-4k-at-60hz-displayport-m-m-copper-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Display Port (DP) (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLMH20MM4K3",
+        "name": "Cablelist CL-HDMRHD4K-3M 3 Meter V2.0 4K M-M Micro HDMI to HDM Gold Plated Copper Cable",
+        "description": "Cablelist CL-HDMRHD4K-3M 3 Meter V2.0 4K M-M Micro HDMI to HDM Gold Plated Copper Cable",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012968_cablelist-cl-hdmrhd4k-3m-3-meter-v20-4k-m-m-micro-hdmi-to-hdm-gold-plated-copper-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Micro HDMI"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPMDP4K02",
+        "name": "Cablelist CL-DPMiniDP2M4K 2 Meter DisplayPort1.2 to Mini DisplayPort Copper Cable (4K support)",
+        "description": "Cablelist CL-DPMiniDP2M4K 2 Meter DisplayPort1.2 to Mini DisplayPort Copper Cable (4K support)",
+        "price": 12,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008844_cablelist-cl-dpminidp2m4k-2-meter-displayport12-to-mini-displayport-copper-cable-4k-support.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A03",
+        "name": "Cablelist CL-LSZHCAT6A3M 3 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A3M 3 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008857_cablelist-cl-lszhcat6a3m-3-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLNH20MM4K2",
+        "name": "Cablelist CL-HDMINIHD4K-2M 2 Meter V2.0 4K M-M Mini HDMI to HDM Gold Plated Copper Cable",
+        "description": "No Description",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012970_cablelist-cl-hdminihd4k-2m-2-meter-v20-4k-m-m-mini-hdmi-to-hdm-gold-plated-copper-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini HDMI"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLDPMDPDV4K",
+        "name": "Cablelist CL-MINIDVI4K 20cm Mini DisplayPort to DVI Copper Cable (4K Active support)",
+        "description": "Cablelist CL-MINIDVI4K 20cm Mini DisplayPort to DVI Copper Cable (4K Active support)",
+        "price": 16,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008845_cablelist-cl-minidvi4k-20cm-mini-displayport-to-dvi-copper-cable-4k-active-support.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini Display Port"
+            },
+            {
+                "name": "Connector",
+                "value": "DVI (Female)"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A02",
+        "name": "Cablelist CL-LSZHCAT6A2M 2 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A2M 2 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008856_cablelist-cl-lszhcat6a2m-2-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLAPEAP110",
+        "name": "TP-LINK EAP110 300Mbps Wireless N Ceiling Mount Access Point with Passive PoE",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 42,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008873_tp-link-eap110-300mbps-wireless-n-ceiling-mount-access-point-with-passive-poe.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "300M"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLAPEAP320",
+        "name": "TP-LINK EAP320 AC1200 Dual Band Wireless Gigabit Ceiling Wall Mount Access Point",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 189,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008879_tp-link-eap320-ac1200-dual-band-wireless-gigabit-ceiling-wall-mount-access-point.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Networking"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A50",
+        "name": "Cablelist CL-LSZHCAT6A50M 50 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A50M 50 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 58,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008862_cablelist-cl-lszhcat6a50m-50-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "50M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A20",
+        "name": "Cablelist CL-LSZHCAT6A20M 20 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "No Description",
+        "price": 28,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008860_cablelist-cl-lszhcat6a20m-20-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "20M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A10",
+        "name": "Cablelist CL-LSZHCAT6A10M 10 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A10M 10 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008859_cablelist-cl-lszhcat6a10m-10-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "10M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLESSG1005E",
+        "name": "TP-LINK TL-SG105E 5-Port Gigabit Desktop Easy Smart Switch",
+        "description": "No Description",
+        "price": 39,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008881_tp-link-tl-sg105e-5-port-gigabit-desktop-easy-smart-switch.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "5"
+            },
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A05",
+        "name": "Cablelist CL-LSZHCAT6A5M 5 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "Cablelist CL-LSZHCAT6A5M 5 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008858_cablelist-cl-lszhcat6a5m-5-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "5M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "NCABCLSZCAT6A30",
+        "name": "Cablelist CL-LSZHCAT6A30M 30 Meter Cat6A SSTP Low Smoke Zero Halogen Network Cable",
+        "description": "No Description",
+        "price": 38,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008861_cablelist-cl-lszhcat6a30m-30-meter-cat6a-sstp-low-smoke-zero-halogen-network-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "SSTP CAT6 A"
+            },
+            {
+                "name": "Cable Length",
+                "value": "30M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLPOESG108P",
+        "name": "TP-LINK TL-SG1008PE 8-Port Gigabit Desktop Rackmount PoE+ Switch (Max 124W)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 169,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008883_tp-link-tl-sg1008pe-8-port-gigabit-desktop-rackmount-poe-switch-max-124w.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Management",
+                "value": "Unmanaged"
+            },
+            {
+                "name": "PoE Type Required",
+                "value": "PoE+"
+            },
+            {
+                "name": "PoE Ports",
+                "value": "8 Ports"
+            },
+            {
+                "name": "Standards",
+                "value": "802.3af/802.3at"
+            },
+            {
+                "name": "PoE Power Budget",
+                "value": "124 Watt"
+            },
+            {
+                "name": "Bandwidth",
+                "value": "16 Gbps"
+            },
+            {
+                "name": "Installation",
+                "value": "Rackmount"
+            },
+            {
+                "name": "Installation",
+                "value": "Desktop"
+            },
+            {
+                "name": "Fanless",
+                "value": "No"
+            },
+            {
+                "name": "Interface",
+                "value": "8 x 10/100/1000Mbps RJ45;  Ports AUTO Negotiation/AUTO MDI/MDIX"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "100-240VAC, 50/60Hz"
+            },
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLPOET1600G5",
+        "name": "TP-LINK T1600G-52PS (TL-SG2452P) 48-Port Gigabit Smart PoE+ Switch with 4 SFP Slots(Max 384W)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 889,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008889_tp-link-t1600g-52ps-tl-sg2452p-48-port-gigabit-smart-poe-switch-with-4-sfp-slotsmax-384w.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Switch Type",
+                "value": "Smart"
+            },
+            {
+                "name": "PoE Power Budget",
+                "value": "384W"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.3az, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1p, IEEE 802.1x"
+            },
+            {
+                "name": "Interface",
+                "value": "48 x10/100/1000Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX);  4 x Gigabit SFP Slots"
+            },
+            {
+                "name": "Intel CPU Socket",
+                "value": "Socket 2066"
+            },
+            {
+                "name": "Installation",
+                "value": "Rackmount"
+            },
+            {
+                "name": "Bandwidth",
+                "value": "104 Gbps"
+            },
+            {
+                "name": "Jumbo Frame",
+                "value": "9KB"
+            },
+            {
+                "name": "VLAN",
+                "value": "Supports up to 4K VLANs simultaneously (out of 4K VLAN IDs);  MAC/Protocol-based VLAN"
+            },
+            {
+                "name": "Dimensions",
+                "value": "17.3 x 13 x 1.73 in. (440 x 330 x 44 mm)"
+            },
+            {
+                "name": "PoE Ports",
+                "value": "48 ports"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLESSG1008E",
+        "name": "TP-LINK TL-SG108E 8-Port Gigabit Desktop Easy Smart Switch",
+        "description": "TP-LINK TL-SG108E 8-Port Gigabit Desktop Easy Smart Switch",
+        "price": 59,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012542_tp-link-tl-sg108e-8-port-gigabit-desktop-easy-smart-switch.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008882_tp-link-tl-sg108e-8-port-gigabit-desktop-easy-smart-switch.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "8"
+            },
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCIP7P001",
+        "name": "Partlist (PL-PCIP7P001) iPhone 7 Plus Plastic Case Cover",
+        "description": "Partlist (PL-PCIP7P001) iPhone 7 Plus Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008908_partlist-pl-pcip7p001-iphone-7-plus-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPhone 7 Plus"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLWR902AC",
+        "name": "TP-LINK TL-WR902AC Wireless AC750 Pocket Size Travel Router",
+        "description": "TP-LINK TL-WR902AC Wireless AC750 Pocket Size Travel Router",
+        "price": 47,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008891_tp-link-tl-wr902ac-wireless-ac750-pocket-size-travel-router.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "1 +10/100Mbps WAN/LAN Port; 1 *Reset Button; 1* USB 2.0 Port; 1 *Mode Switch; 1* WPS Button"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "5V/2A"
+            },
+            {
+                "name": "Antenna Type",
+                "value": "On-Board"
+            },
+            {
+                "name": "Wireless Standards",
+                "value": "IEEE 802.11ac/n/a 5GHz; IEEE 802.11b/g/n 2.4GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4GHz and 5GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "5 GHz"
+            },
+            {
+                "name": "Wireless Security",
+                "value": "64/128-bit WEP,WPA / WPA2,WPA-PSK/ WPA2-PSK encryption"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC750"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLPOET150028",
+        "name": "TP-LINK T1500-28PCT (TL-SL2428P) 24-Port 10/100Mbps+4-Port Gigabit Smart PoE+ Switch(Max 180W)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 379,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008886_tp-link-t1500-28pct-tl-sl2428p-24-port-10100mbps4-port-gigabit-smart-poe-switchmax-180w.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Switch Type",
+                "value": "Smart"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "24"
+            },
+            {
+                "name": "PoE Power Budget",
+                "value": "180 watt"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE802.3z, IEEE 802.3ad, IEEE 802.3x, IEEE 802.3az, IEEE 802.1d, IEEE 802.1s, IEEE 802.1w, IEEE 802.1q, IEEE 802.1x, IEEE 802.1p, IEEE 802.3af, IEEE 802.3at"
+            },
+            {
+                "name": "Interface",
+                "value": "24 x 10/100Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX); 4 x 10/100/1000Mbps RJ45 Ports (Auto Negotiation/Auto MDI/MDIX); 2 x Combo Gigabit SFP Slots"
+            },
+            {
+                "name": "Fanless",
+                "value": "No"
+            },
+            {
+                "name": "Bandwidth",
+                "value": "12.8 Gbps"
+            },
+            {
+                "name": "Jumbo Frame",
+                "value": "9216 bytes"
+            },
+            {
+                "name": "Installation",
+                "value": "Desktop"
+            },
+            {
+                "name": "Dimensions",
+                "value": "17.3*7.1*1.7 in.(440*180*44 mm)"
+            },
+            {
+                "name": "PoE Ports",
+                "value": "24 Ports"
+            },
+            {
+                "name": "Port Type",
+                "value": "Gigabit"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLMH20MM4K2",
+        "name": "Cablelist CL-HDMRHD4K-2M 2 Meter V2.0 4K M-M Micro HDMI to HDM Gold Plated Copper Cable",
+        "description": "Cablelist CL-HDMRHD4K-2M 2 Meter V2.0 4K M-M Micro HDMI to HDM Gold Plated Copper Cable",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012967_cablelist-cl-hdmrhd4k-2m-2-meter-v20-4k-m-m-micro-hdmi-to-hdm-gold-plated-copper-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Micro HDMI"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "2M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCIPP129001",
+        "name": "Partlist (PL-PCIPP129001) iPad Pro 12.9\" Plastic Case Cover",
+        "description": "Partlist (PL-PCIPP129001) iPad Pro 12.9\" Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008911_partlist-pl-pcipp129001-ipad-pro-129-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Pro 12.9\""
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Cablelist",
+        "sku": "DCABCLNH20MM4K3",
+        "name": "Cablelist CL-HDMINIHD4K-3M 3 Meter V2.0 4K M-M Mini HDMI to HDM Gold Plated Copper Cable",
+        "description": "No Description",
+        "price": 10,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012971_cablelist-cl-hdminihd4k-3m-3-meter-v20-4k-m-m-mini-hdmi-to-hdm-gold-plated-copper-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "Mini HDMI"
+            },
+            {
+                "name": "Connector",
+                "value": "HDMI (Male)"
+            },
+            {
+                "name": "Cable Length",
+                "value": "3M"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCIPM4001",
+        "name": "Partlist (PL-PCIPM4001) iPad Mini 4 Plastic Case Cover",
+        "description": "Partlist (PL-PCIPM4001) iPad Mini 4 Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008910_partlist-pl-pcipm4001-ipad-mini-4-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Mini 4"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLPOESG108PE",
+        "name": "TP-LINK TL-SG108PE 8-Port Gigabit Desktop PoE Easy Smart Switch with 4-Port PoE",
+        "description": "TP-LINK TL-SG108PE 8-Port Gigabit Desktop PoE Easy Smart Switch with 4-Port PoE",
+        "price": 99,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012545_tp-link-tl-sg108pe-8-port-gigabit-desktop-poe-easy-smart-switch-with-4-port-poe.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008884_tp-link-tl-sg108pe-8-port-gigabit-desktop-poe-easy-smart-switch-with-4-port-poe.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Switch Type",
+                "value": "Easy Smart"
+            },
+            {
+                "name": "PoE Ports",
+                "value": "4 Ports"
+            },
+            {
+                "name": "Number of Ports",
+                "value": "8"
+            },
+            {
+                "name": "PoE Power Budget",
+                "value": "55 watt"
+            },
+            {
+                "name": "Installation",
+                "value": "Desktop"
+            },
+            {
+                "name": "Fanless",
+                "value": "Yes"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE 802.3i, IEEE 802.3u, IEEE 802.3ab, IEEE 802.3af,  IEEE 802.3x, IEEE 802.1q, IEEE 802.1p"
+            },
+            {
+                "name": "Bandwidth",
+                "value": "16 Gbps"
+            },
+            {
+                "name": "Jumbo Frame",
+                "value": "15KB"
+            },
+            {
+                "name": "VLAN",
+                "value": "Supports up to 32 VLANs simultaneously (out of 4K VLAN IDs);  MTU/Port/Tag VLAN"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "External Power Adapter (Output: 48VDC / 1.25A)"
+            },
+            {
+                "name": "Management",
+                "value": "Managed"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCIPP97001",
+        "name": "Partlist (PL-PCIPP97001) iPad Pro 9.7\" Plastic Case Cover",
+        "description": "Partlist (PL-PCIPP97001) iPad Pro 9.7\" Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008912_partlist-pl-pcipp97001-ipad-pro-97-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Pro 9.7\""
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCIPA2001",
+        "name": "Partlist (PL-PCIPA2001) iPad Air 2 Plastic Case Cover",
+        "description": "Partlist (PL-PCIPA2001) iPad Air 2 Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008909_partlist-pl-pcipa2001-ipad-air-2-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Air 2"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCSGS8001",
+        "name": "Partlist (PL-PCSGS8001) Samsung Galaxy S8 Plastic Case Cover",
+        "description": "Partlist (PL-PCSGS8001) Samsung Galaxy S8 Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008913_partlist-pl-pcsgs8001-samsung-galaxy-s8-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "Samsung Galaxy S8"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIP7CSG",
+        "name": "Partlist (PL-TGIP7CSG) iPhone 7 Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008915_partlist-pl-tgip7csg-iphone-7-tempered-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPhone 7"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIP7PEPCSG",
+        "name": "Partlist (PL-TGIP7PEPCSG) iPhone 7 Plus Explosion-Proof Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008918_partlist-pl-tgip7pepcsg-iphone-7-plus-explosion-proof-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPhone 7 Plus"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCIP7001",
+        "name": "Partlist (PP-PLPCIP7001) iPhone 7 Plastic Case Cover",
+        "description": "Partlist (PP-PLPCIP7001) iPhone 7 Plastic Case Cover CClearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008907_partlist-pp-plpcip7001-iphone-7-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPhone 7"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIPM4CSG",
+        "name": "Partlist (PL-TGIPM4CSG) iPad Mini 4 Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008920_partlist-pl-tgipm4csg-ipad-mini-4-tempered-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Mini 4"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIPA2CSG",
+        "name": "Partlist (PL-TGIPA2CSG) iPad Air 2 Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008919_partlist-pl-tgipa2csg-ipad-air-2-tempered-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Air 2"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIPP97CSG",
+        "name": "Partlist (PL-TGIPP97CSG) iPad Pro 9.7\" Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0015039_partlist-pl-tgipp97csg-ipad-pro-97-tempered-glass-screen-protector-twin-pack.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Pro 9.7\""
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIP7EPCSG",
+        "name": "Partlist (PL-TGIP7EPCSG) iPhone 7 Explosion-Proof Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008916_partlist-pl-tgip7epcsg-iphone-7-explosion-proof-tempered-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPhone 7"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIPP129CSG",
+        "name": "Partlist (PL-TGIPP129CSG) iPad Pro 12.9\" Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 4,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008921_partlist-pl-tgipp129csg-ipad-pro-129-tempered-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPad Pro 12.9\""
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAB201",
+        "name": "SURVEILIST CAMAB201 1/2.9\" SONY 2.1MP CMOS Sensor 1080PWith IR-CUT Low Illumination DWDR 3D NR UTC OSDBoard Lens 3.6mm/F2.0",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008926_surveilist-camab201-129-sony-21mp-cmos-sensor-1080pwith-ir-cut-low-illumination-dwdr-3d-nr-utc-osdbo.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLPCSGS8P001",
+        "name": "Partlist (PL-PCSGS8P001) Samsung Galaxy S8 Plus Plastic Case Cover",
+        "description": "Partlist (PL-PCSGS8P001) Samsung Galaxy S8 Plus Plastic Case Cover Clearance product with limited quantity. Available on a first come, first-serve basis while stocks last.",
+        "price": 2,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008914_partlist-pl-pcsgs8p001-samsung-galaxy-s8-plus-plastic-case-cover.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "Samsung Galaxy S8 Plus"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAB202",
+        "name": "CAMAB202  1/2.9\" SONY 2.1MP CMOS Sensor 1080PWith IR-CUT Low Illumination DWDR 3D NR UTC OSD2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 59,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008927_camab202-129-sony-21mp-cmos-sensor-1080pwith-ir-cut-low-illumination-dwdr-3d-nr-utc-osd28-12mm-manua.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMIB201",
+        "name": "SURVEILIST CAMIB201 (IP300A60H) 1/2.9\" OV Low Illumination Back-illuminated CMOS HISILICON Hi3516C WDRMain Stream: 1080P@25fps; 3MP HD Lens With IR-CUT2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008933_surveilist-camib201-ip300a60h-129-ov-low-illumination-back-illuminated-cmos-hisilicon-hi3516c-wdrmai.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAD301",
+        "name": "CAMAD3011/2.9\" SONY 2.1MP CMOS Sensor 1080P With IR-CUT Low Illumination DWDR 3D NR UTC OSDBoard Lens 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 69,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008932_camad301129-sony-21mp-cmos-sensor-1080p-with-ir-cut-low-illumination-dwdr-3d-nr-utc-osdboard-lens-36.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMIB303",
+        "name": "SURVEILIST CAMIB303 (IP200CY60SL) 1/2.8\" SONY Starvis Back-illuminated CMOS HISILICON Hi3516D HDR; Main Stream: 1080P@30fps; 3MP HD Lens With IR-CUT 2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008935_surveilist-camib303-ip200cy60sl-128-sony-starvis-back-illuminated-cmos-hisilicon-hi3516d-hdr-main-st.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMIB401",
+        "name": "SURVEILIST CAMIB401 (KIP-400R25H) 1/3\" OV High-resolution CMOS Sensor HISILICON Hi3516D WDRWith IR-CUT; Main Stream: 4MP@20fps 3MP/1080P@30fps; 4MP HD LensBoard Len 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008936_surveilist-camib401-kip-400r25h-13-ov-high-resolution-cmos-sensor-hisilicon-hi3516d-wdrwith-ir-cut-m.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAD203",
+        "name": "SURVEILIST CAMAD203  1/2.9\" SONY 2.1MP CMOS Sensor 1080PWith IR-CUT Low Illumination DWDR 3D NR UTC OSD2.8-12mm Manual Zoom Lens",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 59,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008931_surveilist-camad203-129-sony-21mp-cmos-sensor-1080pwith-ir-cut-low-illumination-dwdr-3d-nr-utc-osd28.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAD101",
+        "name": "CAMAD101 1/4\" OV 1.0MP CMOS Sensor 720P With IR-CUT DWDR DNR UTC OSD (4-in-1: AHD TVI CVI CVBS)Board Lens 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008929_camad101-14-ov-10mp-cmos-sensor-720p-with-ir-cut-dwdr-dnr-utc-osd-4-in-1-ahd-tvi-cvi-cvbsboard-lens-.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAB203",
+        "name": "CAMAB203 1/2.9\" SONY 2.1MP CMOS Sensor 1080PWith IR-CUT Low Illumination WDR 3DNR Defog Sense-up; 2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 79,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008928_camab203-129-sony-21mp-cmos-sensor-1080pwith-ir-cut-low-illumination-wdr-3dnr-defog-sense-up-28-12mm.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMIB404",
+        "name": "SURVEILIST CAMIB404 (PTBK4XS400) 1/3\" OV 4MP High-resolution CMOS Sensor Hisilicon Hi3516D DWDR3D NR; Main Stream: 4MP@20fps; With IR-CUT H.264/H.265 Compression2.8-12mm Motor Zoom &amp; Auto Focus Lens",
+        "description": "No Description",
+        "price": 219,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008938_surveilist-camib404-ptbk4xs400-13-ov-4mp-high-resolution-cmos-sensor-hisilicon-hi3516d-dwdr3d-nr-mai.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMIB202",
+        "name": "SURVEILIST CAMIB202 (KIP-200BQ60H) 1/2.9\" SONY Low Illumination CMOS HISILICON Hi3516C WDRMain Stream: 1080P@25fps; 3MP HD Lens With IR-CUT2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008934_surveilist-camib202-kip-200bq60h-129-sony-low-illumination-cmos-hisilicon-hi3516c-wdrmain-stream-108.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMID201",
+        "name": "SURVEILIST CAMID201 (IPPL20HE200)  1/2.9\" SONY Low Illumination CMOS Sensor HISILICON Hi3518E WDRMain Stream: 1080P@15fps; 3MP HD Lens With IR-CUTBoard Lens 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 75,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008940_surveilist-camid201-ippl20he200-129-sony-low-illumination-cmos-sensor-hisilicon-hi3518e-wdrmain-stre.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "mbeat",
+        "sku": "CABIPMBICASLV",
+        "name": "mbeat MB-ICA-SLV \"Toughlink\" MFI certified 1.2 Meters Metal Braided Lightning Cable - Silver",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008949_mbeat-mb-ica-slv-toughlink-mfi-certified-12-meters-metal-braided-lightning-cable-silver.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMIB403",
+        "name": "SURVEILIST CAMIB403 (KIP-400BQ60H) 1/3\" OV High-resolution CMOS Sensor HISILICON Hi3516D WDRWith IR-CUT; Main Stream: 4MP@20fps 3MP/1080P@30fps; 5MP HD Lens2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008937_surveilist-camib403-kip-400bq60h-13-ov-high-resolution-cmos-sensor-hisilicon-hi3516d-wdrwith-ir-cut-.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "DCABPLDDVIVGA",
+        "name": "Partlist DVI to VGA Adapter",
+        "description": "Partlist DVI to VGA Adapter",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008950_partlist-dvi-to-vga-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Connector",
+                "value": "DVI (Male)"
+            },
+            {
+                "name": "Connector",
+                "value": "VGA"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMID301",
+        "name": "SURVEILIST CAMID301 ( IP300TF20H ) 1/2.8\" SONY Starvis Back-illuminated CMOS Sensor HISILICON Hi3516D HDR; Main Stream: 3MP/1080P@30fps; 4MP HD Lens With IR-CUT Board Lens 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 119,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008942_surveilist-camid301-ip300tf20h-128-sony-starvis-back-illuminated-cmos-sensor-hisilicon-hi3516d-hdr-m.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "PPPLTGIP7PCSG",
+        "name": "Partlist (PL-TGIP7PCSG) iPhone 7 Plus Tempered Glass Screen Protector (Twin Pack)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 1,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008917_partlist-pl-tgip7pcsg-iphone-7-plus-tempered-glass-screen-protector-twin-pack.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Fit on",
+                "value": "iPhone 7 Plus"
+            }
+        ],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "LTTLLB120",
+        "name": "TP-LINK LB120 Smart Wi-Fi LED Bulb with Tunable White Light",
+        "description": "TP-LINK LB120 Smart Wi-Fi LED Bulb with Tunable White Light",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008957_tp-link-lb120-smart-wi-fi-led-bulb-with-tunable-white-light.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "RAMZ4DKS16G002",
+        "name": "Kingston ValueRAM KVR24N17D8/16 16GB Single DDR4 2400 Desktop RAM",
+        "description": "No Description",
+        "price": 114,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008945_kingston-valueram-kvr24n17d816-16gb-single-ddr4-2400-desktop-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "16GB (1x16GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Viewsonic",
+        "sku": "MTVSVA2407H",
+        "name": "Viewsonic 23.6\" VA2407H 1920x1080 5ms HDMI D-SUB VESA LED Backlight LCD Monitor",
+        "description": "Viewsonic 24inch LED Monitor, 1920x1080, 5ms, 1000:1 Contrast, VGA, HDMI, Tilt, VESA",
+        "price": 199,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008964_viewsonic-236-va2407h-1920x1080-5ms-hdmi-d-sub-vesa-led-backlight-lcd-monitor.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Monitor Screen Size",
+                "value": "23.6\""
+            },
+            {
+                "name": "Recommended Resolution",
+                "value": "1920 x 1080"
+            },
+            {
+                "name": "Response Time",
+                "value": "5ms"
+            },
+            {
+                "name": "Brand",
+                "value": "Viewsonic"
+            }
+        ],
+        "category": "Monitors"
+    },
+    {
+        "brand": "Aerocool",
+        "sku": "GAMECHTX3C30W",
+        "name": "ThunderX3 TGC30 Series Black  White Gaming Chair",
+        "description": "Available: Online order and delivery ONLY.  Product with limited quantity. While stocks last.",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008951_thunderx3-tgc30-series-black-white-gaming-chair.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Chair Adjustable Degree",
+                "value": "90 - 180 degrees"
+            },
+            {
+                "name": "Armrests Adjustable",
+                "value": "Yes"
+            },
+            {
+                "name": "Chair Material",
+                "value": "PU"
+            },
+            {
+                "name": "Adjustable Lumbar Cushion &amp; Headrest Included",
+                "value": "Yes"
+            }
+        ],
+        "category": "Clearance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMID402",
+        "name": "SURVEILIST CAMID402 (KIP-400DH20H)  1/3\" OV High-resolution CMOS Sensor HISILICON Hi3516D WDRWith IR-CUT; Main Stream: 4MP@20fps 3MP/1080P@30fps; 5MP HD Lens2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 159,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008968_surveilist-camid402-kip-400dh20h-13-ov-high-resolution-cmos-sensor-hisilicon-hi3516d-wdrwith-ir-cut-.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Razer",
+        "sku": "MPRZGCTGRAMEDIU",
+        "name": "Razer Goliathus Control Gravity Edition Medium Soft Gaming Mousemat",
+        "description": "Available: Online order and delivery ONLY.  \nProduct with limited quantity. While stocks last.",
+        "price": 24,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008978_razer-goliathus-control-gravity-edition-medium-soft-gaming-mousemat.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "CAB01010PLPWN",
+        "name": "Partlist 250mm PWM Fan Splitter Cable",
+        "description": "Partlist 250mm PWM Fan Splitter Cable",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008948_partlist-250mm-pwm-fan-splitter-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cooling"
+    },
+    {
+        "brand": "Razer",
+        "sku": "MPRZGSPCOSEXT",
+        "name": "Razer Goliathus Speed Cosmic Edition Extended Soft Gaming Mousemat",
+        "description": "Razer Goliathus Speed Cosmic Edition Extended (019104) Soft Gaming Mousemat",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008981_razer-goliathus-speed-cosmic-edition-extended-soft-gaming-mousemat.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Razer"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMID401",
+        "name": "SURVEILIST CAMID401 (KIP-400SL20H) 1/2.9\" SONY Low Illumination CMOS Sensor HISILICON Hi3518E WDRMain Stream: 1080P@15fps 720P@25fps; 3MP HD Lens With IR-CUTBoard Lens 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008967_surveilist-camid401-kip-400sl20h-129-sony-low-illumination-cmos-sensor-hisilicon-hi3518e-wdrmain-str.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Razer",
+        "sku": "MPRZGCTGRALARGE",
+        "name": "Razer  (RZ02-01910700-R3M1) Goliathus Control Gravity Edition Large Soft Gaming MouseMat",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008977_razer-rz02-01910700-r3m1-goliathus-control-gravity-edition-large-soft-gaming-mousemat.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Razer"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMAD202",
+        "name": "CAMAD202 1/2.9\" SONY 2.1MP CMOS Sensor 1080P With IR-CUT Low Illumination DWDR 3D NR UTC OSDBoard Lens 3.6mm/F2.0",
+        "description": "No Description",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008930_camad202-129-sony-21mp-cmos-sensor-1080p-with-ir-cut-low-illumination-dwdr-3d-nr-utc-osdboard-lens-3.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "UCABUTYC4035WH",
+        "name": "Unitek (Y-C4035WH) 1M Reversible USB Type-A to Micro USB Cable",
+        "description": "Unitek (Y-C4035WH) 1M Reversible USB Type-A to Micro USB Cable",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009004_unitek-y-c4035wh-1m-reversible-usb-type-a-to-micro-usb-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLCAMID302",
+        "name": "SURVEILIST CAMID302 (KIP-400SHR30H) 1/3\" OV High-resolution CMOS Sensor HISILICON Hi3516D WDR; With IR-CUT; Main Stream: 4MP@20fps 3MP/1080P@30fps; 5MP HD Lens With IR-CUT2.8-12mm Manual Zoom Lens",
+        "description": "No Description",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008966_surveilist-camid302-kip-400shr30h-13-ov-high-resolution-cmos-sensor-hisilicon-hi3516d-wdr-with-ir-cu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "ENCUTESY3708",
+        "name": "Unitek (Y-3708) USB3.0 Type-C Universal Docking Station with HDMIGigabit LanCard ReaderUSB3.0 x 3",
+        "description": "No Description",
+        "price": 99,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008997_unitek-y-3708-usb30-type-c-universal-docking-station-with-hdmigigabit-lancard-readerusb30-x-3.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "USBUTCAY6317",
+        "name": "Unitek (Y-6317) Aluminium USB3.1 Type-C to DisplayPort Converter",
+        "description": "Unitek (Y-6317) Aluminium USB3.1 Type-C to DisplayPort Converter",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009007_unitek-y-6317-aluminium-usb31-type-c-to-displayport-converter.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "CABAUDUTYC938BK",
+        "name": "Unitek (Y-C938BK) 1.5M 3.5mm AUX to 2 RCA Cable",
+        "description": "No Description",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008995_unitek-y-c938bk-15m-35mm-aux-to-2-rca-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "ASUS",
+        "sku": "VGAPAAS5RX5808O",
+        "name": "Asus Radeon ROG-STRIX-RX580-O8G-GAMING 8GB RX 580 STRIX OC PCI-E VGA Card",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.  \nLimit 2 per customer.",
+        "price": 449,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009009_asus-radeon-rog-strix-rx580-o8g-gaming-8gb-rx-580-strix-oc-pci-e-vga-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "VGA Interface",
+                "value": "PCI Express 3.0"
+            },
+            {
+                "name": "Chipset Manufacturer",
+                "value": "AMD"
+            },
+            {
+                "name": "GPU SERIES",
+                "value": "AMD Radeon RX 500 Series"
+            },
+            {
+                "name": "GPU",
+                "value": "Radeon RX 580"
+            },
+            {
+                "name": "Core Clock",
+                "value": "1380 MHz (OC mode) 1360 MHz (Gaming mode)"
+            },
+            {
+                "name": "VGA Memory Size",
+                "value": "8GB"
+            },
+            {
+                "name": "Memory Type",
+                "value": "GDDR5"
+            },
+            {
+                "name": "Ports",
+                "value": "2 x HDMI"
+            },
+            {
+                "name": "Ports",
+                "value": "2 x DP"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x DVI-D"
+            },
+            {
+                "name": "Max Resolution",
+                "value": "7680 x 4320"
+            },
+            {
+                "name": "Power Connector",
+                "value": "8-Pin"
+            },
+            {
+                "name": "Brand",
+                "value": "Asus"
+            }
+        ],
+        "category": "Promotion"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "CABAUDUTYC922A",
+        "name": "Unitek (Y-C922ABK) 1.5M 3.5mm AUX M-M Audio Cable",
+        "description": "No Description",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019029_unitek-y-c922abk-15m-35mm-aux-m-m-audio-cable.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Unitek"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "CABAUDUTYC956AB",
+        "name": "Unitek (Y-C956ABK) 20cm 3.5mm AUX Male to 2 x Female Audio Cable",
+        "description": "No Description",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019011_unitek-y-c956abk-20cm-35mm-aux-male-to-2-x-female-audio-cable.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0008996_unitek-y-c956abk-20cm-35mm-aux-male-to-2-x-female-audio-cable.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Unitek"
+            }
+        ],
+        "category": "Cables"
+    },
+    {
+        "brand": "UNITEK",
+        "sku": "USBUTTCYA025CGY",
+        "name": "Unitek (Y-A025CGY) USB3.1 Type-C to USB-A Adaptor",
+        "description": "No Description",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009008_unitek-y-a025cgy-usb31-type-c-to-usb-a-adaptor.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Orico",
+        "sku": "PACORDCDSP4U",
+        "name": "ORICO (DSP-4U) White Universal Wall Charger with 4x2.4A USB Port for Worldwide Travel",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 38,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009050_orico-dsp-4u-white-universal-wall-charger-with-4x24a-usb-port-for-worldwide-travel.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEW7611ULB",
+        "name": "EDIMAX EW-7611ULB 2-in-1 Wireless N150  Bluetooth 4.0 Nano USB Adapter",
+        "description": "EDIMAX EW-7611ULB 2-in-1 Wireless N150 + Bluetooth 4.0 Nano USB Adapter",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009029_edimax-ew-7611ulb-2-in-1-wireless-n150-bluetooth-40-nano-usb-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Interface",
+                "value": "•USB 1.0/2.0 Type A Port •Internal Antenna •Link/Activity LED"
+            },
+            {
+                "name": "Standards",
+                "value": "•IEEE 802.11b, 802.11g, 802.11n •Bluetooth 4.0 BLE/4.0 Dual Mode •Bluetooth 3.0+HS •Bluetooth 2.1 &amp; 3.0"
+            },
+            {
+                "name": "Frequency",
+                "value": "•Wi-Fi: 2.4000~2.4835GHz (Industrial Scientific Medical Band) •Bluetooth: 2.4~2.4835GHz unlicensed ISM band"
+            },
+            {
+                "name": "Data Rate",
+                "value": "•11b: 1/2/5.5/11Mbps •11g: 6/9/12/24/36/48/54Mbps •11n (20MHz): MCS0-7 (up to 72Mbps) •11n (40MHz): MCS0-7 (up to 150Mbps) •Bluetooth : up to 24Mbps"
+            },
+            {
+                "name": "OUTPUT POWER",
+                "value": "•11b:16 ±1.5dbm •11g:14 ±1.5dbm •11n:12 ±1.5dbm"
+            },
+            {
+                "name": "RECEIVE SENSITIVITY",
+                "value": "•11n(20MHz)@MCS7: -64dBm±2dBm •11n(40MHz)@MCS7: -64dBm±2dBm •11g@54Mbps: -65dBm±2dBm •11b@11Mbps: -79dBm±2dBm"
+            },
+            {
+                "name": "Security",
+                "value": "•WEP 64/128-bit, WPA, WPA2, 802.1x •Software WPS configuration"
+            },
+            {
+                "name": "System Requirements",
+                "value": "•Windows XP/Vista/7/8/8.1/10 •Linux &amp; Mac OS"
+            },
+            {
+                "name": "Certification",
+                "value": "•CE, FCC , WiFi, BQB"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Others",
+        "sku": "ACC002PMCHVGS",
+        "name": "Promate \"VentGrip\" (Silver) Universal Mini Magnetic Car AC Vent Smartphone Holder",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009058_promate-ventgrip-silver-universal-mini-magnetic-car-ac-vent-smartphone-holder.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Promotion"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "NICEMEW7822ULC",
+        "name": "EDIMAX EW-7822ULC AC1200  Wireless Dual Band MU-MIMO Nano USB Adapter",
+        "description": "No Description",
+        "price": 42,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009031_edimax-ew-7822ulc-ac1200-wireless-dual-band-mu-mimo-nano-usb-adapter.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Wireless Standards",
+                "value": "2.4GHz: IEEE 802.11b, 802.11g, 802.11n, 5GHz: IEEE 802.11ac, 802.11a, 802.11n"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4000 - 2.4835GHz* 5.150 - 5.825GHz* FCC: Band 1:  5.150~5.250(GHz) ; Band 4:  5.745~5.850(GHz) CE:   Band 1: 5.150~5.250(GHz)  *Subject to local regulations"
+            },
+            {
+                "name": "OUTPUT POWER",
+                "value": "2.4GHz:  11b(11M): 8±1.5dBm 11g(54M): 7±1.5dBm  11n(20MHz, MCS7): 6±1.5dBm 11n(40MHz, MCS7): 6±1.5dBm  5GHz:  11a(54M): 7±1.5 dBm 11n(20MHz, MCS7): 6±1.5 dBm  11n(40MHz, MCS7): 6±1.5dBm 11ac(80MHz, VHTMCS9): 4±1.5dBm"
+            },
+            {
+                "name": "OPERATING RANGE",
+                "value": "11a: 6/9/12/24/36/48/54Mbps 11b: 1/2/5.5/11Mbps; 11g: 6/9/12/24/36/48/54Mbps  11n (20MHz): MCS0-07, up to 144Mbps  11n (40MHz): MCS0-07, up to 300Mbps  11ac (80MHz): VHTMCS0-9, up to 867Mbps"
+            },
+            {
+                "name": "Security",
+                "value": "WEP 64/128-bit, WPA, WPA2 Software WPS Configuration"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 7/8/8.1/10, Mac OS 10.7 or above"
+            },
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1200"
+            },
+            {
+                "name": "Interface",
+                "value": "USB 3.0"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "USBSCHUTCCHN411",
+        "name": "Simplecom CHN411 (Aluminium) 3 Port USB3.0 Type-C Hub with Gigabit Ethernet Adapter",
+        "description": "Simplecom CHN411 (Aluminium) 3 Port USB3.0 Type-C Hub with Gigabit Ethernet Adapter",
+        "price": 27,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009006_simplecom-chn411-aluminium-3-port-usb30-type-c-hub-with-gigabit-ethernet-adapter.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Partlist",
+        "sku": "CABIPPLMIP7S",
+        "name": "Partlist (Silver) 1 Meter Metal-coiled iPhone7/iPhone6s/iPhone6 Lightning Data/Charge Cable",
+        "description": "Available: Online order and delivery ONLY.  Product with limited quantity. While stocks last.",
+        "price": 5,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009064_partlist-silver-1-meter-metal-coiled-iphone7iphone6siphone6-lightning-datacharge-cable.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Mobile Phone & Tablet Accessory"
+    },
+    {
+        "brand": "j5create",
+        "sku": "UCABJ5JUC700",
+        "name": "j5create (JUC700 ) USB3.0 Wormhole Switch DSS - KVM Swap  File Transfer (Windows Only)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 59,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009070_j5create-juc700-usb30-wormhole-switch-dss-kvm-swap-file-transfer-windows-only.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "Others",
+        "sku": "ACC002PMUNISIM",
+        "name": "Promate \"uniSIM\" 4-in-1 Micro/Nano SIM Card Adapter with iPhone Sim Removal Tool",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 3,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009059_promate-unisim-4-in-1-micronano-sim-card-adapter-with-iphone-sim-removal-tool.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Promotion"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "USBSCSA491",
+        "name": "Simplecom SA491 3-IN-1 USB 3.0 TO 2.5\" 3.5\"  5.25\" SATA/IDE Adapter with Power Supply",
+        "description": "Simplecom SA491 3-IN-1 USB 3.0 TO 2.5\" 3.5\" & 5.25\" SATA/IDE Adapter with Power Supply",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009051_simplecom-sa491-3-in-1-usb-30-to-25-35-525-sataide-adapter-with-power-supply.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Enclosure / Hard Drive Dock"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "IPCAMEMIC6230DC",
+        "name": "Edimax (IC-6230DC) Smart Wireless Door Hook Network Camera wih Night Vision",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 88,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009077_edimax-ic-6230dc-smart-wireless-door-hook-network-camera-wih-night-vision.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Edimax"
+            }
+        ],
+        "category": "Clearance"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLARCRC60",
+        "name": "TP-Link Archer C60 AC1350 Wireless Dual Band Router with 4 x 10/100 Port",
+        "description": "TP-Link Archer C60 AC1350 Wireless Dual Band Router with 4 x 10/100 Port",
+        "price": 78,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009089_tp-link-archer-c60-ac1350-wireless-dual-band-router-with-4-x-10100-port.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1350"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "HDDKSA400012",
+        "name": "Kingston A400 (SA400S37/120G) 120GB SATA3 2.5\" SSD Solid State Drive",
+        "description": "No Description",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009080_kingston-a400-sa400s37120g-120gb-sata3-25-ssd-solid-state-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "120GB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "2.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA III"
+            },
+            {
+                "name": "HDD Max Sequential Read",
+                "value": "Up to 500 MBps"
+            },
+            {
+                "name": "HDD Max Sequential Write",
+                "value": "Up to 320 MBps"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Gigabyte",
+        "sku": "VGAPAGB5RX5808G",
+        "name": "Gigabyte Radeon (RX580GAMING-8GD-V2) 8GB RX 580 GAMING PCI-E VGA Card",
+        "description": "No Description",
+        "price": 319,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009018_gigabyte-radeon-rx580gaming-8gd-v2-8gb-rx-580-gaming-pci-e-vga-card.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019372_gigabyte-radeon-rx580gaming-8gd-v2-8gb-rx-580-gaming-pci-e-vga-card.png"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019373_gigabyte-radeon-rx580gaming-8gd-v2-8gb-rx-580-gaming-pci-e-vga-card.png"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019374_gigabyte-radeon-rx580gaming-8gd-v2-8gb-rx-580-gaming-pci-e-vga-card.png"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0019371_gigabyte-radeon-rx580gaming-8gd-v2-8gb-rx-580-gaming-pci-e-vga-card.png"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "VGA Interface",
+                "value": "PCI Express 3.0 x16"
+            },
+            {
+                "name": "Chipset Manufacturer",
+                "value": "AMD"
+            },
+            {
+                "name": "GPU SERIES",
+                "value": "AMD Radeon RX 500 Series"
+            },
+            {
+                "name": "GPU",
+                "value": "Radeon RX 580"
+            },
+            {
+                "name": "Core Clock",
+                "value": "1355 MHz (OC Mode) / 1340 MHz (Gaming Mode)"
+            },
+            {
+                "name": "VGA Memory Size",
+                "value": "8GB"
+            },
+            {
+                "name": "Memory Type",
+                "value": "GDDR5"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x HDMI"
+            },
+            {
+                "name": "Ports",
+                "value": "3 x DP"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x DVI-D"
+            },
+            {
+                "name": "Multi-Monitor Support",
+                "value": "5"
+            },
+            {
+                "name": "Brand",
+                "value": "Gigabyte"
+            }
+        ],
+        "category": "Graphics Card"
+    },
+    {
+        "brand": "Trend Micro",
+        "sku": "SW08TMTMS2017",
+        "name": "Trend Micro AV-TMAX2017OEM-2U Titanium Maxium Security 2017 OEM Multi Device(2 Users1 Yr License)",
+        "description": "Trend Micro AV-TMAX2017OEM-2U Titanium Maxium Security 2017 OEM Multi Device(2 Users1 Yr License)",
+        "price": 24,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012357_trend-micro-av-tmax2017oem-2u-titanium-maxium-security-2017-oem-multi-device2-users1-yr-license.png"
+            }
+        ],
+        "specifications": [],
+        "category": "Software"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLPA7010PKIT",
+        "name": "TP-LINK TL-PA7010P-KIT AV1000 Gigabit Passthrough Powerline Smart Kit",
+        "description": "TP-LINK TL-PA7010P-KIT AV1000 Gigabit Passthrough Powerline Smart Kit",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009092_tp-link-tl-pa7010p-kit-av1000-gigabit-passthrough-powerline-smart-kit.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Plug Type",
+                "value": "AU"
+            },
+            {
+                "name": "Standards",
+                "value": "HomePlug AV2, HomePlug AV, IEEE 1901,  IEEE 802.3, IEEE 802.3u, IEEE 802.3ab"
+            },
+            {
+                "name": "Interface",
+                "value": "Ethernet Port"
+            },
+            {
+                "name": "Powerline Speeds",
+                "value": "1000 Mbps"
+            },
+            {
+                "name": "Security",
+                "value": "128-bit AES"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 2000/XP/2003/Vista, Windows 7/8/8.1/10, Mac, Linux"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLRERE305",
+        "name": "TP-LINK TL-RE305 AC1200 Universal WiFi Range Extender with 10/100 Port",
+        "description": "No Description",
+        "price": 89,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012559_tp-link-tl-re305-ac1200-universal-wifi-range-extender-with-10100-port.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Plug Type",
+                "value": "AU"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE802.11ac, IEEE 802.11n, IEEE 802.11g, IEEE 802.11a, IEEE 802.11b"
+            },
+            {
+                "name": "Interface",
+                "value": "1 x 10/100M Ethernet Port (RJ45)"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Range Extender"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Access Point"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Wireless Client"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Range Extender/Access Point;  Wireless Statistic;  Concurrent Mode boost both 2.4G/5G Wi-Fi band"
+            },
+            {
+                "name": "Transmit Power",
+                "value": "&lt;17dBm(2.4GHz);  &lt;17dBm(5GHz)"
+            },
+            {
+                "name": "Antenna",
+                "value": "2 x external"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "7.3W(max power consumption)"
+            },
+            {
+                "name": "Button",
+                "value": "WPS Button, Reset Button"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4GHz &amp; 5GHz(11ac)"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1200"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "IPCAMEMIC5160GC",
+        "name": "Edimax (IC-5160GC) Smart Full HD 1080p Cloud Garage Camera 180 Degree View and Door Controller",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 169,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009075_edimax-ic-5160gc-smart-full-hd-1080p-cloud-garage-camera-180-degree-view-and-door-controller.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "LTTLLB100",
+        "name": "TP-LINK LB100 Smart Wi-Fi LED Bulb with Dimmable Light",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009091_tp-link-lb100-smart-wi-fi-led-bulb-with-dimmable-light.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "HDDKSA400048",
+        "name": "Kingston A400 (SA400S37/480G) 480GB SATA3 2.5\" SSD Solid State Drive",
+        "description": "No Description",
+        "price": 104,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009097_kingston-a400-sa400s37480g-480gb-sata3-25-ssd-solid-state-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "480GB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "2.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA III"
+            },
+            {
+                "name": "HDD Max Sequential Read",
+                "value": "Up to 500 MBps"
+            },
+            {
+                "name": "HDD Max Sequential Write",
+                "value": "Up to 450 MBps"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "j5create",
+        "sku": "UCABJ5JUC500",
+        "name": "j5create (JUC500) USB3.0 Transfer Cable with Wormhole Technolgy (MAC/Windows)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 35,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009095_j5create-juc500-usb30-transfer-cable-with-wormhole-technolgy-macwindows.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Sandisk",
+        "sku": "FLASHPSDZ800016",
+        "name": "SanDisk EXTREME GO (SDCZ800-064G) 64GB USB3.1 (Gen 1) Flash Pen Drive",
+        "description": "No Description",
+        "price": 32,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009143_sandisk-extreme-go-sdcz800-064g-64gb-usb31-gen-1-flash-pen-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "64G"
+            },
+            {
+                "name": "USB Specification",
+                "value": "USB 3.1"
+            },
+            {
+                "name": "Brand",
+                "value": "Sandisk"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "Sandisk",
+        "sku": "FLASHPSDDD3128",
+        "name": "SanDisk ULTRA DUAL Drive M3.0 (SDDD3-128G) 128GB Micro-USB (OTG) / USB3.0 Flash Pen Drive",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 38,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009139_sandisk-ultra-dual-drive-m30-sddd3-128g-128gb-micro-usb-otg-usb30-flash-pen-drive.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0018556_sandisk-ultra-dual-drive-m30-sddd3-128g-128gb-micro-usb-otg-usb30-flash-pen-drive.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "128G"
+            },
+            {
+                "name": "USB Specification",
+                "value": "USB 3.0 and micro-USB"
+            },
+            {
+                "name": "Brand",
+                "value": "Sandisk"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "Intel",
+        "sku": "CPUI663E31225V6",
+        "name": "Intel BX80677E31225V6 Xeon E3-1225 V6 3.3GHz 4 Core/4 Threads 8MB LGA1151 Kaby Lake-S Boxed CPU",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.  \nLimit 2 per customer.",
+        "price": 319,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009127_intel-bx80677e31225v6-xeon-e3-1225-v6-33ghz-4-core4-threads-8mb-lga1151-kaby-lake-s-boxed-cpu.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "CPU Brand",
+                "value": "Intel"
+            },
+            {
+                "name": "Intel CPU Socket",
+                "value": "Socket 1151"
+            },
+            {
+                "name": "Generation",
+                "value": "7th Gen Kaby Lake"
+            },
+            {
+                "name": "Number of cores",
+                "value": "Quad-Core"
+            },
+            {
+                "name": "Number of Threads",
+                "value": "4"
+            },
+            {
+                "name": "Operating Frequency",
+                "value": "3.3 GHz"
+            },
+            {
+                "name": "Max Turbo Frequency",
+                "value": "3.7 GHz"
+            },
+            {
+                "name": "L2 Cache",
+                "value": "4 x 256KB"
+            },
+            {
+                "name": "L3 Cache",
+                "value": "8MB"
+            },
+            {
+                "name": "Manufacturing Tech",
+                "value": "14nm"
+            },
+            {
+                "name": "64-Bit Support",
+                "value": "Yes"
+            },
+            {
+                "name": "Memory Types",
+                "value": "DDR4-2400, DDR3L-1866"
+            },
+            {
+                "name": "Memory Channel",
+                "value": "2"
+            },
+            {
+                "name": "Virtualisation Technology Support",
+                "value": "Yes"
+            },
+            {
+                "name": "Integrated Graphics",
+                "value": "Intel HD P630"
+            },
+            {
+                "name": "Graphics Base Frequency",
+                "value": "350 MHz"
+            },
+            {
+                "name": "Graphics Max Dynamic Frequency",
+                "value": "1.15 GHz"
+            },
+            {
+                "name": "PCI Express Revision",
+                "value": "3.0"
+            },
+            {
+                "name": "TDP (Thermal Design Power)",
+                "value": "73W"
+            },
+            {
+                "name": "Cooling Device",
+                "value": "Heatsink and fan included"
+            },
+            {
+                "name": "Series",
+                "value": "Xenon"
+            },
+            {
+                "name": "Discrete Graphics Required",
+                "value": "No"
+            },
+            {
+                "name": "Unlocked",
+                "value": "Yes"
+            }
+        ],
+        "category": "CPU"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD03PUR04TB",
+        "name": "WD 3.5\" Purple 4TB WD40PURZ Surveillance 5400RPM 64MB Cache SATA3 HDD",
+        "description": "No Description",
+        "price": 168,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009155_wd-35-purple-4tb-wd40purz-surveillance-5400rpm-64mb-cache-sata3-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "4TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "64MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Edimax",
+        "sku": "HUBEMEW7478APC",
+        "name": "EDIMAX EW-7478APC AC1200 Wireless Dual Band Access Point with Gigabit Ports and USB Port",
+        "description": "No Description",
+        "price": 79,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009028_edimax-ew-7478apc-ac1200-wireless-dual-band-access-point-with-gigabit-ports-and-usb-port.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1200"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Frequency",
+                "value": "5 GHz"
+            },
+            {
+                "name": "Brand",
+                "value": "D-link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Sandisk",
+        "sku": "FLASHPSDZ800032",
+        "name": "SanDisk EXTREME GO (SDCZ800-128G) 128GB USB3.1 (Gen 1) Flash Pen Drive",
+        "description": "No Description",
+        "price": 56,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009144_sandisk-extreme-go-sdcz800-128g-128gb-usb31-gen-1-flash-pen-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "128G"
+            },
+            {
+                "name": "USB Specification",
+                "value": "USB 3.1"
+            },
+            {
+                "name": "Brand",
+                "value": "Sandisk"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "Huntkey",
+        "sku": "PACHKSAC207",
+        "name": "Huntkey SAC207 2 Socket Wall Power Station with Dual 5V 2.1A USB Charging Ports",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009032_huntkey-sac207-2-socket-wall-power-station-with-dual-5v-21a-usb-charging-ports.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0014263_huntkey-sac207-2-socket-wall-power-station-with-dual-5v-21a-usb-charging-ports.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Huntkey"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Samsung",
+        "sku": "MTSSLC32F391FWE",
+        "name": "Samsung 31.5\" LC32F391FWEX/XY VA-LED Curved 1920x1080 4ms HDMI DP VESA LED Backlight LCD Monitor",
+        "description": "Samsung 31.5\" LC32F391FWEX/XY VA-LED Curved 1920x1080 4ms HDMI DP VESA LED Backlight LCD Monitor \nLimit 2 per customer.",
+        "price": 369,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009114_samsung-315-lc32f391fwexxy-va-led-curved-1920x1080-4ms-hdmi-dp-vesa-led-backlight-lcd-monitor.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Monitors"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "HDDKSA400024",
+        "name": "Kingston A400 (SA400S37/240G) 240GB SATA3 2.5\" SSD Solid State Drive",
+        "description": "No Description",
+        "price": 64,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009096_kingston-a400-sa400s37240g-240gb-sata3-25-ssd-solid-state-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "240GB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "2.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA III"
+            },
+            {
+                "name": "HDD Max Sequential Read",
+                "value": "Up to 500 MBps"
+            },
+            {
+                "name": "HDD Max Sequential Write",
+                "value": "Up to 350 MBps"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD03PUR03TB",
+        "name": "WD 3.5\" Purple 3TB WD30PURZ Surveillance 5400RPM 64MB Cache SATA3 HDD",
+        "description": "No Description",
+        "price": 148,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009154_wd-35-purple-3tb-wd30purz-surveillance-5400rpm-64mb-cache-sata3-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "3TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "64MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Others",
+        "sku": "SW09SMNTSS1D1Y",
+        "name": "Symantec Norton AV-NORSTDOEM-1 Security Standard 1 Device 1 Year OEM with CD (1 Device 1 Year li",
+        "description": "Symantec Norton AV-NORSTDOEM-1 Security Standard 1 Device 1 Year OEM with CD (1 Device 1 Year li",
+        "price": 14,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012358_symantec-norton-av-norstdoem-1-security-standard-1-device-1-year-oem-with-cd-1-device-1-year-li.jpeg"
+            }
+        ],
+        "specifications": [],
+        "category": "Software"
+    },
+    {
+        "brand": "Epson",
+        "sku": "INKEOEMET2500PK",
+        "name": "Epson Compatible ET-2500 ink Cartridge 4 color BCMY",
+        "description": "Epson Compatible ET-2500 ink Cartridge 4 color BCMY",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009171_epson-compatible-et-2500-ink-cartridge-4-color-bcmy.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Simplecom",
+        "sku": "DCABSCCM340",
+        "name": "Simplecom CM340 Mechanical 4 Way HDMI Switch Box 4 Port (Support 4K UHD HDCP)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 22,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009173_simplecom-cm340-mechanical-4-way-hdmi-switch-box-4-port-support-4k-uhd-hdcp.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD03PUR06TB",
+        "name": "WD 3.5\" Purple 6TB WD60PURZ Surveillance 5400RPM 64MB Cache SATA3 HDD",
+        "description": "No Description",
+        "price": 299,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009156_wd-35-purple-6tb-wd60purz-surveillance-5400rpm-64mb-cache-sata3-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "6TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "64MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "INKBROEMLC67VP4",
+        "name": "Brother Compatible LC67 Value Pack (1B 1C 1M 1Y)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 19,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009148_brother-compatible-lc67-value-pack-1b-1c-1m-1y.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "PCISCEC312",
+        "name": "Simplecom EC312 PCI-E 2.0 x4 to 2 Port SuperSpeed USB 3.1 Gen II 10Gpbs Type-C and Type-A Host E",
+        "description": "Simplecom EC312 PCI-E 2.0 x4 to 2 Port SuperSpeed+ USB 3.1 Gen II 10Gpbs Type-C and Type-A Host E",
+        "price": 30,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009177_simplecom-ec312-pci-e-20-x4-to-2-port-superspeed-usb-31-gen-ii-10gpbs-type-c-and-type-a-host-e.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD03PUR02TB",
+        "name": "WD 3.5\" Purple 2TB WD20PURZ Surveillance 5400RPM 64MB Cache SATA3 HDD",
+        "description": "No Description",
+        "price": 104,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009153_wd-35-purple-2tb-wd20purz-surveillance-5400rpm-64mb-cache-sata3-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "2TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "64MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Epson",
+        "sku": "INKE220XLPK4",
+        "name": "Epson 220XL VP High Capacity DURABrite Ultra 4 Ink Value Pack",
+        "description": "Epson 220XL VP High Capacity DURABrite Ultra 4 Ink Value Pack",
+        "price": 92,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009183_epson-220xl-vp-high-capacity-durabrite-ultra-4-ink-value-pack.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "PCISCEC412",
+        "name": "Simplecom EC412 Dual M.2 (B Key and M Key) to PCI-E x4 and SATA 6G Expansion Card",
+        "description": "Simplecom EC412 Dual M.2 (B Key and M Key) to PCI-E x4 and SATA 6G Expansion Card",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009178_simplecom-ec412-dual-m2-b-key-and-m-key-to-pci-e-x4-and-sata-6g-expansion-card.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "USB Devices"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD03PUR01TB",
+        "name": "WD 3.5\" Purple 1TB WD10PURZ Surveillance 5400RPM 64MB Cache SATA3 HDD",
+        "description": "No Description",
+        "price": 78,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009167_wd-35-purple-1tb-wd10purz-surveillance-5400rpm-64mb-cache-sata3-hdd.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "1TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "3.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "64MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "USBSCCASA201",
+        "name": "Simplecom SA201 USB 3.0 to SATA External Adapter Cable Converter for 2.5\" SSD/HDD",
+        "description": "Simplecom SA201 USB 3.0 to SATA External Adapter Cable Converter for 2.5\" SSD/HDD",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009179_simplecom-sa201-usb-30-to-sata-external-adapter-cable-converter-for-25-ssdhdd.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Enclosure / Hard Drive Dock"
+    },
+    {
+        "brand": "Epson",
+        "sku": "INKE200XLPK4",
+        "name": "Epson 200XL VP High Capacity DURABrite Ultra 4 Ink Value Pack",
+        "description": "No Description",
+        "price": 84,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009182_epson-200xl-vp-high-capacity-durabrite-ultra-4-ink-value-pack.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Simplecom",
+        "sku": "DCABSCCM423",
+        "name": "Simplecom CM423 HDMI Audio Extractor 4K HDMI to HDMI and Optical SPDIF  3.5mm Stereo",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009175_simplecom-cm423-hdmi-audio-extractor-4k-hdmi-to-hdmi-and-optical-spdif-35mm-stereo.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Huntkey",
+        "sku": "PACHKSAC807",
+        "name": "Huntkey SAC807 8 Outlet Surge Protected Powerboard with 4 5V 4A USB Ports",
+        "description": "Four powered USB ports\n(4 AMP Combined)\nEight Australian standard outlets\nSurge protection\nOverload protection\nFlame retardant material\nIntegral copper bar\nMAX2400W-MAX10A, 240V\nComplies with RCM",
+        "price": 39,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009160_huntkey-sac807-8-outlet-surge-protected-powerboard-with-4-5v-4a-usb-ports.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Huntkey"
+            }
+        ],
+        "category": "UPS / Powerboard"
+    },
+    {
+        "brand": "Epson",
+        "sku": "INKE277XLPK6",
+        "name": "Epson 277XL VP High Capacity Claria Photo HD 6 Ink Value Pack",
+        "description": "Epson 277XL VP High Capacity Claria Photo HD 6 Ink Value Pack",
+        "price": 126,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009184_epson-277xl-vp-high-capacity-claria-photo-hd-6-ink-value-pack.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "XEROX",
+        "sku": "TNFUOEMCT201937",
+        "name": "Xerox Compatible 355df / 355d  Black 4000 pages Toner Cartridge for office use",
+        "description": "Xerox Compatible 355df / 355d Black 4000 pages Toner Cartridge for office use",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009187_xerox-compatible-355df-355d-black-4000-pages-toner-cartridge-for-office-use.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGB2",
+        "name": "Fibaro (FIB-FGB-002) Universal Bypass 2",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009233_fibaro-fib-fgb-002-universal-bypass-2.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Fibaro"
+            }
+        ],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGD212",
+        "name": "Fibaro (FIB-FGD-212) Dimmer 2 250W",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 111,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009234_fibaro-fib-fgd-212-dimmer-2-250w.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Epson",
+        "sku": "INKE138BPPK4",
+        "name": "Epson 138BP 4 High Capacity Ink Cartridges Value Pack with PPG 4\"x6\" 20 Sheet",
+        "description": "Epson 138BP 4 High Capacity Ink Cartridges Value Pack with PPG 4\"x6\" 20 Sheet",
+        "price": 97,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009181_epson-138bp-4-high-capacity-ink-cartridges-value-pack-with-ppg-4x6-20-sheet.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGGC001",
+        "name": "Fibaro Swipe (FIB-FGGC-001)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 244,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009235_fibaro-swipe-fib-fggc-001.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGKF601",
+        "name": "Fibaro Keyfob White (FIB-FGKF-601)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 87,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009236_fibaro-keyfob-white-fib-fgkf-601.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBHCL",
+        "name": "Fibaro Home Center Lite (FIB-FGHCL)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 519,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009310_fibaro-home-center-lite-fib-fghcl.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "XEROX",
+        "sku": "TNFUOEMCT201117",
+        "name": "Xerox Compatible Docuprint C1110 Yellow Toner Cartridge - up to 2000 pages",
+        "description": "Xerox Compatible Docuprint C1110 Yellow Toner Cartridge - up to 2000 pages",
+        "price": 23,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009278_xerox-compatible-docuprint-c1110-yellow-toner-cartridge-up-to-2000-pages.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGK101",
+        "name": "Fibaro Z-Wave Door Sensor White (FIB-FGK-101)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 83,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009365_fibaro-z-wave-door-sensor-white-fib-fgk-101.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGBS001",
+        "name": "Fibaro (FIB-FGBS-001)  Universal Binary Sensor",
+        "description": "p>Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 83,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009364_fibaro-fib-fgbs-001-universal-binary-sensor.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBHC2",
+        "name": "Fibaro Home Centre 2 (FIB-FGHC2)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 951,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009309_fibaro-home-centre-2-fib-fghc2.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGMS001",
+        "name": "Fibaro Motion / Temp Sensor (FIB-FGMS-001)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 111,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009367_fibaro-motion-temp-sensor-fib-fgms-001.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGR222",
+        "name": "Fibaro Roller Shutter 2 (FIB-FGR-222)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 101,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009237_fibaro-roller-shutter-2-fib-fgr-222.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Creative",
+        "sku": "SPKCRSBXS5",
+        "name": "Creative Sound BlasterX Kratos S5 RGB 2.1 USB Gaming Speakers with Customizable Audio",
+        "description": "Creative Sound BlasterX Kratos S5 RGB 2.1 USB Gaming Speakers with Customizable Audio",
+        "price": 188,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009369_creative-sound-blasterx-kratos-s5-rgb-21-usb-gaming-speakers-with-customizable-audio.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Creative"
+            },
+            {
+                "name": "Speaker Configuration",
+                "value": "2.1"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "3.5mm Jack Plug"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGS223",
+        "name": "Fibaro Double Relay  wth Monitoring (FIB-FGS-223)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 111,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009308_fibaro-double-relay-wth-monitoring-fib-fgs-223.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBFGPB101W",
+        "name": "Fibaro Button White (FIB-FGPB-101-1)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 87,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009368_fibaro-button-white-fib-fgpb-101-1.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "Simplecom",
+        "sku": "DCABSCCM413",
+        "name": "Simplecom CM413 HDMI to Composite AV 3RCA Converter",
+        "description": "No Description",
+        "price": 28,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009174_simplecom-cm413-hdmi-to-composite-av-3rca-converter.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Cables"
+    },
+    {
+        "brand": "Unknown",
+        "sku": "SMDHICVTH1550CH",
+        "name": "Dahua 7\" IP Intercom Kit",
+        "description": "Dahua 7\" IP Intercom Kit",
+        "price": 399,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009472_dahua-7-ip-intercom-kit.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Fibaro",
+        "sku": "SMFIBRGBWM",
+        "name": "Fibaro RGBW LED controller (FIB-FGRGBWM-441)",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 101,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009311_fibaro-rgbw-led-controller-fib-fgrgbwm-441.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Smart Home"
+    },
+    {
+        "brand": "WD",
+        "sku": "HDDWD510SPZX",
+        "name": "WD 2.5\" Notebook Blue 1TB WD10SPZX 128MB 5400rpm SATA 6.0Gb/s Internal Mobile Hard Disk Drive",
+        "description": "No Description",
+        "price": 79,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009477_wd-25-notebook-blue-1tb-wd10spzx-128mb-5400rpm-sata-60gbs-internal-mobile-hard-disk-drive.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "HDD Capacity",
+                "value": "1TB"
+            },
+            {
+                "name": "Hard Drive Form Factor",
+                "value": "2.5\""
+            },
+            {
+                "name": "HDD Interface",
+                "value": "SATA 6 Gb/s"
+            },
+            {
+                "name": "HDD RPM",
+                "value": "5400"
+            },
+            {
+                "name": "HDD Cache",
+                "value": "128MB"
+            },
+            {
+                "name": "Brand",
+                "value": "WD - Western Digital"
+            }
+        ],
+        "category": "Hard Drive / SSD"
+    },
+    {
+        "brand": "Others",
+        "sku": "PACPMCGCARHUB4",
+        "name": "Promate (CarHub-4) 7.2A/36W Black Car Charger with 2 USB ports/2 Port Extended USB Charging Hub",
+        "description": "Available:  1. Online order and delivery.  And  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009471_promate-carhub-4-72a36w-black-car-charger-with-2-usb-ports2-port-extended-usb-charging-hub.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Clearance"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "RAMZ4DKSS16G002",
+        "name": "Kingston ValueRAM SODIMM (KVR24S17D8/16) 16G Single DDR4 2400 Notebook RAM",
+        "description": "Kingston ValueRAM SO-DIMM (KVR24S17D8/16) 16G Single DDR4 2400 Notebook RAM",
+        "price": 114,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009446_kingston-valueram-so-dimm-kvr24s17d816-16g-single-ddr4-2400-notebook-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "16GB (1x16GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "260-Pin DDR4 SO-DIMM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Sandisk",
+        "sku": "FLASHSDSDQXAF01",
+        "name": "Sandisk SDSQXAF-032G 32GB Extreme MicroSDHC Class 10 UHS-I Card",
+        "description": "Sandisk SDSQXAF-032G 32GB Extreme MicroSDHC Class 10 UHS-I Card",
+        "price": 16,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009547_sandisk-sdsqxaf-032g-32gb-extreme-microsdhc-class-10-uhs-i-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Flash Capacity",
+                "value": "32G"
+            },
+            {
+                "name": "Speed Class Rating",
+                "value": "UHS-I / Class 10"
+            },
+            {
+                "name": "Brand",
+                "value": "Sandisk"
+            }
+        ],
+        "category": "Flash memory"
+    },
+    {
+        "brand": "MSI",
+        "sku": "VGAPAMS5RX580AO",
+        "name": "MSI Radeon (RX 580 ARMOR 8G OC) 8GB RX 580 Armor OC PCI-E VGA Card",
+        "description": "Limit 2 per customer.",
+        "price": 339,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009490_msi-radeon-rx-580-armor-8g-oc-8gb-rx-580-armor-oc-pci-e-vga-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "VGA Interface",
+                "value": "PCI Express 3.0 x16"
+            },
+            {
+                "name": "Chipset Manufacturer",
+                "value": "AMD"
+            },
+            {
+                "name": "GPU SERIES",
+                "value": "AMD Radeon RX 500 Series"
+            },
+            {
+                "name": "GPU",
+                "value": "Radeon RX 580"
+            },
+            {
+                "name": "Core Clock",
+                "value": "1366 MHz"
+            },
+            {
+                "name": "VGA Memory Size",
+                "value": "8GB"
+            },
+            {
+                "name": "Memory Type",
+                "value": "GDDR5"
+            },
+            {
+                "name": "Ports",
+                "value": "2 x HDMI"
+            },
+            {
+                "name": "Ports",
+                "value": "2 x DP"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x DVI-D"
+            },
+            {
+                "name": "Multi-Monitor Support",
+                "value": "4"
+            },
+            {
+                "name": "Power Connector",
+                "value": "8-Pin"
+            },
+            {
+                "name": "Slot Width",
+                "value": "Dual Slot"
+            },
+            {
+                "name": "Brand",
+                "value": "MSI"
+            }
+        ],
+        "category": "Graphics Card"
+    },
+    {
+        "brand": "Coolermaster",
+        "sku": "CASECMMBLITE5BK",
+        "name": "Coolermaster MasterBox Lite 5 (MCW-L5S3-KANN-01) Window Black Mid Tower Gaming Case without PSU",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 85,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009475_coolermaster-masterbox-lite-5-mcw-l5s3-kann-01-window-black-mid-tower-gaming-case-without-psu.jpg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012937_coolermaster-masterbox-lite-5-mcw-l5s3-kann-01-window-black-mid-tower-gaming-case-without-psu.jpeg"
+            },
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012938_coolermaster-masterbox-lite-5-mcw-l5s3-kann-01-window-black-mid-tower-gaming-case-without-psu.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Coolermaster"
+            },
+            {
+                "name": "Case Type",
+                "value": "ATX Mid Tower"
+            },
+            {
+                "name": "With Power Supply",
+                "value": "No"
+            },
+            {
+                "name": "Motherboard Compatibility",
+                "value": "Micro ATX / ATX / Mini-ITX"
+            },
+            {
+                "name": "Internal 3.5\" Drive Bays",
+                "value": "2"
+            },
+            {
+                "name": "Internal 2.5\" Drive Bays",
+                "value": "2"
+            },
+            {
+                "name": "Side Panel Window",
+                "value": "Yes"
+            }
+        ],
+        "category": "Case"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "RAMZ4DKS08G0002",
+        "name": "Kingston ValueRAM (KVR24N17S8/8) 8GB Single DDR4 2400 Desktop RAM",
+        "description": "No Description",
+        "price": 64,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009480_kingston-valueram-kvr24n17s88-8gb-single-ddr4-2400-desktop-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "8GB (1x8GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "HP",
+        "sku": "TNHPQOEMCE401A",
+        "name": "HP Compatible CE401A  507A Cyan Toner Cartridge - up to 6k",
+        "description": "HP Compatible CE401A # 507A Cyan Toner Cartridge - up to 6k",
+        "price": 84,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009564_hp-compatible-ce401a-507a-cyan-toner-cartridge-up-to-6k.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "RAMZ4DKSK16G004",
+        "name": "Kingston HyperX FURY (HX426C15FBK2/16 / HX426C16FB3K2/16) 16GB Kit (8Gx2) DDR4 2666 Desktop RAM",
+        "description": "Kingston HyperX FURY (HX426C15FBK2/16 / HX426C16FB3K2/16) 16GB Kit (8Gx2) DDR4 2666 Desktop RAM",
+        "price": 129,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009437_kingston-hyperx-fury-hx426c15fbk216-hx426c16fb3k216-16gb-kit-8gx2-ddr4-2666-desktop-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "16GB (2x8GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2666MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Multi-channel Kit",
+                "value": "Dual Channel kit"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "15"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "RAMZ4DKSS08G002",
+        "name": "Kingston ValueRAM SODIMM (KVR24S17S8/8) 8G Single DDR4 2400 Notebook RAM",
+        "description": "Kingston ValueRAM SO-DIMM (KVR24S17S8/8) 8G Single DDR4 2400 Notebook RAM",
+        "price": 65,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009481_kingston-valueram-so-dimm-kvr24s17s88-8g-single-ddr4-2400-notebook-ram.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "8GB (1x8GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "260-Pin DDR4 SO-DIMM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "HP",
+        "sku": "TNHPQOEMCE400X",
+        "name": "HP Compatible CE400X  507X Black Toner Cartridge - up to 11k",
+        "description": "HP Compatible CE400X # 507X Black Toner Cartridge - up to 11k",
+        "price": 84,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009563_hp-compatible-ce400x-507x-black-toner-cartridge-up-to-11k.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Ink & Toner Store"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGAP300NEOC",
+        "name": "SONICGEAR AirPlug 300 Neo (Cyan) Earphone",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 7,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009606_sonicgear-airplug-300-neo-cyan-earphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "bluetooth"
+            },
+            {
+                "name": "Microphone Included",
+                "value": "volume and call in button"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGSPTBMB",
+        "name": "SONICGEAR SparkPlug Turbine (Blue) Earphone",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009611_sonicgear-sparkplug-turbine-blue-earphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGVIBRA5R",
+        "name": "SONICGEAR Vibra 5 (Red) 3.5mm Headset with Microphone",
+        "description": "No Description",
+        "price": 18,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009615_sonicgear-vibra-5-red-35mm-headset-with-microphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Headphone(Microphone) Frequency Response",
+                "value": "20Hz-20KHz"
+            },
+            {
+                "name": "Headphone(Microphone) Sensitivity",
+                "value": "103db±3db"
+            },
+            {
+                "name": "Microphone Included",
+                "value": "Yes"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGSPTBGM",
+        "name": "SONICGEAR SparkPlug Turbine (Gun Metal) Earphone",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009610_sonicgear-sparkplug-turbine-gun-metal-earphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGXENON2G",
+        "name": "SONICGEAR Xenon 2 (Grey) 3.5mm Headset with Microphone",
+        "description": "No Description",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009616_sonicgear-xenon-2-grey-35mm-headset-with-microphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Headphone(Microphone) Frequency Response",
+                "value": "20Hz-20KHz"
+            },
+            {
+                "name": "Microphone Included",
+                "value": "Yes"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "Crucial",
+        "sku": "RAMZ4DCCD04G01",
+        "name": "Crucial Desktop RAM (CT4G4DFS824A) 4GB Single DDR4 2400 Desktop RAM",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 34,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012473_crucial-desktop-ram-ct4g4dfs824a-4gb-single-ddr4-2400-desktop-ram.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "RAM Capacity",
+                "value": "4GB (1x4GB)"
+            },
+            {
+                "name": "RAM Speed",
+                "value": "2400MHz"
+            },
+            {
+                "name": "RAM Type",
+                "value": "288-Pin DDR4 SDRAM"
+            },
+            {
+                "name": "Voltage",
+                "value": "1.2V"
+            },
+            {
+                "name": "ECC",
+                "value": "NO"
+            },
+            {
+                "name": "Buffered/Registered",
+                "value": "Unbuffered"
+            },
+            {
+                "name": "Brand",
+                "value": "Crucial"
+            },
+            {
+                "name": "CAS Latency",
+                "value": "17"
+            }
+        ],
+        "category": "Memory"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGXENON2T",
+        "name": "SONICGEAR Xenon 2 (Turquila) 3.5mm Headset with Microphone",
+        "description": "No Description",
+        "price": 9,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009617_sonicgear-xenon-2-turquila-35mm-headset-with-microphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Headphone(Microphone) Frequency Response",
+                "value": "20Hz-20KHz"
+            },
+            {
+                "name": "Microphone Included",
+                "value": "Yes"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "QNAP",
+        "sku": "NASQNLICCAM2CH",
+        "name": "QNAP 2 LICENSE ACTIVATION KEY FOR CAMERAS",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 149,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009621_qnap-2-license-activation-key-for-cameras.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Qnap"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGSPTBMS",
+        "name": "SONICGEAR SparkPlug Turbine (Silver) Earphone",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009612_sonicgear-sparkplug-turbine-silver-earphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Brand",
+                "value": "Sonicgear"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLRERE450",
+        "name": "TP-LINK RE450 AC1750 Dual Band Wireless Wall Plugged Range Extender",
+        "description": "TP-LINK RE450 AC1750 Dual Band Wireless Wall Plugged Range Extender",
+        "price": 135,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009637_tp-link-re450-ac1750-dual-band-wireless-wall-plugged-range-extender.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Plug Type",
+                "value": "AU"
+            },
+            {
+                "name": "Standards",
+                "value": "IEEE802.11ac, IEEE 802.11n, IEEE 802.11g, IEEE 802.11b"
+            },
+            {
+                "name": "Interface",
+                "value": "1 * 10/100/1000M Ethernet Port (RJ45)"
+            },
+            {
+                "name": "Button",
+                "value": "RE (Range Extender) Button, Reset Button, LED Button, Power Button"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "10W(max power consumption)"
+            },
+            {
+                "name": "Antenna",
+                "value": "3* external"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4GHz &amp; 5GHz(11ac)"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Range Extender/Access Point"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Range Extender"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Access Point"
+            },
+            {
+                "name": "Wireless Security",
+                "value": "64/128-bit WEP; WPA-PSK / WPA2-PSK"
+            },
+            {
+                "name": "Transmit Power",
+                "value": "&lt;20dBm(2.4GHz) ; &lt;23dBm(5GHz)"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1750"
+            },
+            {
+                "name": "Dimensions",
+                "value": "6.4x 3.0 x 2.6 in. (163 x 76.4 x 66.5mm)"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLJBB310",
+        "name": "SURVEILIST B310 Junction Box for SL20/CD20 model camera",
+        "description": "No Description",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009662_surveilist-b310-junction-box-for-sl20cd20-model-camera.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "SPKSGUQUATRO2T",
+        "name": "SONICGEAR Quatro 2 (Turquila) 2.0 USB Speaker",
+        "description": "No Description",
+        "price": 13,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012353_sonicgear-quatro-2-turquila-20-usb-speaker.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Speaker Configuration",
+                "value": "2.0"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "USB"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLJBB320",
+        "name": "SURVEILIST B320 Junction Box for SHR30/BV60/BQ60 model camera",
+        "description": "No Description",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009663_surveilist-b320-junction-box-for-shr30bv60bq60-model-camera.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "HSSGAP300NEOR",
+        "name": "SONICGEAR AirPlug 300 Neo (Red) Earphone",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009607_sonicgear-airplug-300-neo-red-earphone.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Headset(Microphone) Connector",
+                "value": "3.5mm Jack Plug"
+            },
+            {
+                "name": "Microphone Included",
+                "value": "Yes"
+            }
+        ],
+        "category": "Headset"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "HUBTLWA855RE",
+        "name": "TP-LINK TL-WA855RE 300Mbps Wireless N Wall Plugged Range Extender",
+        "description": "TP-LINK TL-WA855RE 300Mbps Wireless N Wall Plugged Range Extender",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012560_tp-link-tl-wa855re-300mbps-wireless-n-wall-plugged-range-extender.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Plug Type",
+                "value": "AU"
+            },
+            {
+                "name": "Interface",
+                "value": "1 x 10/100M Ethernet Port (RJ45)"
+            },
+            {
+                "name": "Button",
+                "value": "WPS Button, Reset Button"
+            },
+            {
+                "name": "Power Adapter",
+                "value": "Power Consumption\t3.6W"
+            },
+            {
+                "name": "Dimensions",
+                "value": "3.15 x 3.06 x 3.04 in. (80 x 77.8 x 77.3mm)"
+            },
+            {
+                "name": "Antenna Type",
+                "value": "External antenna"
+            },
+            {
+                "name": "Antenna",
+                "value": "2 x external"
+            },
+            {
+                "name": "Frequency",
+                "value": "2.4 GHz"
+            },
+            {
+                "name": "Transmit Power",
+                "value": "&lt; 20 dBm (EIRP)"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "AP Mode; Multi-SSID Mode; Client Mode; Repeater Mode (WDS/Universal); Bridge with AP Mode"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Access Point"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Bridge with AP"
+            },
+            {
+                "name": "Operating Mode",
+                "value": "Wireless Client"
+            },
+            {
+                "name": "Wireless Security",
+                "value": "64/128/152-bit; WEP / WPA / WPA2,WPA-PSK / WPA2-PSK"
+            },
+            {
+                "name": "Certification",
+                "value": "CE, FCC, RoHS"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "300M"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLNVR9168P",
+        "name": "SURVEILIST CK-A9308POE H.265/H.264 8CH HD NVR with 8 X POE IP Camera Input: 16CH (8MP/6MP/5MP/4MP/3MP/2MP/1MP etc)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 179,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009665_surveilist-ck-a9308poe-h265h264-8ch-hd-nvr-with-8-x-poe-ip-camera-input-16ch-8mp6mp5mp4mp3mp2mp1mp-e.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLNVRA916",
+        "name": "SURVEILIST CK-A9316PN H.265/H.264 16CH HD NVR IP Camera Input: 16CH (4096??2160 2592x1944 2048x1536 1920??1080 1280??960 1280??720 etc)",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 109,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009666_surveilist-ck-a9316pn-h265h264-16ch-hd-nvr-ip-camera-input-16ch-40962160-2592x1944-2048x1536-1920108.jpg"
+            }
+        ],
+        "specifications": [],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Sonicgear",
+        "sku": "SPKSGUQUATRO2G",
+        "name": "SONICGEAR Quatro 2 (Grey) 2.0 USB Speaker",
+        "description": "No Description",
+        "price": 13,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0012352_sonicgear-quatro-2-grey-20-usb-speaker.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Speaker Configuration",
+                "value": "2.0"
+            },
+            {
+                "name": "Speaker Connector",
+                "value": "USB"
+            }
+        ],
+        "category": "Speakers"
+    },
+    {
+        "brand": "TP-Link",
+        "sku": "NICTLPA8630PKIT",
+        "name": "TP-LINK TL-WPA8630PKIT AV1300 3-Port Gigabit Passthrough Powerline kit Range Extender",
+        "description": "TP-LINK TL-WPA8630PKIT AV1300 3-Port Gigabit Passthrough Powerline kit Range Extender",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009644_tp-link-tl-wpa8630pkit-av1300-3-port-gigabit-passthrough-powerline-kit-range-extender.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Plug Type",
+                "value": "AU"
+            },
+            {
+                "name": "Standards",
+                "value": "HomePlug AV2, IEEE 1901,IEEE 802.3, IEEE 802.3u IEEE 802.11b/g/n 2.4GHz, IEEE 802.11a/ac 5GHz"
+            },
+            {
+                "name": "Interface",
+                "value": "3 * Gigabit Ethernet Port, Power Socket"
+            },
+            {
+                "name": "Wireless Data Rates",
+                "value": "AC1350"
+            },
+            {
+                "name": "Powerline Speeds",
+                "value": "1300Mbps"
+            },
+            {
+                "name": "IGMP Snooping",
+                "value": "IGMP v1/v2/v3"
+            },
+            {
+                "name": "Security",
+                "value": "128-bit AES Encryption"
+            },
+            {
+                "name": "System Requirements",
+                "value": "Windows 10/8.1/8/7/Vista/XP, Mac OS, Linux2"
+            },
+            {
+                "name": "Brand",
+                "value": "TP-Link"
+            }
+        ],
+        "category": "Networking"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLJBCKAB160",
+        "name": "SURVEILIST CK-AB160 Wall model bracket for SHR30 model camera",
+        "description": "No Description",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009664_surveilist-ck-ab160-wall-model-bracket-for-shr30-model-camera.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "MSI",
+        "sku": "VGAPAMS5RX570AO",
+        "name": "MSI Radeon (RX 570 ARMOR 4G OC) 4GB RX 570 Armor OC PCI-E VGA Card",
+        "description": "Product with limited quantity. While stocks last.",
+        "price": 229,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009474_msi-radeon-rx-570-armor-4g-oc-4gb-rx-570-armor-oc-pci-e-vga-card.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "VGA Interface",
+                "value": "PCI Express 3.0"
+            },
+            {
+                "name": "Chipset Manufacturer",
+                "value": "AMD"
+            },
+            {
+                "name": "GPU SERIES",
+                "value": "AMD Radeon RX 500 Series"
+            },
+            {
+                "name": "GPU",
+                "value": "Radeon RX 570"
+            },
+            {
+                "name": "Core Clock",
+                "value": "1268 MHz"
+            },
+            {
+                "name": "VGA Memory Size",
+                "value": "4GB"
+            },
+            {
+                "name": "Memory Type",
+                "value": "GDDR5"
+            },
+            {
+                "name": "Ports",
+                "value": "3 x DP"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x HDMI"
+            },
+            {
+                "name": "Ports",
+                "value": "1 x DVI-D"
+            },
+            {
+                "name": "Max Resolution",
+                "value": "7680 x 4320"
+            },
+            {
+                "name": "Power Connector",
+                "value": "8-Pin"
+            },
+            {
+                "name": "Multi-Monitor Support",
+                "value": "5"
+            },
+            {
+                "name": "Brand",
+                "value": "MSI"
+            }
+        ],
+        "category": "Graphics Card"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "MSAT9AIRMOUSE",
+        "name": "ALCATROZ AirMouse (Black) 1000CPI Wireless Optical Mouse",
+        "description": "ALCATROZ AirMouse (Black) 1000CPI Wireless Optical Mouse",
+        "price": 8,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009620_alcatroz-airmouse-black-1000cpi-wireless-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            },
+            {
+                "name": "Brand",
+                "value": "Alcatroz"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLXVRD820",
+        "name": "SURVEILIST XVRD820 - 5-IN-1: AHD/CVI/TVI/IP/Analog 8CH Network 1 x SATA P2P HDMI VGA USB Audio Support HD: 1080N/720P",
+        "description": "Available:  1. Online order and delivery.  2. Victoria - Dandenong South Store ONLY  Product with limited quantity. While stocks last.",
+        "price": 69,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009672_surveilist-xvrd820-5-in-1-ahdcvitviipanalog-8ch-network-1-x-sata-p2p-hdmi-vga-usb-audio-support-hd-1.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLNVRD998",
+        "name": "SURVEILIST NVRD998 H.265 9CH HD NVR IP Camera Input: 9CH (4096x2160 2592x1944 2048x1536 1920x1080 1280x960 1280x720 etc)",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 49,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009667_surveilist-nvrd998-h265-9ch-hd-nvr-ip-camera-input-9ch-4096x2160-2592x1944-2048x1536-1920x1080-1280x.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "MPKSHXMPFSL",
+        "name": "Kingston (HX-MPFS-L) HyperX Fury S Stitched Large Gaming Mouse Pad",
+        "description": "No Description",
+        "price": 29,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011751_kingston-hx-mpfs-l-hyperx-fury-s-stitched-large-gaming-mouse-pad.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLXVRA421",
+        "name": "SURVEILIST XVRA421 - 5-IN-1: AHD/CVI/TVI/IP/Analog 4CH Network 2 x SATA P2P HDMI VGA USB Audio Alarm Support HD: 1080P/720P",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 119,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009669_surveilist-xvra421-5-in-1-ahdcvitviipanalog-4ch-network-2-x-sata-p2p-hdmi-vga-usb-audio-alarm-suppor.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "MPKSHXMPFSXL",
+        "name": "Kingston HX-MPFS-XL HyperX Fury S Stitched Extra Large Gaming Mouse Pad",
+        "description": "No Description",
+        "price": 45,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011754_kingston-hx-mpfs-xl-hyperx-fury-s-stitched-extra-large-gaming-mouse-pad.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "MPKSHXMPFSSM",
+        "name": "Kingston HX-MPFS-SM HyperX Fury S Stitched Small Gaming Mouse Pad",
+        "description": "No Description",
+        "price": 15,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011753_kingston-hx-mpfs-sm-hyperx-fury-s-stitched-small-gaming-mouse-pad.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLXVRD420",
+        "name": "SURVEILIST XVRD420 - 5-IN-1: AHD/CVI/TVI/IP/Analog 4CH Network 1 x SATA P2P HDMI VGA USB Audio Support HD: 1080N/720P",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 55,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009671_surveilist-xvrd420-5-in-1-ahdcvitviipanalog-4ch-network-1-x-sata-p2p-hdmi-vga-usb-audio-support-hd-1.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "MSAT8ASIC5BR",
+        "name": "ALCATROZ ASIC 5 (Black  Red) USB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009746_alcatroz-asic-5-black-red-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            },
+            {
+                "name": "Brand",
+                "value": "Alcatroz"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "MSAT8ASIC5BB",
+        "name": "ALCATROZ ASIC 5 (Black  Blue) USB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. ALL Victoria Stores.  Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009745_alcatroz-asic-5-black-blue-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            },
+            {
+                "name": "Brand",
+                "value": "Alcatroz"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "Kingston",
+        "sku": "MPKSHXMPFSM",
+        "name": "Kingston HX-MPFS-M HyperX Fury S Stitched Medium Gaming Mouse Pad",
+        "description": "No Description",
+        "price": 25,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0011752_kingston-hx-mpfs-m-hyperx-fury-s-stitched-medium-gaming-mouse-pad.jpeg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Kingston"
+            }
+        ],
+        "category": "Mouse Pad"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "MSAT8ASIC6BB",
+        "name": "ALCATROZ ASIC 6 (Black  Blue) USB Optical Mouse",
+        "description": "Available:  1. Online order and delivery.  2. Victoria Dandenong South Store ONLY Product with limited quantity. While stocks last.",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009747_alcatroz-asic-6-black-blue-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            },
+            {
+                "name": "Brand",
+                "value": "Alcatroz"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "MSAT8ASIC6BR",
+        "name": "ALCATROZ ASIC 6 (Black  Red) USB Optical Mouse",
+        "description": "ALCATROZ ASIC 6 (Black & Red) USB Optical Mouse",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009749_alcatroz-asic-6-black-red-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            },
+            {
+                "name": "Brand",
+                "value": "Alcatroz"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "ARMAGGEDDON",
+        "sku": "MSAMGKEVLAR",
+        "name": "ARMAGGEDDON Foxbat III Kevlar (Black) Wireless Gaming Optical Mouse with Multi Color Light",
+        "description": "No Description",
+        "price": 24,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009775_armaggeddon-foxbat-iii-kevlar-black-wireless-gaming-optical-mouse-with-multi-color-light.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Armaggeddon"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "7000 dpi"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wireless"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "ARMAGGEDDON",
+        "sku": "MSAMGIRONSIGHT",
+        "name": "ARMAGGEDDON Foxbat III Ironsight (Black) Wireless Gaming Optical Mouse with Multi Color Light",
+        "description": "No Description",
+        "price": 24,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009774_armaggeddon-foxbat-iii-ironsight-black-wireless-gaming-optical-mouse-with-multi-color-light.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Armaggeddon"
+            },
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "7000 dpi"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "Yes"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "ALCATROZ",
+        "sku": "MSAT8ASIC6BG",
+        "name": "ALCATROZ ASIC 6 (Black  Grey) USB Optical Mouse",
+        "description": "ALCATROZ ASIC 6 (Black & Grey) USB Optical Mouse",
+        "price": 6,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009748_alcatroz-asic-6-black-grey-usb-optical-mouse.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Mouse Maximum  Optical",
+                "value": "1000 CPI"
+            },
+            {
+                "name": "Mouse interface",
+                "value": "USB"
+            },
+            {
+                "name": "Mouse Type",
+                "value": "Wired"
+            },
+            {
+                "name": "Tracking Method",
+                "value": "Optical"
+            },
+            {
+                "name": "Extra Programmable Buttons",
+                "value": "No"
+            },
+            {
+                "name": "Brand",
+                "value": "Alcatroz"
+            }
+        ],
+        "category": "Mouse"
+    },
+    {
+        "brand": "SURVEILIST",
+        "sku": "SCRTSLJBB280",
+        "name": "SURVEILIST B280 Wall mode bracket and juction box for DH20 model camera",
+        "description": "No Description",
+        "price": 45,
+        "images": [
+            {
+                "url": "https://www.msy.com.au/content/images/thumbs/0009661_surveilist-b280-wall-mode-bracket-and-juction-box-for-dh20-model-camera.jpg"
+            }
+        ],
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Surveilist"
+            }
+        ],
+        "category": "Surveillance"
+    }
+]

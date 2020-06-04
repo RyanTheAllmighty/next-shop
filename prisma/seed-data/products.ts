@@ -1,3 +1,5 @@
+import fs from 'fs';
+import path from 'path';
 import { ProductImage, ProductSpecification } from '@prisma/client';
 
 export interface Product {
@@ -11,35 +13,10 @@ export interface Product {
     category: string;
 }
 
-const products: Product[] = [
-    {
-        brand: 'Crucial',
-        sku: 'CT500P1SSD8',
-        name: 'Crucial P1 500GB 3D NAND NVMe PCIe M.2 SSD',
-        description:
-            'Crucial P1 500GB 3D NAND NVMe PCIe M.2 SSD, 500GB with sequential reads/writes up to 2,000/1,750 MB/s, 5-Year limited warranty',
-        price: 115.0,
-        images: [
-            { url: 'https://cdn1.centrecom.com.au/images/upload/0071473_0.jpeg' },
-            { url: 'https://cdn2.centrecom.com.au/images/upload/0071474_0.jpeg' },
-            { url: 'https://cdn3.centrecom.com.au/images/upload/0071475_0.jpeg' },
-        ],
-        specifications: [
-            {
-                name: 'Capacity',
-                value: '500GB',
-            },
-            {
-                name: 'Interface',
-                value: 'NVMe',
-            },
-            {
-                name: 'Form Factor',
-                value: 'M.2 2280',
-            },
-        ],
-        category: 'NVMe Drives',
-    },
-];
+const products: Product[] = fs
+    .readdirSync(path.join(__dirname, 'json'))
+    .filter((filename) => filename.startsWith('products-'))
+    .map((filename) => JSON.parse(fs.readFileSync(path.join(__dirname, `json/${filename}`), 'utf-8')))
+    .reduce((acc: Product[], array: Product[]) => (acc = acc.concat(array)), []) as Product[];
 
 export default products;
