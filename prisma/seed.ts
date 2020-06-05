@@ -18,29 +18,37 @@ const client = new PrismaClient();
 main();
 
 export async function createCategory(category: Category, parentCategory: number | null = null): Promise<void> {
-    const slug = slugify(category.name).toLowerCase();
+    try {
+        const slug = slugify(category.name).toLowerCase();
 
-    const data: CategoryCreateInput | CategoryUpdateInput = {
-        name: category.name,
-        slug,
-    };
-
-    if (parentCategory) {
-        data.parent = {
-            connect: {
-                id: parentCategory,
-            },
+        const data: CategoryCreateInput | CategoryUpdateInput = {
+            name: category.name,
+            slug,
         };
-    }
 
-    const thisCategory = await client.category.upsert({
-        where: { slug },
-        create: data as CategoryCreateInput,
-        update: data as CategoryUpdateInput,
-    });
+        if (parentCategory) {
+            data.parent = {
+                connect: {
+                    id: parentCategory,
+                },
+            };
+        }
 
-    if (category.children) {
-        await Promise.all(category.children.flatMap((childCategory) => createCategory(childCategory, thisCategory.id)));
+        const thisCategory = await client.category.upsert({
+            where: { slug },
+            create: data as CategoryCreateInput,
+            update: data as CategoryUpdateInput,
+        });
+
+        if (category.children) {
+            await Promise.all(
+                category.children.flatMap((childCategory) => createCategory(childCategory, thisCategory.id)),
+            );
+        }
+    } catch (e) {
+        console.log(category);
+        console.error(e);
+        process.exit(1);
     }
 }
 
@@ -58,7 +66,6 @@ async function createProduct(product: Product): Promise<void> {
             },
             update: {
                 name: product.brand,
-                slug: brandSlug,
             },
         });
 
@@ -109,10 +116,8 @@ async function createProduct(product: Product): Promise<void> {
         // create all the specifications
         await Promise.all(
             product.specifications.map((specification) =>
-                client.productSpecification.upsert({
-                    where: { name_productId: { name: specification.name, productId: thisProduct.id } },
-                    create: { ...specification, product: { connect: { id: thisProduct.id } } },
-                    update: { ...specification, product: { connect: { id: thisProduct.id } } },
+                client.productSpecification.create({
+                    data: { ...specification, product: { connect: { id: thisProduct.id } } },
                 }),
             ),
         );

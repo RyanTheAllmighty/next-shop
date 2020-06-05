@@ -6,10 +6,8 @@ export interface Category {
     children?: Category[];
 }
 
-const categories: Category[] = fs
-    .readdirSync(path.join(__dirname, 'json'))
-    .filter((filename) => filename.startsWith('categories-'))
-    .map((filename) => JSON.parse(fs.readFileSync(path.join(__dirname, `json/${filename}`), 'utf-8')))
-    .reduce((acc: Category[], array: Category[]) => (acc = acc.concat(array)), []) as Category[];
+const categories: Category[] = JSON.parse(
+    fs.readFileSync(path.join(__dirname, 'json/categories.json'), 'utf-8'),
+) as Category[];
 
 export default categories;

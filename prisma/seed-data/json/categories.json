@@ -1,0 +1,659 @@
+[
+  {
+    "name": "Monitors"
+  },
+  {
+    "name": "Motherboard",
+    "children": [
+      {
+        "name": "Intel Socket"
+      }
+    ]
+  },
+  {
+    "name": "CPU",
+    "children": [
+      {
+        "name": "Intel"
+      },
+      {
+        "name": "AMD"
+      }
+    ]
+  },
+  {
+    "name": "Promotion",
+    "children": [
+      {
+        "name": "Intel® Accelerate Your Game Q220"
+      },
+      {
+        "name": "Nvidia Geforce COD case giveaway"
+      },
+      {
+        "name": "We Are Gamers",
+        "children": [
+          {
+            "name": "Game at home with ASUS"
+          }
+        ]
+      },
+      {
+        "name": "Intel 9th Gen CPU"
+      },
+      {
+        "name": "Work From Home Selection",
+        "children": [
+          {
+            "name": "ASUS Selection"
+          },
+          {
+            "name": "Notebook"
+          }
+        ]
+      },
+      {
+        "name": "GeForce RTX ESPORTS gaming systems"
+      },
+      {
+        "name": "AMD GPU Raise the Game 20Q1"
+      },
+      {
+        "name": "D-LINK Bonus & eGIFT card"
+      },
+      {
+        "name": "TP-Link Deco Promotion"
+      },
+      {
+        "name": "Microsoft Peripheral"
+      },
+      {
+        "name": "Windows 10"
+      },
+      {
+        "name": "Samsung SSD Rainbow6 Siege"
+      },
+      {
+        "name": "ONLINE/VIC"
+      },
+      {
+        "name": "<Expired> ASUS Home gaming steam card promotion"
+      },
+      {
+        "name": "GIGABYTE X NVIDIA taxtime PROMO"
+      }
+    ]
+  },
+  {
+    "name": "Case",
+    "children": [
+      {
+        "name": "With PSU"
+      }
+    ]
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "Router"
+      },
+      {
+        "name": "Wifi Ranger Extenders / Access Point"
+      },
+      {
+        "name": "Network Card/ USB Adapter"
+      }
+    ]
+  },
+  {
+    "name": "Smart Home"
+  },
+  {
+    "name": "Clearance"
+  },
+  {
+    "name": "Cables",
+    "children": [
+      {
+        "name": "USB Cable"
+      },
+      {
+        "name": "Cable Management"
+      },
+      {
+        "name": "PC Internal Power Cable"
+      },
+      {
+        "name": "SATA Cable"
+      },
+      {
+        "name": "Power Cable"
+      },
+      {
+        "name": "Video cable"
+      },
+      {
+        "name": "Network Cable"
+      }
+    ]
+  },
+  {
+    "name": "Graphics Card",
+    "children": [
+      {
+        "name": "NVIDIA"
+      },
+      {
+        "name": "AMD"
+      }
+    ]
+  },
+  {
+    "name": "Software",
+    "children": [
+      {
+        "name": "Anitvirus"
+      }
+    ]
+  },
+  {
+    "name": "Cooling",
+    "children": [
+      {
+        "name": "LED"
+      },
+      {
+        "name": "Thermal Compound"
+      },
+      {
+        "name": "Fan Controller/Hub"
+      },
+      {
+        "name": "Fan"
+      },
+      {
+        "name": "CPU Cooling"
+      }
+    ]
+  },
+  {
+    "name": "Mouse"
+  },
+  {
+    "name": "Notebook",
+    "children": [
+      {
+        "name": "Notebook"
+      }
+    ]
+  },
+  {
+    "name": "Hard Drive / SSD",
+    "children": [
+      {
+        "name": "HDD ACCESSORIES"
+      },
+      {
+        "name": "SSD - M.2"
+      },
+      {
+        "name": "3.5\" Internal HDD"
+      },
+      {
+        "name": "2.5\" Internal HDD"
+      },
+      {
+        "name": "2.5\" External HDD"
+      },
+      {
+        "name": "SSD - SATA"
+      }
+    ]
+  },
+  {
+    "name": "New Products"
+  },
+  {
+    "name": "Optical Drives",
+    "children": [
+      {
+        "name": "DVD RW"
+      },
+      {
+        "name": "CD/DVD ACCESSORIES"
+      }
+    ]
+  },
+  {
+    "name": "Motherboard"
+  },
+  {
+    "name": "Multimedia",
+    "children": [
+      {
+        "name": "Microphone"
+      }
+    ]
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "Bluetooth",
+        "children": [
+          {
+            "name": "Bluetooth Dongle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Office Supply",
+    "children": [
+      {
+        "name": "Cleaning product"
+      }
+    ]
+  },
+  {
+    "name": "Speakers"
+  },
+  {
+    "name": "Systems/PCs",
+    "children": [
+      {
+        "name": "All-in-one"
+      }
+    ]
+  },
+  {
+    "name": "BAREBONE"
+  },
+  {
+    "name": "Systems/PCs",
+    "children": [
+      {
+        "name": "Office PC"
+      }
+    ]
+  },
+  {
+    "name": "Notebook",
+    "children": [
+      {
+        "name": "Notebook Acc"
+      }
+    ]
+  },
+  {
+    "name": "Mobile Phone & Tablet Accessory"
+  },
+  {
+    "name": "Power Supply"
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "USB Hub"
+      }
+    ]
+  },
+  {
+    "name": "Enclosure / Hard Drive Dock",
+    "children": [
+      {
+        "name": "2.5\" HDD Enclosure"
+      }
+    ]
+  },
+  {
+    "name": "Notebook"
+  },
+  {
+    "name": "Memory"
+  },
+  {
+    "name": "Enclosure / Hard Drive Dock",
+    "children": [
+      {
+        "name": "HDD Docking & USB Adapter"
+      }
+    ]
+  },
+  {
+    "name": "Systems/PCs",
+    "children": [
+      {
+        "name": "Gaming PC"
+      }
+    ]
+  },
+  {
+    "name": "M.SPEC Gaming PC"
+  },
+  {
+    "name": "Case",
+    "children": [
+      {
+        "name": "Without PSU"
+      }
+    ]
+  },
+  {
+    "name": "Surveillance",
+    "children": [
+      {
+        "name": "Cameras",
+        "children": [
+          {
+            "name": "IP Cameras"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Headset"
+  },
+  {
+    "name": "Memory",
+    "children": [
+      {
+        "name": "SO DIMM"
+      }
+    ]
+  },
+  {
+    "name": "Ink & Toner Store",
+    "children": [
+      {
+        "name": "Ink Cartridges"
+      },
+      {
+        "name": "Toner Cartridges"
+      }
+    ]
+  },
+  {
+    "name": "Flash memory",
+    "children": [
+      {
+        "name": "USB Flash Drive"
+      },
+      {
+        "name": "SD / SDHC / SDXC"
+      },
+      {
+        "name": "Micro SD"
+      },
+      {
+        "name": "Compact Flash"
+      }
+    ]
+  },
+  {
+    "name": "Disk (CD/DVD/BR)",
+    "children": [
+      {
+        "name": "DVD"
+      }
+    ]
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "Switch"
+      }
+    ]
+  },
+  {
+    "name": "Case"
+  },
+  {
+    "name": "Car Accessories"
+  },
+  {
+    "name": "Keyboard"
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "Modem"
+      }
+    ]
+  },
+  {
+    "name": "Mouse Pad"
+  },
+  {
+    "name": "Clearance",
+    "children": [
+      {
+        "name": "Graphic Card"
+      }
+    ]
+  },
+  {
+    "name": "UPS / Powerboard"
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "Router"
+      }
+    ]
+  },
+  {
+    "name": "Enclosure / Hard Drive Dock"
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "Mesh System"
+      }
+    ]
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "USB Card Reader"
+      }
+    ]
+  },
+  {
+    "name": "Motherboard",
+    "children": [
+      {
+        "name": "AMD Socket"
+      }
+    ]
+  },
+  {
+    "name": "Clearance",
+    "children": [
+      {
+        "name": "Motherboard"
+      }
+    ]
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "PCI/PCI-E Card"
+      }
+    ]
+  },
+  {
+    "name": "Office Supply"
+  },
+  {
+    "name": "Memory",
+    "children": [
+      {
+        "name": "DDR4"
+      }
+    ]
+  },
+  {
+    "name": "Surveillance",
+    "children": [
+      {
+        "name": "Cameras"
+      }
+    ]
+  },
+  {
+    "name": "CPU"
+  },
+  {
+    "name": "Multimedia"
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "Power Line adapter"
+      }
+    ]
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "3G/4G Mobile Network Devices"
+      }
+    ]
+  },
+  {
+    "name": "Gaming Chair"
+  },
+  {
+    "name": "Surveillance",
+    "children": [
+      {
+        "name": "XVR"
+      }
+    ]
+  },
+  {
+    "name": "Surveillance",
+    "children": [
+      {
+        "name": "NVR"
+      }
+    ]
+  },
+  {
+    "name": "Surveillance",
+    "children": [
+      {
+        "name": "Surveillance Complete Kit"
+      }
+    ]
+  },
+  {
+    "name": "Surveillance",
+    "children": [
+      {
+        "name": "Accessories"
+      }
+    ]
+  },
+  {
+    "name": "Enclosure / Hard Drive Dock",
+    "children": [
+      {
+        "name": "3.5\" HDD Enclosure"
+      }
+    ]
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "USB Charging Device"
+      }
+    ]
+  },
+  {
+    "name": "Printer"
+  },
+  {
+    "name": "Mounting  Bracket"
+  },
+  {
+    "name": "Webcam"
+  },
+  {
+    "name": "Card Readers"
+  },
+  {
+    "name": "Surveillance"
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "USB SATA Adapter"
+      }
+    ]
+  },
+  {
+    "name": "USB Devices"
+  },
+  {
+    "name": "Networking",
+    "children": [
+      {
+        "name": "NAS"
+      }
+    ]
+  },
+  {
+    "name": "Networking"
+  },
+  {
+    "name": "Case",
+    "children": [
+      {
+        "name": "Case Accessories"
+      }
+    ]
+  },
+  {
+    "name": "Joysticks & Racing Wheels"
+  },
+  {
+    "name": "Multimedia",
+    "children": [
+      {
+        "name": "Sound Card"
+      }
+    ]
+  },
+  {
+    "name": "Enclosure / Hard Drive Dock",
+    "children": [
+      {
+        "name": "SSD HDD Mounting Brackets"
+      }
+    ]
+  },
+  {
+    "name": "USB Devices",
+    "children": [
+      {
+        "name": "Bluetooth"
+      }
+    ]
+  }
+]
