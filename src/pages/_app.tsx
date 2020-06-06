@@ -1,10 +1,10 @@
-import * as React from 'react';
 import Head from 'next/head';
-import { AppProps, AppInitialProps } from 'next/app';
+import * as React from 'react';
+import { AppProps } from 'next/app';
 
 import '../styles.css';
 
-const MyApp: React.SFC<AppProps & AppInitialProps> = ({ Component, pageProps }) => (
+const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => (
     <>
         <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />

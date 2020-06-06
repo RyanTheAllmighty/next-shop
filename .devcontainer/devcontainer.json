@@ -9,9 +9,10 @@
     ],
     "workspaceFolder": "/workspace",
     "extensions": [
-        "esbenp.prettier-vscode",
-        "prisma.prisma",
-        "prisma.vscode-graphql"
-    ],
+		"esbenp.prettier-vscode",
+		"prisma.prisma",
+		"prisma.vscode-graphql",
+		"bradlc.vscode-tailwindcss"
+	],
     "postCreateCommand": "sh /opt/postCreate.sh"
 }

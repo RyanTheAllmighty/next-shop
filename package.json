@@ -16,11 +16,10 @@
     "db:seed": "dotenv -e .env ts-node -s -- prisma/seed.ts",
     "db:seed:scrape": "dotenv -e .env ts-node -s -- prisma/scrape.ts",
     "db:wipe": "dotenv -e .env ts-node -s -- prisma/wipe.ts",
-    "dev": "run-p dev:*",
-    "dev:next": "next",
-    "dev:nexus": "nexus dev --reflection --entrypoint src/pages/api/graphql/index.ts",
+    "dev": "next",
     "export": "next export",
     "nexus:check": "nexus build --entrypoint src/pages/api/graphql/index.ts",
+    "nexus:reflection": "nexus dev --reflection --entrypoint src/pages/api/graphql/index.ts",
     "postinstall": "run-s copy:*",
     "start": "next start",
     "studio": "prisma studio --experimental"
@@ -40,6 +39,7 @@
     }
   },
   "dependencies": {
+    "graphql-request": "^2.0.0",
     "ky": "^0.20.0",
     "ky-universal": "^0.7.0",
     "next": "^9.4.4",
@@ -48,6 +48,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "slugify": "^1.4.0",
+    "swr": "^0.2.2",
     "tailwindcss": "^1.4.6",
     "tailwindcss-children": "^2.1.0",
     "tailwindcss-pseudo-elements": "^1.1.2",

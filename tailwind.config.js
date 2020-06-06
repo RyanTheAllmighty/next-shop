@@ -16,7 +16,7 @@ module.exports = {
         },
     },
     variants: {
-        borderColor: ['responsive', 'after', 'before'],
+        borderColor: ['responsive', 'after', 'before', 'hover'],
         borderStyle: ['responsive', 'after', 'before'],
         borderWidth: ['responsive', 'after', 'before'],
         display: ['responsive', 'after', 'before'],

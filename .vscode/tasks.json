@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "dev",
+            "label": "npm: dev",
+            "detail": "next",
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "dev",
+                "showReuseMessage": false,
+                "clear": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "nexus:reflection",
+            "label": "npm: nexus:reflection",
+            "detail": "nexus dev --reflection --entrypoint src/pages/api/graphql/index.ts",
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "dev",
+                "showReuseMessage": false,
+                "clear": true
+            }
+        }
+    ]
+}
