@@ -19,9 +19,9 @@ main();
 
 export async function createCategory(category: Category, parentCategory: number | null = null): Promise<void> {
     try {
-        const slug = slugify(category.name).toLowerCase();
+        const slug = slugify(category.name).toLowerCase().substr(0, 191);
 
-        const data: CategoryCreateInput | CategoryUpdateInput = {
+        const data: CategoryCreateInput = {
             name: category.name,
             slug,
         };
@@ -34,17 +34,21 @@ export async function createCategory(category: Category, parentCategory: number 
             };
         }
 
-        const thisCategory = await client.category.upsert({
+        let thisCategory = await client.category.findOne({
             where: { slug },
-            create: data as CategoryCreateInput,
-            update: data as CategoryUpdateInput,
         });
 
-        if (category.children) {
-            await Promise.all(
-                category.children.flatMap((childCategory) => createCategory(childCategory, thisCategory.id)),
-            );
+        if (!thisCategory) {
+            thisCategory = await client.category.create({
+                data,
+            });
         }
+
+        // if (category.children && thisCategory) {
+        //     await Promise.all(
+        //         category.children.flatMap((childCategory) => createCategory(childCategory, thisCategory?.id)),
+        //     );
+        // }
     } catch (e) {
         console.log(category);
         console.error(e);
@@ -54,9 +58,9 @@ export async function createCategory(category: Category, parentCategory: number 
 
 async function createProduct(product: Product): Promise<void> {
     try {
-        const slug = slugify(product.name).toLowerCase();
-        const brandSlug = slugify(product.brand).toLowerCase();
-        const categorySlug = slugify(product.category).toLowerCase();
+        const slug = slugify(product.name).toLowerCase().substr(0, 191);
+        const brandSlug = slugify(product.brand).toLowerCase().substr(0, 191);
+        const categorySlug = slugify(product.category).toLowerCase().substr(0, 191);
 
         const brand = await client.brand.upsert({
             where: { slug: brandSlug },

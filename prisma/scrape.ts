@@ -98,7 +98,7 @@ async function scrapeProduct(page: Page, url: string): Promise<void> {
                 value: e.querySelector('.spec-value')?.innerHTML?.trim(),
             })),
         )) as Array<{ name: string; value: string }>,
-        category: category.name,
+        category: stringCategories[stringCategories.length - 1],
     };
 
     console.log(`Scraped product ${url}`);

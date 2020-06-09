@@ -8,8 +8,7 @@ interface LayoutProps {
 const Layout: NextPage<LayoutProps> = ({ children }) => (
     <>
         <Header />
-
-        {children}
+        <main>{children}</main>
     </>
 );
 
