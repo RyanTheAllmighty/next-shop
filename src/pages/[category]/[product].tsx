@@ -127,6 +127,7 @@ export async function getStaticProps({
         : {};
 
     return {
+        unstable_revalidate: 1,
         props: {
             category: {
                 ...category,
@@ -172,7 +173,7 @@ export async function getStaticPaths() {
                 },
             }));
         }),
-        fallback: false,
+        fallback: true,
     };
 }
 
