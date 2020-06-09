@@ -104,7 +104,7 @@ const ProductPage: NextPage<ProductPageProps> = ({ category, product }) => {
     );
 };
 
-export async function getStaticProps({
+export async function getServerSideProps({
     params: { category: categorySlug, product: productSlug },
 }: {
     params: { category: string; product: string };
@@ -127,7 +127,6 @@ export async function getStaticProps({
         : {};
 
     return {
-        unstable_revalidate: 1,
         props: {
             category: {
                 ...category,
@@ -156,24 +155,6 @@ export async function getStaticProps({
                 updatedAt: product.updatedAt.toISOString(),
             },
         },
-    };
-}
-
-export async function getStaticPaths() {
-    const prisma: PrismaClient = global.prisma || (global.prisma = new PrismaClient());
-
-    const categoriesWithProducts = await prisma.category.findMany({ include: { products: true } });
-
-    return {
-        paths: categoriesWithProducts.flatMap((category) => {
-            return category.products.map((product) => ({
-                params: {
-                    category: category.slug,
-                    product: product.slug,
-                },
-            }));
-        }),
-        fallback: true,
     };
 }
 

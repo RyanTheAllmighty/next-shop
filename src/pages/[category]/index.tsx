@@ -95,7 +95,7 @@ const CategoryPage: NextPage<CategoryPageProps> = ({ category }) => {
     );
 };
 
-export async function getStaticProps({ params }: { params: { category: string } }) {
+export async function getServerSideProps({ params }: { params: { category: string } }) {
     const prisma: PrismaClient = global.prisma || (global.prisma = new PrismaClient());
     const category = await prisma.category.findOne({
         where: { slug: params.category },
@@ -113,7 +113,6 @@ export async function getStaticProps({ params }: { params: { category: string } 
         : {};
 
     return {
-        unstable_revalidate: 1,
         props: {
             category: {
                 ...category,
@@ -132,22 +131,6 @@ export async function getStaticProps({ params }: { params: { category: string } 
                 updatedAt: category.updatedAt.toISOString(),
             },
         },
-    };
-}
-
-export async function getStaticPaths() {
-    const prisma: PrismaClient = global.prisma || (global.prisma = new PrismaClient());
-    const categories = await prisma.category.findMany();
-
-    return {
-        paths: categories.map((category) => {
-            return {
-                params: {
-                    category: category.slug,
-                },
-            };
-        }),
-        fallback: true,
     };
 }
 
