@@ -5,7 +5,7 @@
   "description": "Shop powered by NextJS, Prisma and Nexus",
   "license": "MIT",
   "scripts": {
-    "build": "npm run build:next",
+    "build": "run-s build:nexus build:next",
     "build:next": "next build",
     "build:nexus": "nexus build",
     "copy:env": "cpy --no-overwrite --rename=.env .env.example .",
