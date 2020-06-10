@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Header: NextPage = () => {
     return (
         <header className="flex flex-col justify-center mb-5">
-            <nav className="flex flex-col md:flex-row rounded-b px-4 py-2 items-center border-b border-blue-600">
+            <nav className="flex flex-col md:flex-row px-4 py-2 items-center border-b border-blue-600">
                 <div className="flex flex-grow">
                     <Link href="/">
                         <a className="font-bold text-5xl">NEXT Shop</a>

@@ -43,8 +43,9 @@
     "ky": "^0.20.0",
     "ky-universal": "^0.7.0",
     "next": "^9.4.4",
-    "nexus": "0.22.0",
-    "nexus-plugin-prisma": "0.7.0",
+    "nexus": "^0.23.0",
+    "nexus-plugin-prisma": "^0.9.0",
+    "prisma": "^2.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "slugify": "^1.4.0",
@@ -57,13 +58,13 @@
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
-    "@types/node": "^14.0.9",
+    "@types/node": "^14.0.13",
     "@types/puppeteer": "^3.0.0",
     "@types/react": "^16.9.35",
     "cpy-cli": "^3.1.1",
     "dotenv-cli": "^3.1.0",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.7",
+    "lint-staged": "^10.2.9",
     "mariadb": "^2.4.0",
     "markdown-toc": "^1.2.0",
     "npm-run-all": "^4.1.5",
@@ -73,7 +74,7 @@
     "puppeteer-cluster": "^0.21.0",
     "ts-node": "^8.10.2",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.5"
   },
   "engines": {
     "node": ">=12.9.0"
