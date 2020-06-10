@@ -1,42 +1,58 @@
+import useSWR from 'swr';
 import Head from 'next/head';
 import Link from 'next/link';
 import { NextPage } from 'next';
 import ErrorPage from 'next/error';
 import { useRouter } from 'next/router';
+import { request } from 'graphql-request';
 import { PrismaClient } from '@prisma/client';
 import Layout from '../../components/Layout/Layout';
 
 import type { CategoryGetPayload } from '@prisma/client';
 
-declare global {
-    namespace NodeJS {
-        interface Global {
-            prisma: PrismaClient;
-        }
-    }
-}
-
-interface CategoryPageProps {
-    category: { createdAt: string; updatedAt: string } & Omit<
-        CategoryGetPayload<{ include: { parent: true; children: true; products: true } }>,
-        'createdAt' | 'updatedAt'
-    >;
-}
-
-const CategoryPage: NextPage<CategoryPageProps> = ({ category }) => {
+const CategoryPage: NextPage = () => {
     const router = useRouter();
 
-    if (!router.isFallback && !category) {
-        return <ErrorPage statusCode={404} />;
-    }
+    const { data } = useSWR<{
+        categories: CategoryGetPayload<{ include: { parent: true; products: true; children: true } }>[];
+    }>(
+        `query getProductAndCategory {
+            categories(where: { slug: { equals: "${router.query.category}" } }) {
+                name
+                slug
+                parent {
+                    id
+                    name
+                    slug
+                }
+                children {
+                    id
+                    name
+                    slug
+                }
+                products {
+                    id
+                    name
+                    slug
+                }
+            }
+        }`,
+        (query) => request('/api/graphql', query),
+    );
 
-    if (router.isFallback) {
+    if (router.isFallback || !data) {
         return (
             <Layout>
                 <h2 className="font-bold text-2xl my-2">Loading...</h2>
             </Layout>
         );
     }
+
+    if (!router.isFallback && !data.categories.length) {
+        return <ErrorPage statusCode={404} />;
+    }
+
+    const [category] = data.categories;
 
     return (
         <Layout>
@@ -94,44 +110,5 @@ const CategoryPage: NextPage<CategoryPageProps> = ({ category }) => {
         </Layout>
     );
 };
-
-export async function getServerSideProps({ params }: { params: { category: string } }) {
-    const prisma: PrismaClient = global.prisma || (global.prisma = new PrismaClient());
-    const category = await prisma.category.findOne({
-        where: { slug: params.category },
-        include: { children: true, products: true, parent: true },
-    });
-
-    const parent = category.parent
-        ? {
-              parent: {
-                  ...category.parent,
-                  createdAt: category.parent.createdAt.toISOString(),
-                  updatedAt: category.parent.updatedAt.toISOString(),
-              },
-          }
-        : {};
-
-    return {
-        props: {
-            category: {
-                ...category,
-                ...parent,
-                children: category.children.map((childCategory) => ({
-                    ...childCategory,
-                    createdAt: childCategory.createdAt.toISOString(),
-                    updatedAt: childCategory.updatedAt.toISOString(),
-                })),
-                products: category.products.map((product) => ({
-                    ...product,
-                    createdAt: product.createdAt.toISOString(),
-                    updatedAt: product.updatedAt.toISOString(),
-                })),
-                createdAt: category.createdAt.toISOString(),
-                updatedAt: category.updatedAt.toISOString(),
-            },
-        },
-    };
-}
 
 export default CategoryPage;

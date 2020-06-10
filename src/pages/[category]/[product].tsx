@@ -1,46 +1,64 @@
+import useSWR from 'swr';
 import Head from 'next/head';
 import Link from 'next/link';
 import { NextPage } from 'next';
 import ErrorPage from 'next/error';
 import { useRouter } from 'next/router';
+import { request } from 'graphql-request';
 import { PrismaClient } from '@prisma/client';
 import Layout from '../../components/Layout/Layout';
 
 import type { CategoryGetPayload, ProductGetPayload } from '@prisma/client';
+import categories from '../../../prisma/seed-data/categories';
+import products from '../../../prisma/seed-data/products';
 
-declare global {
-    namespace NodeJS {
-        interface Global {
-            prisma: PrismaClient;
-        }
-    }
-}
-
-interface ProductPageProps {
-    category: { createdAt: string; updatedAt: string } & Omit<
-        CategoryGetPayload<{ include: { parent: true } }>,
-        'createdAt' | 'updatedAt'
-    >;
-    product: { createdAt: string; updatedAt: string } & Omit<
-        ProductGetPayload<{ include: { brand: true; images: true; specifications: true } }>,
-        'createdAt' | 'updatedAt'
-    >;
-}
-
-const ProductPage: NextPage<ProductPageProps> = ({ category, product }) => {
+const ProductPage: NextPage = () => {
     const router = useRouter();
 
-    if (!router.isFallback && !category) {
-        return <ErrorPage statusCode={404} />;
-    }
+    const { data } = useSWR<{
+        categories: CategoryGetPayload<{ include: { parent: true } }>[];
+        products: ProductGetPayload<{ include: { images: true; specifications: true } }>[];
+    }>(
+        `query getProductAndCategory {
+            categories(where: { slug: { equals: "${router.query.category}" } }) {
+                name
+                slug
+                parent {
+                    name
+                    slug
+                }
+            }
+            products(where: { slug: { equals: "${router.query.product}" } }) {
+                name
+                description
+                images {
+                    url
+                }
+                price
+                specifications {
+                    id
+                    name
+                    value
+                }
+            }
+        }`,
+        (query) => request('/api/graphql', query),
+    );
 
-    if (router.isFallback) {
+    if (router.isFallback || !data) {
         return (
             <Layout>
                 <h2 className="font-bold text-2xl my-2">Loading...</h2>
             </Layout>
         );
     }
+
+    if (!router.isFallback && !data.categories.length && !data.products.length) {
+        return <ErrorPage statusCode={404} />;
+    }
+
+    const [category] = data.categories;
+    const [product] = data.products;
 
     return (
         <Layout>
@@ -103,59 +121,5 @@ const ProductPage: NextPage<ProductPageProps> = ({ category, product }) => {
         </Layout>
     );
 };
-
-export async function getServerSideProps({
-    params: { category: categorySlug, product: productSlug },
-}: {
-    params: { category: string; product: string };
-}) {
-    const prisma: PrismaClient = global.prisma || (global.prisma = new PrismaClient());
-    const category = await prisma.category.findOne({ where: { slug: categorySlug }, include: { parent: true } });
-    const product = await prisma.product.findOne({
-        where: { slug: productSlug },
-        include: { brand: true, images: true, specifications: true },
-    });
-
-    const parent = category.parent
-        ? {
-              parent: {
-                  ...category.parent,
-                  createdAt: category.parent.createdAt.toISOString(),
-                  updatedAt: category.parent.updatedAt.toISOString(),
-              },
-          }
-        : {};
-
-    return {
-        props: {
-            category: {
-                ...category,
-                ...parent,
-                createdAt: category.createdAt.toISOString(),
-                updatedAt: category.updatedAt.toISOString(),
-            },
-            product: {
-                ...product,
-                brand: {
-                    ...product.brand,
-                    createdAt: product.brand.createdAt.toISOString(),
-                    updatedAt: product.brand.updatedAt.toISOString(),
-                },
-                images: product.images.map((image) => ({
-                    ...image,
-                    createdAt: image.createdAt.toISOString(),
-                    updatedAt: image.updatedAt.toISOString(),
-                })),
-                specifications: product.specifications.map((specification) => ({
-                    ...specification,
-                    createdAt: specification.createdAt.toISOString(),
-                    updatedAt: specification.updatedAt.toISOString(),
-                })),
-                createdAt: product.createdAt.toISOString(),
-                updatedAt: product.updatedAt.toISOString(),
-            },
-        },
-    };
-}
 
 export default ProductPage;
